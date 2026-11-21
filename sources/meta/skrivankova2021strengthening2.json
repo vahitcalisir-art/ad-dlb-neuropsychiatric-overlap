@@ -1,0 +1,95 @@
+{
+ "author_order_note": "",
+ "DOI": "10.1136/bmj.n2233",
+ "title": "Strengthening the reporting of observational studies in epidemiology using mendelian randomisation (STROBE-MR): explanation and elaboration",
+ "container-title": "BMJ",
+ "container-title-short": "BMJ",
+ "author": [
+  {
+   "family": "Skrivankova",
+   "given": "Veronika W"
+  },
+  {
+   "family": "Richmond",
+   "given": "Rebecca C"
+  },
+  {
+   "family": "Woolf",
+   "given": "Benjamin A R"
+  },
+  {
+   "family": "Davies",
+   "given": "Neil M"
+  },
+  {
+   "family": "Swanson",
+   "given": "Sonja A"
+  },
+  {
+   "family": "VanderWeele",
+   "given": "Tyler J"
+  },
+  {
+   "family": "Timpson",
+   "given": "Nicholas J"
+  },
+  {
+   "family": "Higgins",
+   "given": "Julian P T"
+  },
+  {
+   "family": "Dimou",
+   "given": "Niki"
+  },
+  {
+   "family": "Langenberg",
+   "given": "Claudia"
+  },
+  {
+   "family": "Loder",
+   "given": "Elizabeth W"
+  },
+  {
+   "family": "Golub",
+   "given": "Robert M"
+  },
+  {
+   "family": "Egger",
+   "given": "Matthias"
+  },
+  {
+   "family": "Davey Smith",
+   "given": "George"
+  },
+  {
+   "family": "Richards",
+   "given": "J Brent"
+  }
+ ],
+ "issued": {
+  "date-parts": [
+   [
+    2021,
+    10,
+    26
+   ]
+  ]
+ },
+ "published-print": {},
+ "published-online": {
+  "date-parts": [
+   [
+    2021,
+    10,
+    26
+   ]
+  ]
+ },
+ "volume": "",
+ "issue": "",
+ "page": "n2233",
+ "article-number": "",
+ "type": "journal-article",
+ "corrections": [],
+ "verified_title_similarity": 1.0
+}

@@ -1,0 +1,59 @@
+{
+ "author_order_note": "",
+ "DOI": "10.1093/ije/dyw220",
+ "title": "Assessing the suitability of summary data for two-sample Mendelian randomization analyses using MR-Egger regression: the role of the I2 statistic",
+ "container-title": "International Journal of Epidemiology",
+ "container-title-short": "Int. J. Epidemiol.",
+ "author": [
+  {
+   "family": "Bowden",
+   "given": "Jack"
+  },
+  {
+   "family": "Del Greco M.",
+   "given": "Fabiola"
+  },
+  {
+   "family": "Minelli",
+   "given": "Cosetta"
+  },
+  {
+   "family": "Davey Smith",
+   "given": "George"
+  },
+  {
+   "family": "Sheehan",
+   "given": "Nuala A."
+  },
+  {
+   "family": "Thompson",
+   "given": "John R."
+  }
+ ],
+ "issued": {
+  "date-parts": [
+   [
+    2016,
+    9,
+    11
+   ]
+  ]
+ },
+ "published-print": {},
+ "published-online": {
+  "date-parts": [
+   [
+    2016,
+    9,
+    11
+   ]
+  ]
+ },
+ "volume": "",
+ "issue": "",
+ "page": "dyw220",
+ "article-number": "",
+ "type": "journal-article",
+ "corrections": [],
+ "verified_title_similarity": 1.0
+}

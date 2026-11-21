@@ -1,0 +1,287 @@
+{
+ "author_order_note": "",
+ "DOI": "10.1212/wnl.0000000000004058",
+ "title": "Diagnosis and management of dementia with Lewy bodies",
+ "container-title": "Neurology",
+ "container-title-short": "Neurology",
+ "author": [
+  {
+   "family": "McKeith",
+   "given": "Ian G."
+  },
+  {
+   "family": "Boeve",
+   "given": "Bradley F."
+  },
+  {
+   "family": "Dickson",
+   "given": "Dennis W."
+  },
+  {
+   "family": "Halliday",
+   "given": "Glenda"
+  },
+  {
+   "family": "Taylor",
+   "given": "John-Paul"
+  },
+  {
+   "family": "Weintraub",
+   "given": "Daniel"
+  },
+  {
+   "family": "Aarsland",
+   "given": "Dag"
+  },
+  {
+   "family": "Galvin",
+   "given": "James"
+  },
+  {
+   "family": "Attems",
+   "given": "Johannes"
+  },
+  {
+   "family": "Ballard",
+   "given": "Clive G."
+  },
+  {
+   "family": "Bayston",
+   "given": "Ashley"
+  },
+  {
+   "family": "Beach",
+   "given": "Thomas G."
+  },
+  {
+   "family": "Blanc",
+   "given": "Frédéric"
+  },
+  {
+   "family": "Bohnen",
+   "given": "Nicolaas"
+  },
+  {
+   "family": "Bonanni",
+   "given": "Laura"
+  },
+  {
+   "family": "Bras",
+   "given": "Jose"
+  },
+  {
+   "family": "Brundin",
+   "given": "Patrik"
+  },
+  {
+   "family": "Burn",
+   "given": "David"
+  },
+  {
+   "family": "Chen-Plotkin",
+   "given": "Alice"
+  },
+  {
+   "family": "Duda",
+   "given": "John E."
+  },
+  {
+   "family": "El-Agnaf",
+   "given": "Omar"
+  },
+  {
+   "family": "Feldman",
+   "given": "Howard"
+  },
+  {
+   "family": "Ferman",
+   "given": "Tanis J."
+  },
+  {
+   "family": "ffytche",
+   "given": "Dominic"
+  },
+  {
+   "family": "Fujishiro",
+   "given": "Hiroshige"
+  },
+  {
+   "family": "Galasko",
+   "given": "Douglas"
+  },
+  {
+   "family": "Goldman",
+   "given": "Jennifer G."
+  },
+  {
+   "family": "Gomperts",
+   "given": "Stephen N."
+  },
+  {
+   "family": "Graff-Radford",
+   "given": "Neill R."
+  },
+  {
+   "family": "Honig",
+   "given": "Lawrence S."
+  },
+  {
+   "family": "Iranzo",
+   "given": "Alex"
+  },
+  {
+   "family": "Kantarci",
+   "given": "Kejal"
+  },
+  {
+   "family": "Kaufer",
+   "given": "Daniel"
+  },
+  {
+   "family": "Kukull",
+   "given": "Walter"
+  },
+  {
+   "family": "Lee",
+   "given": "Virginia M.Y."
+  },
+  {
+   "family": "Leverenz",
+   "given": "James B."
+  },
+  {
+   "family": "Lewis",
+   "given": "Simon"
+  },
+  {
+   "family": "Lippa",
+   "given": "Carol"
+  },
+  {
+   "family": "Lunde",
+   "given": "Angela"
+  },
+  {
+   "family": "Masellis",
+   "given": "Mario"
+  },
+  {
+   "family": "Masliah",
+   "given": "Eliezer"
+  },
+  {
+   "family": "McLean",
+   "given": "Pamela"
+  },
+  {
+   "family": "Mollenhauer",
+   "given": "Brit"
+  },
+  {
+   "family": "Montine",
+   "given": "Thomas J."
+  },
+  {
+   "family": "Moreno",
+   "given": "Emilio"
+  },
+  {
+   "family": "Mori",
+   "given": "Etsuro"
+  },
+  {
+   "family": "Murray",
+   "given": "Melissa"
+  },
+  {
+   "family": "O'Brien",
+   "given": "John T."
+  },
+  {
+   "family": "Orimo",
+   "given": "Sotoshi"
+  },
+  {
+   "family": "Postuma",
+   "given": "Ronald B."
+  },
+  {
+   "family": "Ramaswamy",
+   "given": "Shankar"
+  },
+  {
+   "family": "Ross",
+   "given": "Owen A."
+  },
+  {
+   "family": "Salmon",
+   "given": "David P."
+  },
+  {
+   "family": "Singleton",
+   "given": "Andrew"
+  },
+  {
+   "family": "Taylor",
+   "given": "Angela"
+  },
+  {
+   "family": "Thomas",
+   "given": "Alan"
+  },
+  {
+   "family": "Tiraboschi",
+   "given": "Pietro"
+  },
+  {
+   "family": "Toledo",
+   "given": "Jon B."
+  },
+  {
+   "family": "Trojanowski",
+   "given": "John Q."
+  },
+  {
+   "family": "Tsuang",
+   "given": "Debby"
+  },
+  {
+   "family": "Walker",
+   "given": "Zuzana"
+  },
+  {
+   "family": "Yamada",
+   "given": "Masahito"
+  },
+  {
+   "family": "Kosaka",
+   "given": "Kenji"
+  }
+ ],
+ "issued": {
+  "date-parts": [
+   [
+    2017,
+    7,
+    4
+   ]
+  ]
+ },
+ "published-print": {
+  "date-parts": [
+   [
+    2017,
+    7,
+    4
+   ]
+  ]
+ },
+ "published-online": {},
+ "volume": "89",
+ "issue": "1",
+ "page": "88-100",
+ "article-number": "",
+ "type": "journal-article",
+ "corrections": [],
+ "verified_title_similarity": 1.0
+}

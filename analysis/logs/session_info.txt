@@ -1,0 +1,74 @@
+# session_info  (2026-11-20T07:29:27+03:00)
+
+## System
+OS: Ubuntu 24.04.2 LTS
+Kernel: 6.18.58.1-microsoft-standard-WSL2
+CPU cores: 12
+               total        used        free      shared  buff/cache   available
+Mem:            26Gi       814Mi        24Gi       4.2Mi       1.4Gi        25Gi
+Swap:           16Gi          0B        16Gi
+
+## Tools
+PLINK: PLINK v1.9.1 64-bit (11 Nov 2026)
+pdftotext: pdftotext version 24.02.0
+unzip: UnZip 6.00 of 20 April 2009, by Debian. Original by Info-ZIP.
+Times New Roman: 8 font files
+
+## Python (Python 3.12.3)
+certifi==2026.10.23
+charset-normalizer==3.5.2
+contourpy==1.4.0
+cycler==0.12.1
+fonttools==4.68.0
+idna==3.20
+kiwisolver==1.5.1
+lxml==6.1.3
+matplotlib==3.11.2
+numpy==2.5.5
+packaging==26.3
+pandas==3.1.1
+pillow==13.0.0
+pyparsing==3.3.3
+pypdf==7.1.1
+python-dateutil==4.0.0
+python-docx==1.2.0
+requests==2.34.2
+typing_extensions==4.16.0
+tzdata==2026.6
+urllib3==2.8.0
+
+## R
+GenomicSEM   0.0.5
+LAVA         0.1.5
+MRlap        0.0.3.3
+MRPRESSO     1.0
+TwoSampleMR  0.7.14
+ieugwasr     1.2.1
+coloc        5.2.3
+data.table   1.18.6.1
+jsonlite     2.0.0
+remotes      2.5.0
+simex        1.8
+
+R version 4.3.3 (2024-02-29)
+Platform: x86_64-pc-linux-gnu (64-bit)
+Running under: Ubuntu 24.04.2 LTS
+
+Matrix products: default
+BLAS:   /usr/lib/x86_64-linux-gnu/blas/libblas.so.3.12.0 
+LAPACK: /usr/lib/x86_64-linux-gnu/lapack/liblapack.so.3.12.0
+
+locale:
+ [1] LC_CTYPE=C.UTF-8       LC_NUMERIC=C           LC_TIME=C.UTF-8       
+ [4] LC_COLLATE=C.UTF-8     LC_MONETARY=C.UTF-8    LC_MESSAGES=C.UTF-8   
+ [7] LC_PAPER=C.UTF-8       LC_NAME=C              LC_ADDRESS=C          
+[10] LC_TELEPHONE=C         LC_MEASUREMENT=C.UTF-8 LC_IDENTIFICATION=C   
+
+time zone: Europe/Istanbul
+tzcode source: system (glibc)
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+loaded via a namespace (and not attached):
+[1] compiler_4.3.3

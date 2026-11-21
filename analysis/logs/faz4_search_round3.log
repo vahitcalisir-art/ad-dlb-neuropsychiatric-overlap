@@ -1,0 +1,26 @@
+== [5] TITLE:"mendelian randomization" AND TITLE:depress* AND (TITLE:alzheimer* OR TITLE:dementia)
+3 aday eklendi. Toplam kayıt: 163
+== [6] (TITLE:"genetic correlation" OR TITLE:"genetic overlap" OR TITLE:"shared genetic") AND TITLE:alzheimer* AND (TITLE:psychiatric OR TITLE:depress* OR TITLE:schizophrenia OR TITLE:"post-traumatic stress" OR TITLE:PTSD)
+6 aday eklendi. Toplam kayıt: 169
+== [4] TITLE:"local genetic correlation" AND (alzheimer* OR dementia OR psychiatric)
+4 aday eklendi. Toplam kayıt: 173
+== [3] (TITLE:PTSD OR TITLE:"post-traumatic stress" OR TITLE:"posttraumatic stress") AND (TITLE:dementia OR TITLE:alzheimer*)
+3 aday eklendi. Toplam kayıt: 176
+== [3] TITLE:insomnia AND (TITLE:alzheimer* OR TITLE:dementia) AND (genetic OR "mendelian randomization")
+3 aday eklendi. Toplam kayıt: 179
+== [4] TITLE:lewy AND (TITLE:depress* OR TITLE:psychiatric OR TITLE:schizophrenia OR TITLE:"genetic correlation" OR TITLE:"mendelian randomization")
+4 aday eklendi. Toplam kayıt: 183
+== [3] (TITLE:APOE OR TITLE:"apolipoprotein E") AND (TITLE:depress* OR TITLE:neuropsychiatric OR TITLE:psychosis)
+3 aday eklendi. Toplam kayıt: 186
+== [2] TITLE:"posttraumatic stress disorder" AND TITLE:"World Mental Health"
+2 aday eklendi. Toplam kayıt: 188
+== [2] TITLE:"major depressive" AND (TITLE:"cross-national" OR TITLE:"World Mental Health")
+2 aday eklendi. Toplam kayıt: 190
+== [1] TITLE:insomnia AND TITLE:epidemiology AND TITLE:"what we know"
+0 aday eklendi. Toplam kayıt: 190
+== [2] TITLE:"prevalence of schizophrenia" AND TITLE:"systematic review"
+2 aday eklendi. Toplam kayıt: 192
+{
+ "CANDIDATE": 85,
+ "DROP": 107
+}

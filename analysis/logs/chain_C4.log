@@ -1,0 +1,13 @@
+== 03_lava_ukb_update_insomnia start Fri Nov 20 17:15:07 +03 2026
+== 03_lava_ukb_update_insomnia exit=0 Fri Nov 20 19:59:01 +03 2026
+2026-11-20 19:59:00 BİTTİ 
+== 03_lava_g1000 start Fri Nov 20 19:59:01 +03 2026
+== 03_lava_g1000 exit=0 Fri Nov 20 22:28:33 +03 2026
+2026-11-20 22:28:31 BİTTİ 
+== 03_lava_ukb_strandcheck start Fri Nov 20 22:28:33 +03 2026
+== 03_lava_ukb_strandcheck exit=0 Fri Nov 20 22:40:13 +03 2026
+2026-11-20 22:33:29 strandcheck: anlamlı lokus-çifti: 84 lokus: 63 
+2026-11-20 22:40:12 strandcheck değişen: 1 
+2026-11-20 22:40:12 STRAND_CHECK_CHANGE 
+2026-11-20 22:40:12 BİTTİ 
+CHAIN4 ALL DONE Fri Nov 20 22:40:13 +03 2026

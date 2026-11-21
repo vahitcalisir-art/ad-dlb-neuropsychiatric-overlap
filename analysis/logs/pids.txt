@@ -1,0 +1,37 @@
+# arka plan süreçleri (durdurma yalnız: kill <PID>; pkill/killall kullanılmaz)
+2026-11-20 13:48 chain2.sh (C2 zinciri: LDSC, MR uykusuzluk, LAVA ukb update, LAVA g1000) bash PID 242061 (üst 242055)
+2026-11-20 13:48 04_mr.R insomnia (chain2 alt süreci) PID 282706
+2026-11-20 14:06 chain3.sh (strandcheck bekleyici) PID 286227
+2026-11-20 17:15 chain4.sh (LAVA update -> g1000 -> strandcheck; snapshot runsnap/20261120_1715) bash PID 546
+2026-11-20 17:15 03_lava.R ukb update insomnia (chain4) PID 552
+2026-11-20 19:59 03_lava.R g1000 (chain4) PID 21330
+2026-11-20 22:28 03_lava.R ukb strandcheck (chain4) PID 24023
+2026-11-21 01:52 03_lava.R ukb seedcheck (snapshot runsnap/20261121_0152_seed) PID 2745
+2026-11-21 01:52 05_mr_sensitivity.R (snapshot runsnap/20261121_0152_mr05) PID 2798
+2026-11-21 02:35 05_mr_sensitivity.R (snapshot runsnap/20261121_0235_mr05) PID 67998
+2026-11-21 03:17 chain5.sh (seeded LAVA rerun; snapshot runsnap/20261121_0317_seeded) bash PID 485
+2026-11-21 03:17 03_lava.R ukb (chain5) PID 496
+2026-11-21 05:53 03b_lava_seeded_compare.R  (chain5) PID 3263
+2026-11-21 05:53 03_lava.R ukb strandcheck (chain5) PID 3280
+2026-11-21 06:06 03_lava.R g1000 (chain5) PID 3606
+2026-11-21 14:36 06_coloc.R  (chain5) PID 52455
+2026-11-21 14:36 06b_power_summary.R  (chain5) PID 52473
+2026-11-21 14:36 06c_lava_reference_diagnostic.R  (chain5) PID 52499
+2026-11-21 14:36 07_figures.R  (chain5) PID 52524
+2026-11-21 14:38 chain6.sh (g1000 rescue; snapshot runsnap/20261121_1438_rescue) bash PID 547
+2026-11-21 14:38 03_lava.R g1000 rescue (chain6) PID 555
+2026-11-21 14:44 killed chain6 bash 547, R 555 and workers 889-894 (too much memory with 6 workers; restarting with 4)
+2026-11-21 14:44 chain6.sh (g1000 rescue; snapshot runsnap/20261121_1444_rescue) bash PID 1025
+2026-11-21 14:44 03_lava.R g1000 rescue (chain6) PID 1033
+2026-11-21 18:07 06_coloc.R  (chain6) PID 16334
+2026-11-21 18:07 06b_power_summary.R  (chain6) PID 16353
+2026-11-21 18:07 06c_lava_reference_diagnostic.R  (chain6) PID 16380
+2026-11-21 18:07 07_figures.R  (chain6) PID 16412
+2026-11-21 18:07 05_mr_sensitivity.R --skip-mrlap (chain6) PID 16444
+2026-11-21 18:07 05b_ptsd_ad_finngen.R  (chain6) PID 16467
+2026-11-21 19:03 gate3.sh (tree /home/user/q1paper_gate3; snapshot runsnap/gate3_20261121_1903) bash PID 3771
+2026-11-21 19:03 01_munge.R  (gate3) PID 3804
+2026-11-21 19:22 02_ldsc.R  (gate3) PID 7670
+2026-11-21 19:32 03_lava.R ukb (gate3) PID 51249
+2026-11-21 19:39 05c_steiger_prevalence.R PID 54210
+2026-11-21 19:39 05c_steiger_prevalence.R (retry) PID 54256

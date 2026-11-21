@@ -1,0 +1,111 @@
+2026-11-21 14:36:48 LDSC primary pairs: 8 
+       ref dementia psychiatric loci_analysed loci_univ_dementia
+    <char>   <char>      <char>         <int>              <int>
+ 1:    ukb       ad    insomnia          2431                 56
+ 2:    ukb       ad         mdd          2431                 56
+ 3:    ukb       ad        ptsd          2431                 56
+ 4:    ukb       ad         scz          2431                 56
+ 5:    ukb      dlb    insomnia          2431                  8
+ 6:    ukb      dlb         mdd          2431                  8
+ 7:    ukb      dlb        ptsd          2431                  8
+ 8:    ukb      dlb         scz          2431                  8
+ 9:  g1000       ad    insomnia           415                 35
+10:  g1000       ad         mdd           415                 35
+11:  g1000       ad        ptsd           415                 35
+12:  g1000       ad         scz           415                 35
+13:  g1000      dlb    insomnia           415                 20
+14:  g1000      dlb         mdd           415                 20
+15:  g1000      dlb        ptsd           415                 20
+16:  g1000      dlb         scz           415                 20
+    loci_univ_psychiatric loci_testable loci_nominal_p05 expected_nominal
+                    <int>         <int>            <int>            <num>
+ 1:                     4             0                0             0.00
+ 2:                   347             8                4             0.40
+ 3:                   105             3                1             0.15
+ 4:                   260             9                3             0.45
+ 5:                     4             0                0             0.00
+ 6:                   347             2                0             0.10
+ 7:                   105             0                0             0.00
+ 8:                   260             1                0             0.05
+ 9:                    23             4                0             0.20
+10:                    99            13                2             0.65
+11:                    43             8                3             0.40
+12:                   110            14                2             0.70
+13:                    23             2                0             0.10
+14:                    99             9                1             0.45
+15:                    43             4                0             0.20
+16:                   110             7                1             0.35
+    loci_fdr05
+         <int>
+ 1:          0
+ 2:          0
+ 3:          0
+ 4:          0
+ 5:          0
+ 6:          0
+ 7:          0
+ 8:          0
+ 9:          0
+10:          1
+11:          2
+12:          2
+13:          0
+14:          0
+15:          0
+16:          0
+      dem    psy testable nominal expected nominal_pos nominal_neg
+   <char> <char>    <int>   <int>    <num>       <int>       <int>
+1:     ad    scz        9       3     0.45           3           0
+2:    dlb    mdd        2       0     0.10           0           0
+3:    dlb    scz        1       0     0.05           0           0
+4:     ad    mdd        8       4     0.40           2           2
+5:     ad   ptsd        3       1     0.15           0           1
+   testable_noapoe nominal_noapoe expected_noapoe   fdr
+             <int>          <int>           <num> <int>
+1:               9              3            0.45     0
+2:               2              0            0.10     0
+3:               1              0            0.05     0
+4:               7              4            0.35     0
+5:               3              1            0.15     0
+      dem    psy   LOC   CHR    START     STOP   rho      p apoe_region
+   <char> <char> <int> <int>    <int>    <int> <num>  <num>      <lgcl>
+1:     ad    mdd   942     6 18775023 19449152  0.60 0.0120       FALSE
+2:     ad    mdd  1658    11 46316006 48066366  0.48 0.0210       FALSE
+3:     ad    mdd  2206    17 42348004 43460500 -0.58 0.0055       FALSE
+4:     ad    mdd  2207    17 43460501 44865832 -0.56 0.0180       FALSE
+5:     ad   ptsd  2207    17 43460501 44865832 -0.54 0.0230       FALSE
+6:     ad    scz  1658    11 46316006 48066366  0.34 0.0490       FALSE
+7:     ad    scz  2128    16 29043178 31384210  0.42 0.0360       FALSE
+8:     ad    scz  2207    17 43460501 44865832  0.51 0.0180       FALSE
+                                                          genes
+                                                         <char>
+1:                                                             
+2: CREB3L1, DGKZ, MDK, CHRM4, AMBRA1, HARBI1, ATG13, ARHGAP1, Z
+3: AC003043.1, RUNDC3A, SLC25A39, GRN, FAM171A2, ITGA2B, GPATCH
+4: ARHGAP27, PLEKHM1, CRHR1, SPPL2C, MAPT, STH, KANSL1, ARL17B,
+5: ARHGAP27, PLEKHM1, CRHR1, SPPL2C, MAPT, STH, KANSL1, ARL17B,
+6: CREB3L1, DGKZ, MDK, CHRM4, AMBRA1, HARBI1, ATG13, ARHGAP1, Z
+7: CTB-134H23.2, NPIPB11, RP11-345J4.5, BOLA2, SLX1B, SULT1A4, 
+8: ARHGAP27, PLEKHM1, CRHR1, SPPL2C, MAPT, STH, KANSL1, ARL17B,
+Key: <dem, psy, LOC>
+      dem    psy   LOC   CHR rho_ukb rho_g1000 p_g1000 sign_same
+   <char> <char> <int> <int>   <num>     <num>   <num>    <lgcl>
+1:     ad    mdd   942     6    0.60        NA      NA        NA
+2:     ad    mdd  1658    11    0.48        NA      NA        NA
+3:     ad    mdd  2206    17   -0.58        NA      NA        NA
+4:     ad    mdd  2207    17   -0.56        NA      NA        NA
+5:     ad   ptsd  2207    17   -0.54        NA      NA        NA
+6:     ad    scz  1658    11    0.34        NA      NA        NA
+7:     ad    scz  2128    16    0.42        NA      NA        NA
+8:     ad    scz  2207    17    0.51        NA      NA        NA
+   g1000_within_ukb_ci reference_sensitive
+                <lgcl>              <lgcl>
+1:                  NA                TRUE
+2:                  NA                TRUE
+3:                  NA                TRUE
+4:                  NA                TRUE
+5:                  NA                TRUE
+6:                  NA                TRUE
+7:                  NA                TRUE
+8:                  NA                TRUE
+2026-11-21 14:36:54 BİTTİ 

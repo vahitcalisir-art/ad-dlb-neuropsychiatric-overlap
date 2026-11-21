@@ -1,0 +1,7 @@
+== 01_munge start Sat Nov 21 19:03:26 +03 2026
+== 01_munge exit=0 Sat Nov 21 19:22:49 +03 2026  mem: 3339MB swap 0MB 
+BİTTİ 2026-11-21 19:22:47 
+== 02_ldsc start Sat Nov 21 19:22:49 +03 2026
+== 02_ldsc exit=0 Sat Nov 21 19:32:48 +03 2026  mem: 2764MB swap 0MB 
+2026-11-21 19:32:48 BİTTİ 
+== 03_lava_ukb start Sat Nov 21 19:32:48 +03 2026

@@ -1,0 +1,115 @@
+{
+ "author_order_note": "",
+ "DOI": "10.7554/elife.34408",
+ "title": "The MR-Base platform supports systematic causal inference across the human phenome",
+ "container-title": "eLife",
+ "container-title-short": "",
+ "author": [
+  {
+   "family": "Hemani",
+   "given": "Gibran"
+  },
+  {
+   "family": "Zheng",
+   "given": "Jie"
+  },
+  {
+   "family": "Elsworth",
+   "given": "Benjamin"
+  },
+  {
+   "family": "Wade",
+   "given": "Kaitlin H"
+  },
+  {
+   "family": "Haberland",
+   "given": "Valeriia"
+  },
+  {
+   "family": "Baird",
+   "given": "Denis"
+  },
+  {
+   "family": "Laurin",
+   "given": "Charles"
+  },
+  {
+   "family": "Burgess",
+   "given": "Stephen"
+  },
+  {
+   "family": "Bowden",
+   "given": "Jack"
+  },
+  {
+   "family": "Langdon",
+   "given": "Ryan"
+  },
+  {
+   "family": "Tan",
+   "given": "Vanessa Y"
+  },
+  {
+   "family": "Yarmolinsky",
+   "given": "James"
+  },
+  {
+   "family": "Shihab",
+   "given": "Hashem A"
+  },
+  {
+   "family": "Timpson",
+   "given": "Nicholas J"
+  },
+  {
+   "family": "Evans",
+   "given": "David M"
+  },
+  {
+   "family": "Relton",
+   "given": "Caroline"
+  },
+  {
+   "family": "Martin",
+   "given": "Richard M"
+  },
+  {
+   "family": "Davey Smith",
+   "given": "George"
+  },
+  {
+   "family": "Gaunt",
+   "given": "Tom R"
+  },
+  {
+   "family": "Haycock",
+   "given": "Philip C"
+  }
+ ],
+ "issued": {
+  "date-parts": [
+   [
+    2018,
+    5,
+    30
+   ]
+  ]
+ },
+ "published-print": {},
+ "published-online": {
+  "date-parts": [
+   [
+    2018,
+    5,
+    30
+   ]
+  ]
+ },
+ "volume": "7",
+ "issue": "",
+ "page": "",
+ "article-number": "e34408",
+ "type": "journal-article",
+ "corrections": [],
+ "verified_title_similarity": 1.0
+}

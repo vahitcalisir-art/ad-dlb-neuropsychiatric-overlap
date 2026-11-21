@@ -1,0 +1,58 @@
+2026-11-20 08:19:44 referans okunuyor
+referans SNP: 9997231  (çok alelli/tekrar konum: 0 )
+
+== finngen_ad 2026-11-20 08:23:19 
+finngen: birden çok rsID içeren satır: 0 
+                   id              build_in                 start 
+         "finngen_ad"              "GRCh38"            "21327043" 
+     p_underflow_zero               no_rsid         non_autosomal 
+                 "33"              "893606"              "838352" 
+          rsid_in_ref       allele_mismatch pos_discordant_grch37 
+            "9307849"               "25232"                    NA 
+               mapped                   maf        info_available 
+            "9282616"             "7784235"               "FALSE" 
+                 info           palindromic                   mhc 
+            "7784235"             "7672240"             "7627249" 
+         multiallelic multiallelic_ldsc_set 
+            "7672240"             "7627249" 
+                   id                  af_n            af_cor_ref 
+         "finngen_ad"             "7672240"              "0.9623" 
+    af_absdiff_gt_0.2 af_absdiff_gt_0.2_pct           maf_cor_ref 
+               "3266"               "0.043"                    NA 
+            lambda_gc    lambda_gc_ldsc_set      p_vs_z_cor_log10 
+              "1.159"              "1.1546"                   "1" 
+            n_gws_5e8        declared_ncase     declared_ncontrol 
+               "3772"               "16652"              "483534" 
+            max_ncase          max_ncontrol              neff_min 
+              "16652"              "483534"               "64391" 
+          neff_median              neff_max  neff_lt_half_max_pct 
+              "64391"               "64391"                   "0" 
+           se_missing 
+                  "0" 
+
+BİTTİ 2026-11-20 08:32:49 
+R version 4.3.3 (2024-02-29)
+Platform: x86_64-pc-linux-gnu (64-bit)
+Running under: Ubuntu 24.04.2 LTS
+
+Matrix products: default
+BLAS:   /usr/lib/x86_64-linux-gnu/blas/libblas.so.3.12.0 
+LAPACK: /usr/lib/x86_64-linux-gnu/lapack/liblapack.so.3.12.0
+
+locale:
+ [1] LC_CTYPE=C.UTF-8       LC_NUMERIC=C           LC_TIME=C.UTF-8       
+ [4] LC_COLLATE=C.UTF-8     LC_MONETARY=C.UTF-8    LC_MESSAGES=C.UTF-8   
+ [7] LC_PAPER=C.UTF-8       LC_NAME=C              LC_ADDRESS=C          
+[10] LC_TELEPHONE=C         LC_MEASUREMENT=C.UTF-8 LC_IDENTIFICATION=C   
+
+time zone: Europe/Istanbul
+tzcode source: system (glibc)
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] data.table_1.18.6.1
+
+loaded via a namespace (and not attached):
+[1] compiler_4.3.3 parallel_4.3.3

@@ -1,0 +1,26 @@
+{
+ "type": "software-documentation",
+ "title": "LAVA software documentation (GitHub README, v0.1.5 note)",
+ "author": [
+  {
+   "family": "Werme",
+   "given": "J"
+  },
+  {
+   "family": "de Leeuw",
+   "given": "C A"
+  }
+ ],
+ "issued": {
+  "date-parts": [
+   [
+    2025
+   ]
+  ]
+ },
+ "URL": "https://github.com/josefin-werme/LAVA",
+ "commit": "e729a245f7b6923967a96804fbf5246eadf2d6c6",
+ "commit_date": "2026-07-28T21:56:42Z",
+ "accessed": "2026-11-21",
+ "container-title": "GitHub repository josefin-werme/LAVA"
+}

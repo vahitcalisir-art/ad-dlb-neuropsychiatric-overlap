@@ -1,0 +1,48 @@
+== [4] "mendelian randomization" AND (depression OR "depressive disorder") AND Alzheimer*
+4 aday eklendi. Toplam kayıt: 108
+== [4] "genetic correlation" AND (psychiatric OR depression OR schizophrenia) AND Alzheimer*
+4 aday eklendi. Toplam kayıt: 112
+== [4] "mendelian randomization" AND (PTSD OR "post-traumatic stress" OR insomnia OR schizophrenia) AND (Alzheimer* OR dementia)
+4 aday eklendi. Toplam kayıt: 116
+== [3] "neuropsychiatric symptoms" AND (dementia OR "Alzheimer") AND prevalence AND "meta-analysis"
+3 aday eklendi. Toplam kayıt: 119
+== [3] "neuropsychiatric symptoms" AND "mild cognitive impairment" AND (progression OR conversion) AND dementia
+3 aday eklendi. Toplam kayıt: 122
+== [2] "mild behavioral impairment" AND (criteria OR checklist)
+2 aday eklendi. Toplam kayıt: 124
+== [3] depression AND "risk of dementia" AND "meta-analysis"
+3 aday eklendi. Toplam kayıt: 127
+== [2] ("post-traumatic stress" OR PTSD) AND dementia AND "meta-analysis"
+2 aday eklendi. Toplam kayıt: 129
+== [2] (insomnia OR "sleep disturbance") AND (dementia OR Alzheimer*) AND "meta-analysis"
+2 aday eklendi. Toplam kayıt: 131
+== [2] schizophrenia AND dementia AND risk AND "meta-analysis"
+2 aday eklendi. Toplam kayıt: 133
+== [3] (APOE OR "apolipoprotein E") AND (e4 OR epsilon4 OR ε4) AND depression AND (meta-analysis OR cohort)
+3 aday eklendi. Toplam kayıt: 136
+== [2] (APOE OR "apolipoprotein E") AND psychosis AND "Alzheimer"
+2 aday eklendi. Toplam kayıt: 138
+== [3] "dementia with Lewy bodies" AND (consortium OR criteria) AND (diagnosis OR prodromal)
+3 aday eklendi. Toplam kayıt: 141
+== [2] ("Lewy body dementia" OR "dementia with Lewy bodies") AND ("genome-wide association" OR GWAS)
+2 aday eklendi. Toplam kayıt: 143
+== [3] (proxy OR "parental history" OR GWAX) AND "Alzheimer" AND ("genome-wide association" OR GWAS)
+3 aday eklendi. Toplam kayıt: 146
+== [2] "LD score regression" AND (population OR ancestry) AND (mismatch OR "reference panel")
+2 aday eklendi. Toplam kayıt: 148
+== [2] dementia AND prevalence AND "Global Burden of Disease"
+2 aday eklendi. Toplam kayıt: 150
+== [2] "major depressive disorder" AND "lifetime prevalence" AND (cross-national OR "World Mental Health")
+2 aday eklendi. Toplam kayıt: 152
+== [2] (PTSD OR "posttraumatic stress disorder") AND "World Mental Health" AND (prevalence OR epidemiology)
+2 aday eklendi. Toplam kayıt: 154
+== [2] insomnia AND epidemiology AND prevalence AND (review OR "general population")
+2 aday eklendi. Toplam kayıt: 156
+== [2] schizophrenia AND prevalence AND "systematic review"
+2 aday eklendi. Toplam kayıt: 158
+== [2] "dementia with Lewy bodies" AND (prevalence OR incidence) AND "systematic review"
+2 aday eklendi. Toplam kayıt: 160
+{
+ "CANDIDATE": 97,
+ "DROP": 63
+}

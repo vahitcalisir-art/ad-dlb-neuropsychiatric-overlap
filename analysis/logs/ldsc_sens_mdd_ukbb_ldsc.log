@@ -1,0 +1,78 @@
+Multivariate ld-score regression of 3 traits (/home/user/q1paper/data/ldsc_sumstats/ad.sumstats.gz /home/user/q1paper/data/ldsc_sumstats/dlb.sumstats.gz /home/user/q1paper/data/ldsc_sumstats/mdd_ukbb.sumstats.gz) began at: 2026-11-20 13:46:32.776848
+Reading in LD scores
+Read in summary statistics [1/3] from: /home/user/q1paper/data/ldsc_sumstats/ad.sumstats.gz
+Out of 1158088 SNPs, 1158088 remain after merging with LD-score files
+Removing 1 SNPs with Chi^2 > 283.145347842408; 1158087 remain
+Read in summary statistics [2/3] from: /home/user/q1paper/data/ldsc_sumstats/dlb.sumstats.gz
+Out of 1064874 SNPs, 1064874 remain after merging with LD-score files
+Removing 2 SNPs with Chi^2 > 80; 1064872 remain
+Read in summary statistics [3/3] from: /home/user/q1paper/data/ldsc_sumstats/mdd_ukbb.sumstats.gz
+Out of 1092724 SNPs, 1092724 remain after merging with LD-score files
+Removing 0 SNPs with Chi^2 > 1152.65046; 1092724 remain
+          
+Estimating heritability [1/6] for: /home/user/q1paper/data/ldsc_sumstats/ad.sumstats.gz
+Heritability Results for trait: /home/user/q1paper/data/ldsc_sumstats/ad.sumstats.gz
+Mean Chi^2 across remaining SNPs: 1.2761
+Lambda GC: 1.2091
+Intercept: 1.1069 (0.0197)
+Ratio: 0.3871 (0.0713)
+Total Observed Scale h2: 0.0259 (0.0036)
+h2 Z: 7.28
+     
+Calculating genetic covariance [2/6] for traits: /home/user/q1paper/data/ldsc_sumstats/ad.sumstats.gz and /home/user/q1paper/data/ldsc_sumstats/dlb.sumstats.gz
+1060865 SNPs remain after merging /home/user/q1paper/data/ldsc_sumstats/ad.sumstats.gz and /home/user/q1paper/data/ldsc_sumstats/dlb.sumstats.gz summary statistics
+Results for genetic covariance between: /home/user/q1paper/data/ldsc_sumstats/ad.sumstats.gz and /home/user/q1paper/data/ldsc_sumstats/dlb.sumstats.gz
+Mean Z*Z: 0.0438
+Cross trait Intercept: 0.0135 (0.0067)
+Total Observed Scale Genetic Covariance (g_cov): 0.0324 (0.0091)
+g_cov Z: 3.54
+g_cov P-value: 0.00039454
+     
+Calculating genetic covariance [3/6] for traits: /home/user/q1paper/data/ldsc_sumstats/ad.sumstats.gz and /home/user/q1paper/data/ldsc_sumstats/mdd_ukbb.sumstats.gz
+1077058 SNPs remain after merging /home/user/q1paper/data/ldsc_sumstats/ad.sumstats.gz and /home/user/q1paper/data/ldsc_sumstats/mdd_ukbb.sumstats.gz summary statistics
+Results for genetic covariance between: /home/user/q1paper/data/ldsc_sumstats/ad.sumstats.gz and /home/user/q1paper/data/ldsc_sumstats/mdd_ukbb.sumstats.gz
+Mean Z*Z: 0.0076
+Cross trait Intercept: 0.0134 (0.0066)
+Total Observed Scale Genetic Covariance (g_cov): -8e-04 (0.001)
+g_cov Z: -0.75
+g_cov P-value: 0.45334
+          
+Estimating heritability [4/6] for: /home/user/q1paper/data/ldsc_sumstats/dlb.sumstats.gz
+Heritability Results for trait: /home/user/q1paper/data/ldsc_sumstats/dlb.sumstats.gz
+Mean Chi^2 across remaining SNPs: 1.0237
+Lambda GC: 1.0213
+Intercept: 1.0055 (0.0067)
+Ratio: 0.2305 (0.2816)
+Total Observed Scale h2: 0.0963 (0.064)
+h2 Z: 1.5
+     
+Calculating genetic covariance [5/6] for traits: /home/user/q1paper/data/ldsc_sumstats/dlb.sumstats.gz and /home/user/q1paper/data/ldsc_sumstats/mdd_ukbb.sumstats.gz
+995998 SNPs remain after merging /home/user/q1paper/data/ldsc_sumstats/dlb.sumstats.gz and /home/user/q1paper/data/ldsc_sumstats/mdd_ukbb.sumstats.gz summary statistics
+Results for genetic covariance between: /home/user/q1paper/data/ldsc_sumstats/dlb.sumstats.gz and /home/user/q1paper/data/ldsc_sumstats/mdd_ukbb.sumstats.gz
+Mean Z*Z: 0.0171
+Cross trait Intercept: -0.0059 (0.0063)
+Total Observed Scale Genetic Covariance (g_cov): 0.0131 (0.0062)
+g_cov Z: 2.11
+g_cov P-value: 0.034953
+          
+Estimating heritability [6/6] for: /home/user/q1paper/data/ldsc_sumstats/mdd_ukbb.sumstats.gz
+Heritability Results for trait: /home/user/q1paper/data/ldsc_sumstats/mdd_ukbb.sumstats.gz
+Mean Chi^2 across remaining SNPs: 2.2035
+Lambda GC: 1.8609
+Intercept: 1.1593 (0.0167)
+Ratio: 0.1324 (0.0139)
+Total Observed Scale h2: 0.0426 (0.0016)
+h2 Z: 27
+     
+      
+Genetic Correlation Results
+Genetic Correlation between ad and dlb: 0.6489 (0.1831)
+     
+Genetic Correlation between ad and mdd_ukbb: -0.0236 (0.0315)
+     
+Genetic Correlation between dlb and mdd_ukbb: 0.2048 (0.0971)
+     
+     
+LDSC finished running at 2026-11-20 13:46:50.140914
+Running LDSC for all files took 0 minutes and 17 seconds
+     

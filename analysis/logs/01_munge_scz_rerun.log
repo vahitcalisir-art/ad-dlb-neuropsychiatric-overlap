@@ -1,0 +1,57 @@
+2026-11-20 07:52:13 referans okunuyor
+referans SNP: 9997231  (çok alelli/tekrar konum: 0 )
+
+== scz 2026-11-20 07:53:06 
+                   id              build_in                 start 
+                "scz"              "GRCh37"             "7659767" 
+     p_underflow_zero               no_rsid         non_autosomal 
+                  "0"               "21019"                   "0" 
+          rsid_in_ref       allele_mismatch pos_discordant_grch37 
+            "7516172"                  "30"                   "1" 
+               mapped                   maf        info_available 
+            "7516142"             "7516142"                "TRUE" 
+                 info           palindromic                   mhc 
+            "6328781"             "6228847"             "6189233" 
+         multiallelic multiallelic_ldsc_set 
+            "6228847"             "6189233" 
+                   id                  af_n            af_cor_ref 
+                "scz"             "6228847"              "0.9946" 
+    af_absdiff_gt_0.2 af_absdiff_gt_0.2_pct           maf_cor_ref 
+                "149"               "0.002"                    NA 
+            lambda_gc    lambda_gc_ldsc_set      p_vs_z_cor_log10 
+             "1.6996"              "1.6864"                   "1" 
+            n_gws_5e8        declared_ncase     declared_ncontrol 
+              "19126"               "52017"               "75889" 
+            max_ncase          max_ncontrol              neff_min 
+              "53386"               "77258"               "63142" 
+          neff_median              neff_max  neff_lt_half_max_pct 
+             "117498"              "117498"                   "0" 
+           se_missing 
+                  "0" 
+
+BİTTİ 2026-11-20 07:54:27 
+R version 4.3.3 (2024-02-29)
+Platform: x86_64-pc-linux-gnu (64-bit)
+Running under: Ubuntu 24.04.2 LTS
+
+Matrix products: default
+BLAS:   /usr/lib/x86_64-linux-gnu/blas/libblas.so.3.12.0 
+LAPACK: /usr/lib/x86_64-linux-gnu/lapack/liblapack.so.3.12.0
+
+locale:
+ [1] LC_CTYPE=C.UTF-8       LC_NUMERIC=C           LC_TIME=C.UTF-8       
+ [4] LC_COLLATE=C.UTF-8     LC_MONETARY=C.UTF-8    LC_MESSAGES=C.UTF-8   
+ [7] LC_PAPER=C.UTF-8       LC_NAME=C              LC_ADDRESS=C          
+[10] LC_TELEPHONE=C         LC_MEASUREMENT=C.UTF-8 LC_IDENTIFICATION=C   
+
+time zone: Europe/Istanbul
+tzcode source: system (glibc)
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] data.table_1.18.6.1
+
+loaded via a namespace (and not attached):
+[1] compiler_4.3.3 parallel_4.3.3

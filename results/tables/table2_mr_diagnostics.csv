@@ -1,0 +1,17 @@
+Direction,Instruments (n),Mean F,Steiger removed (n),I²GX,Cochran Q P,MR-Egger intercept P,MR-PRESSO global P,MRlap beta (P),Min. detectable OR,Class
+Insomnia → AD,12,41.8,0,0.79,0.18,0.97 (SIMEX),0.21,-0.066 (0.40),1.30,no evidence
+MDD → AD,135,42.8,8,0.50,0.018,0.39 (SIMEX),0.018,0.006 (0.88),1.14,no evidence
+PTSD → AD,25,39.8,2,0.39,0.43,0.019 (SIMEX),0.45,-0.098 (0.22),1.25,evidence sensitive to pleiotropy
+SCZ → AD,150,44.6,0,0.61,9.1 × 10⁻¹⁵,0.28 (SIMEX),<1 × 10⁻⁴,0.024 (0.096),1.05,no evidence
+Insomnia → DLB,8,37.0,4,0.00,0.96,0.47 (SIMEX),0.96,0.821 (0.11),9.90,no evidence
+MDD → DLB,53,43.5,79,0.58,>0.99,0.75 (SIMEX),>0.99,-0.047 (0.81),4.15,no evidence
+PTSD → DLB,13,40.8,11,0.67,>0.99,0.78 (SIMEX),>0.99,0.011 (0.98),7.49,no evidence
+SCZ → DLB,119,45.5,21,0.55,>0.99,0.75 (SIMEX),>0.99,0.053 (0.47),1.39,no evidence
+AD → Insomnia,49,72.2,0,0.95,0.0024,0.034,0.0039,-0.044 (0.025),1.09,no evidence
+AD → MDD,50,88.7,0,0.97,0.0041,0.16,0.0045,0.004 (0.71),1.05,no evidence
+AD → PTSD,45,77.3,0,0.95,0.023,0.42,0.025,0.003 (0.84),1.08,no evidence
+AD → SCZ,46,90.0,1,0.97,9.4 × 10⁻⁹,0.96,<1 × 10⁻⁴,0.013 (0.81),1.14,no evidence
+DLB → Insomnia,3,117.7,0,0.98,4.6 × 10⁻⁶,0.51,not estimable,-0.020 (0.79),1.04,no evidence
+DLB → MDD,4,96.9,0,0.98,0.36,0.40,0.46,0.001 (0.86),1.02,no evidence
+DLB → PTSD,3,35.6,0,0.00,0.71,0.47 (SIMEX),not estimable,0.005 (0.79),1.07,no evidence
+DLB → SCZ,4,96.9,0,0.98,0.0080,0.78,0.14,0.015 (0.76),1.07,no evidence

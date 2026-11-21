@@ -1,0 +1,10 @@
+      family tests_old tests_new only_old only_new fdr_old fdr_new nominal_old
+      <char>     <int>     <int>    <int>    <int>   <int>   <int>       <int>
+1:   primary        23        23        0        0       0       0           8
+2: secondary       183       183        1        1      84      84          99
+   nominal_new sign_changes sig_changes max_abs_rho_diff median_rel_p_diff
+         <int>        <int>       <int>            <num>             <num>
+1:           8            0           0                0       0.004025428
+2:         100            0           0                0       0.009957169
+2026-11-21 05:53:10 seeded primary FDR: 0  secondary FDR unseeded/seeded: 84 84 
+2026-11-21 05:53:10 BİTTİ 

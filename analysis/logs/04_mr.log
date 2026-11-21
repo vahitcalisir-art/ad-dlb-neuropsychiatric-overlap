@@ -1,0 +1,148 @@
+2026-11-20 11:20:56 yön sayısı: 46 
+2026-11-20 11:21:14 çekirdek: 10 
+2026-11-20 11:21:14 yön: mdd__ad 
+2026-11-20 11:21:14 yön: mdd__dlb 
+2026-11-20 11:21:14 yön: mdd_ukbb__ad 
+2026-11-20 11:21:14 yön: mdd_ukbb__dlb 
+2026-11-20 11:21:14 yön: mdd__ad_finngen 
+2026-11-20 11:21:14 yön: mdd__ad__noapoe 
+2026-11-20 11:21:15 yön: mdd_ukbb__ad__noapoe 
+2026-11-20 11:21:15 yön: mdd__ad_finngen__noapoe 
+2026-11-20 11:21:15 yön: scz__ad 
+2026-11-20 11:21:15 yön: scz__dlb 
+2026-11-20 11:53:21   -> mdd__dlb ok n_iv = 53 thr = 5e-08 
+2026-11-20 11:53:22 yön: scz__ad_finngen 
+2026-11-20 11:57:56   -> mdd_ukbb__dlb ok n_iv = 62 thr = 5e-08 
+2026-11-20 11:57:56 yön: scz__ad__noapoe 
+2026-11-20 12:23:11   -> mdd__ad_finngen ok n_iv = 116 thr = 5e-08 
+2026-11-20 12:23:11 yön: scz__ad_finngen__noapoe 
+2026-11-20 12:23:33   -> mdd__ad_finngen__noapoe ok n_iv = 116 thr = 5e-08 
+2026-11-20 12:23:33 yön: ptsd__ad 
+2026-11-20 12:24:59   -> scz__dlb ok n_iv = 119 thr = 5e-08 
+2026-11-20 12:24:59 yön: ptsd__dlb 
+2026-11-20 12:32:33   -> ptsd__dlb ok n_iv = 13 thr = 5e-08 
+2026-11-20 12:32:33 yön: ptsd__ad_finngen 
+2026-11-20 12:32:43   -> mdd__ad ok n_iv = 135 thr = 5e-08 
+2026-11-20 12:32:43 yön: ptsd__ad__noapoe 
+2026-11-20 12:33:31   -> mdd__ad__noapoe ok n_iv = 135 thr = 5e-08 
+2026-11-20 12:33:31 yön: ptsd__ad_finngen__noapoe 
+2026-11-20 12:37:13   -> ptsd__ad ok n_iv = 25 thr = 5e-08 
+2026-11-20 12:37:13 yön: ad__mdd 
+2026-11-20 12:42:06   -> scz__ad ok n_iv = 150 thr = 5e-08 
+2026-11-20 12:42:06 yön: ad__ptsd 
+2026-11-20 12:45:17   -> ptsd__ad_finngen ok n_iv = 23 thr = 5e-08 
+2026-11-20 12:45:17 yön: ad__insomnia 
+2026-11-20 12:46:00   -> ptsd__ad_finngen__noapoe ok n_iv = 23 thr = 5e-08 
+2026-11-20 12:46:00 yön: ad__scz 
+2026-11-20 12:46:20   -> ptsd__ad__noapoe ok n_iv = 25 thr = 5e-08 
+2026-11-20 12:46:20 yön: ad__mdd_ukbb 
+2026-11-20 12:46:37   -> ad__insomnia error: Item 2 is type double but the first item is type logical. Please coerce before coalescing.  
+2026-11-20 12:46:37 yön: ad__mdd__noapoe 
+2026-11-20 12:51:44   -> mdd_ukbb__ad ok n_iv = 175 thr = 5e-08 
+2026-11-20 12:51:44 yön: ad__ptsd__noapoe 
+2026-11-20 12:52:20   -> mdd_ukbb__ad__noapoe ok n_iv = 175 thr = 5e-08 
+2026-11-20 12:52:20 yön: ad__insomnia__noapoe 
+2026-11-20 12:53:44   -> ad__insomnia__noapoe error: Item 2 is type double but the first item is type logical. Please coerce before coalescing.  
+2026-11-20 12:53:44 yön: ad__scz__noapoe 
+2026-11-20 13:02:02   -> ad__mdd ok n_iv = 50 thr = 5e-08 
+2026-11-20 13:02:02 yön: ad__mdd_ukbb__noapoe 
+2026-11-20 13:04:50   -> ad__ptsd ok n_iv = 45 thr = 5e-08 
+2026-11-20 13:04:50 yön: ad_finngen__mdd 
+2026-11-20 13:08:42   -> ad__mdd__noapoe ok n_iv = 44 thr = 5e-08 
+2026-11-20 13:08:42 yön: ad_finngen__ptsd 
+2026-11-20 13:09:28   -> ad__scz ok n_iv = 46 thr = 5e-08 
+2026-11-20 13:09:28 yön: ad_finngen__insomnia 
+2026-11-20 13:10:47   -> scz__ad_finngen ok n_iv = 150 thr = 5e-08 
+2026-11-20 13:10:47 yön: ad_finngen__scz 
+2026-11-20 13:10:51   -> ad_finngen__insomnia error: Item 2 is type double but the first item is type logical. Please coerce before coalescing.  
+2026-11-20 13:10:51 yön: ad_finngen__mdd__noapoe 
+2026-11-20 13:12:50   -> ad__ptsd__noapoe ok n_iv = 42 thr = 5e-08 
+2026-11-20 13:12:50 yön: ad_finngen__ptsd__noapoe 
+2026-11-20 13:13:07   -> ad__mdd_ukbb ok n_iv = 53 thr = 5e-08 
+2026-11-20 13:13:07 yön: ad_finngen__insomnia__noapoe 
+2026-11-20 13:14:31   -> ad_finngen__insomnia__noapoe error: Item 2 is type double but the first item is type logical. Please coerce before coalescing.  
+2026-11-20 13:14:31 yön: ad_finngen__scz__noapoe 
+2026-11-20 13:15:32   -> ad__scz__noapoe ok n_iv = 42 thr = 5e-08 
+2026-11-20 13:15:32 yön: insomnia__ad 
+2026-11-20 13:16:05   -> scz__ad__noapoe ok n_iv = 150 thr = 5e-08 
+2026-11-20 13:16:06 yön: insomnia__dlb 
+2026-11-20 13:16:13   -> insomnia__ad error: Item 2 is type double but the first item is type logical. Please coerce before coalescing.  
+2026-11-20 13:16:13 yön: insomnia__ad_finngen 
+2026-11-20 13:16:25   -> ad_finngen__mdd ok n_iv = 20 thr = 5e-08 
+2026-11-20 13:16:25 yön: insomnia__ad__noapoe 
+2026-11-20 13:16:48   -> insomnia__dlb error: Item 2 is type double but the first item is type logical. Please coerce before coalescing.  
+2026-11-20 13:16:48 yön: insomnia__ad_finngen__noapoe 
+2026-11-20 13:16:56   -> insomnia__ad_finngen error: Item 2 is type double but the first item is type logical. Please coerce before coalescing.  
+2026-11-20 13:16:56 yön: dlb__mdd 
+2026-11-20 13:17:07   -> insomnia__ad__noapoe error: Item 2 is type double but the first item is type logical. Please coerce before coalescing.  
+2026-11-20 13:17:07 yön: dlb__ptsd 
+2026-11-20 13:17:30   -> insomnia__ad_finngen__noapoe error: Item 2 is type double but the first item is type logical. Please coerce before coalescing.  
+2026-11-20 13:17:30 yön: dlb__insomnia 
+2026-11-20 13:18:50   -> dlb__ptsd ok n_iv = 3 thr = 5e-08 
+2026-11-20 13:18:51 yön: dlb__scz 
+2026-11-20 13:18:57   -> dlb__insomnia error: Item 2 is type double but the first item is type logical. Please coerce before coalescing.  
+2026-11-20 13:18:57 yön: dlb__mdd_ukbb 
+2026-11-20 13:20:35   -> dlb__mdd ok n_iv = 4 thr = 5e-08 
+2026-11-20 13:21:25   -> ad_finngen__ptsd ok n_iv = 21 thr = 5e-08 
+2026-11-20 13:21:37   -> ad_finngen__mdd__noapoe ok n_iv = 17 thr = 5e-08 
+2026-11-20 13:22:08   -> dlb__scz ok n_iv = 4 thr = 5e-08 
+2026-11-20 13:22:39   -> ad_finngen__scz ok n_iv = 20 thr = 5e-08 
+2026-11-20 13:22:43   -> dlb__mdd_ukbb ok n_iv = 5 thr = 5e-08 
+2026-11-20 13:23:15   -> ad_finngen__ptsd__noapoe ok n_iv = 18 thr = 5e-08 
+2026-11-20 13:24:32   -> ad_finngen__scz__noapoe ok n_iv = 19 thr = 5e-08 
+2026-11-20 13:25:12   -> ad__mdd_ukbb__noapoe ok n_iv = 47 thr = 5e-08 
+2026-11-20 13:30:56   -> scz__ad_finngen__noapoe ok n_iv = 150 thr = 5e-08 
+2026-11-20 13:30:56 durumlar: error: Item 2 is type double but the first item is type logical. Please coerce before coalescing. 10; ok 36 
+2026-11-20 13:30:56 HATALI / SONUÇSUZ YÖNLER: 
+                              id
+                          <char>
+ 1:                 ad__insomnia
+ 2:         ad__insomnia__noapoe
+ 3:         ad_finngen__insomnia
+ 4: ad_finngen__insomnia__noapoe
+ 5:                 insomnia__ad
+ 6:                insomnia__dlb
+ 7:         insomnia__ad_finngen
+ 8:         insomnia__ad__noapoe
+ 9: insomnia__ad_finngen__noapoe
+10:                dlb__insomnia
+                                                                                               status
+                                                                                               <char>
+ 1: error: Item 2 is type double but the first item is type logical. Please coerce before coalescing.
+ 2: error: Item 2 is type double but the first item is type logical. Please coerce before coalescing.
+ 3: error: Item 2 is type double but the first item is type logical. Please coerce before coalescing.
+ 4: error: Item 2 is type double but the first item is type logical. Please coerce before coalescing.
+ 5: error: Item 2 is type double but the first item is type logical. Please coerce before coalescing.
+ 6: error: Item 2 is type double but the first item is type logical. Please coerce before coalescing.
+ 7: error: Item 2 is type double but the first item is type logical. Please coerce before coalescing.
+ 8: error: Item 2 is type double but the first item is type logical. Please coerce before coalescing.
+ 9: error: Item 2 is type double but the first item is type logical. Please coerce before coalescing.
+10: error: Item 2 is type double but the first item is type logical. Please coerce before coalescing.
+2026-11-20 13:30:56 BİTTİ 
+R version 4.3.3 (2024-02-29)
+Platform: x86_64-pc-linux-gnu (64-bit)
+Running under: Ubuntu 24.04.2 LTS
+
+Matrix products: default
+BLAS:   /usr/lib/x86_64-linux-gnu/blas/libblas.so.3.12.0 
+LAPACK: /usr/lib/x86_64-linux-gnu/lapack/liblapack.so.3.12.0
+
+locale:
+ [1] LC_CTYPE=C.UTF-8       LC_NUMERIC=C           LC_TIME=C.UTF-8       
+ [4] LC_COLLATE=C.UTF-8     LC_MONETARY=C.UTF-8    LC_MESSAGES=C.UTF-8   
+ [7] LC_PAPER=C.UTF-8       LC_NAME=C              LC_ADDRESS=C          
+[10] LC_TELEPHONE=C         LC_MEASUREMENT=C.UTF-8 LC_IDENTIFICATION=C   
+
+time zone: Europe/Istanbul
+tzcode source: system (glibc)
+
+attached base packages:
+[1] parallel  stats     graphics  grDevices utils     datasets  methods  
+[8] base     
+
+other attached packages:
+[1] simex_1.8           MRPRESSO_1.0        TwoSampleMR_0.7.14 
+[4] jsonlite_2.0.0      data.table_1.18.6.1
+
+loaded via a namespace (and not attached):
+[1] compiler_4.3.3 magrittr_2.0.5 cli_3.6.6     

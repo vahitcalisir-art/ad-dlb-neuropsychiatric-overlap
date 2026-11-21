@@ -1,0 +1,106 @@
+{
+ "author_order_note": "group authors moved after personal authors",
+ "DOI": "10.1038/ng.3406",
+ "title": "An atlas of genetic correlations across human diseases and traits",
+ "container-title": "Nature Genetics",
+ "container-title-short": "Nat Genet",
+ "author": [
+  {
+   "family": "Bulik-Sullivan",
+   "given": "Brendan"
+  },
+  {
+   "family": "Finucane",
+   "given": "Hilary K"
+  },
+  {
+   "family": "Anttila",
+   "given": "Verneri"
+  },
+  {
+   "family": "Gusev",
+   "given": "Alexander"
+  },
+  {
+   "family": "Day",
+   "given": "Felix R"
+  },
+  {
+   "family": "Loh",
+   "given": "Po-Ru"
+  },
+  {
+   "family": "Duncan",
+   "given": "Laramie"
+  },
+  {
+   "family": "Perry",
+   "given": "John R B"
+  },
+  {
+   "family": "Patterson",
+   "given": "Nick"
+  },
+  {
+   "family": "Robinson",
+   "given": "Elise B"
+  },
+  {
+   "family": "Daly",
+   "given": "Mark J"
+  },
+  {
+   "family": "Price",
+   "given": "Alkes L"
+  },
+  {
+   "family": "Neale",
+   "given": "Benjamin M"
+  },
+  {
+   "name": "ReproGen Consortium",
+   "literal": "ReproGen Consortium"
+  },
+  {
+   "name": "Psychiatric Genomics Consortium",
+   "literal": "Psychiatric Genomics Consortium"
+  },
+  {
+   "name": "Genetic Consortium for Anorexia Nervosa of the Wellcome Trust Case Control Consortium 3",
+   "literal": "Genetic Consortium for Anorexia Nervosa of the Wellcome Trust Case Control Consortium 3"
+  }
+ ],
+ "issued": {
+  "date-parts": [
+   [
+    2015,
+    9,
+    28
+   ]
+  ]
+ },
+ "published-print": {
+  "date-parts": [
+   [
+    2015,
+    11
+   ]
+  ]
+ },
+ "published-online": {
+  "date-parts": [
+   [
+    2015,
+    9,
+    28
+   ]
+  ]
+ },
+ "volume": "47",
+ "issue": "11",
+ "page": "1236-1241",
+ "article-number": "",
+ "type": "journal-article",
+ "corrections": [],
+ "verified_title_similarity": 1.0
+}

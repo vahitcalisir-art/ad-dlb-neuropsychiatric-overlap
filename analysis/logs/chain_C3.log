@@ -1,0 +1,5 @@
+== chain2 finished Fri Nov 20 17:14:06 +03 2026
+ [1] LC_CTYPE=C.UTF-8       LC_NUMERIC=C           LC_TIME=C.UTF-8       
+ [4] LC_COLLATE=C.UTF-8     LC_MONETARY=C.UTF-8    LC_MESSAGES=C.UTF-8   
+== LAVA ukb update insomnia Fri Nov 20 14:06:56 +03 2026
+chain2 did not finish cleanly; strandcheck not run

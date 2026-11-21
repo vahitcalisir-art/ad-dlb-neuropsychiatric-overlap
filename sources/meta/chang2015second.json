@@ -1,0 +1,67 @@
+{
+ "author_order_note": "",
+ "DOI": "10.1186/s13742-015-0047-8",
+ "title": "Second-generation PLINK: rising to the challenge of larger and richer datasets",
+ "container-title": "Gigascience",
+ "container-title-short": "",
+ "author": [
+  {
+   "family": "Chang",
+   "given": "Christopher C"
+  },
+  {
+   "family": "Chow",
+   "given": "Carson C"
+  },
+  {
+   "family": "Tellier",
+   "given": "Laurent CAM"
+  },
+  {
+   "family": "Vattikuti",
+   "given": "Shashaank"
+  },
+  {
+   "family": "Purcell",
+   "given": "Shaun M"
+  },
+  {
+   "family": "Lee",
+   "given": "James J"
+  }
+ ],
+ "issued": {
+  "date-parts": [
+   [
+    2015,
+    2,
+    25
+   ]
+  ]
+ },
+ "published-print": {
+  "date-parts": [
+   [
+    2015,
+    12,
+    1
+   ]
+  ]
+ },
+ "published-online": {
+  "date-parts": [
+   [
+    2015,
+    2,
+    25
+   ]
+  ]
+ },
+ "volume": "4",
+ "issue": "1",
+ "page": "",
+ "article-number": "s13742-015-0047-8",
+ "type": "journal-article",
+ "corrections": [],
+ "verified_title_similarity": 1.0
+}

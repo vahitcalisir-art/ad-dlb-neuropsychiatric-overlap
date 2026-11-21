@@ -1,0 +1,721 @@
+{
+ "author_order_note": "",
+ "DOI": "10.1038/s41586-022-05473-8",
+ "title": "FinnGen provides genetic insights from a well-phenotyped isolated population",
+ "container-title": "Nature",
+ "container-title-short": "Nature",
+ "author": [
+  {
+   "family": "Kurki",
+   "given": "Mitja I."
+  },
+  {
+   "family": "Karjalainen",
+   "given": "Juha"
+  },
+  {
+   "family": "Palta",
+   "given": "Priit"
+  },
+  {
+   "family": "Sipilä",
+   "given": "Timo P."
+  },
+  {
+   "family": "Kristiansson",
+   "given": "Kati"
+  },
+  {
+   "family": "Donner",
+   "given": "Kati M."
+  },
+  {
+   "family": "Reeve",
+   "given": "Mary P."
+  },
+  {
+   "family": "Laivuori",
+   "given": "Hannele"
+  },
+  {
+   "family": "Aavikko",
+   "given": "Mervi"
+  },
+  {
+   "family": "Kaunisto",
+   "given": "Mari A."
+  },
+  {
+   "family": "Loukola",
+   "given": "Anu"
+  },
+  {
+   "family": "Lahtela",
+   "given": "Elisa"
+  },
+  {
+   "family": "Mattsson",
+   "given": "Hannele"
+  },
+  {
+   "family": "Laiho",
+   "given": "Päivi"
+  },
+  {
+   "family": "Della Briotta Parolo",
+   "given": "Pietro"
+  },
+  {
+   "family": "Lehisto",
+   "given": "Arto A."
+  },
+  {
+   "family": "Kanai",
+   "given": "Masahiro"
+  },
+  {
+   "family": "Mars",
+   "given": "Nina"
+  },
+  {
+   "family": "Rämö",
+   "given": "Joel"
+  },
+  {
+   "family": "Kiiskinen",
+   "given": "Tuomo"
+  },
+  {
+   "family": "Heyne",
+   "given": "Henrike O."
+  },
+  {
+   "family": "Veerapen",
+   "given": "Kumar"
+  },
+  {
+   "family": "Rüeger",
+   "given": "Sina"
+  },
+  {
+   "family": "Lemmelä",
+   "given": "Susanna"
+  },
+  {
+   "family": "Zhou",
+   "given": "Wei"
+  },
+  {
+   "family": "Ruotsalainen",
+   "given": "Sanni"
+  },
+  {
+   "family": "Pärn",
+   "given": "Kalle"
+  },
+  {
+   "family": "Hiekkalinna",
+   "given": "Tero"
+  },
+  {
+   "family": "Koskelainen",
+   "given": "Sami"
+  },
+  {
+   "family": "Paajanen",
+   "given": "Teemu"
+  },
+  {
+   "family": "Llorens",
+   "given": "Vincent"
+  },
+  {
+   "family": "Gracia-Tabuenca",
+   "given": "Javier"
+  },
+  {
+   "family": "Siirtola",
+   "given": "Harri"
+  },
+  {
+   "family": "Reis",
+   "given": "Kadri"
+  },
+  {
+   "family": "Elnahas",
+   "given": "Abdelrahman G."
+  },
+  {
+   "family": "Sun",
+   "given": "Benjamin"
+  },
+  {
+   "family": "Foley",
+   "given": "Christopher N."
+  },
+  {
+   "family": "Aalto-Setälä",
+   "given": "Katriina"
+  },
+  {
+   "family": "Alasoo",
+   "given": "Kaur"
+  },
+  {
+   "family": "Arvas",
+   "given": "Mikko"
+  },
+  {
+   "family": "Auro",
+   "given": "Kirsi"
+  },
+  {
+   "family": "Biswas",
+   "given": "Shameek"
+  },
+  {
+   "family": "Bizaki-Vallaskangas",
+   "given": "Argyro"
+  },
+  {
+   "family": "Carpen",
+   "given": "Olli"
+  },
+  {
+   "family": "Chen",
+   "given": "Chia-Yen"
+  },
+  {
+   "family": "Dada",
+   "given": "Oluwaseun A."
+  },
+  {
+   "family": "Ding",
+   "given": "Zhihao"
+  },
+  {
+   "family": "Ehm",
+   "given": "Margaret G."
+  },
+  {
+   "family": "Eklund",
+   "given": "Kari"
+  },
+  {
+   "family": "Färkkilä",
+   "given": "Martti"
+  },
+  {
+   "family": "Finucane",
+   "given": "Hilary"
+  },
+  {
+   "family": "Ganna",
+   "given": "Andrea"
+  },
+  {
+   "family": "Ghazal",
+   "given": "Awaisa"
+  },
+  {
+   "family": "Graham",
+   "given": "Robert R."
+  },
+  {
+   "family": "Green",
+   "given": "Eric M."
+  },
+  {
+   "family": "Hakanen",
+   "given": "Antti"
+  },
+  {
+   "family": "Hautalahti",
+   "given": "Marco"
+  },
+  {
+   "family": "Hedman",
+   "given": "Åsa K."
+  },
+  {
+   "family": "Hiltunen",
+   "given": "Mikko"
+  },
+  {
+   "family": "Hinttala",
+   "given": "Reetta"
+  },
+  {
+   "family": "Hovatta",
+   "given": "Iiris"
+  },
+  {
+   "family": "Hu",
+   "given": "Xinli"
+  },
+  {
+   "family": "Huertas-Vazquez",
+   "given": "Adriana"
+  },
+  {
+   "family": "Huilaja",
+   "given": "Laura"
+  },
+  {
+   "family": "Hunkapiller",
+   "given": "Julie"
+  },
+  {
+   "family": "Jacob",
+   "given": "Howard"
+  },
+  {
+   "family": "Jensen",
+   "given": "Jan-Nygaard"
+  },
+  {
+   "family": "Joensuu",
+   "given": "Heikki"
+  },
+  {
+   "family": "John",
+   "given": "Sally"
+  },
+  {
+   "family": "Julkunen",
+   "given": "Valtteri"
+  },
+  {
+   "family": "Jung",
+   "given": "Marc"
+  },
+  {
+   "family": "Junttila",
+   "given": "Juhani"
+  },
+  {
+   "family": "Kaarniranta",
+   "given": "Kai"
+  },
+  {
+   "family": "Kähönen",
+   "given": "Mika"
+  },
+  {
+   "family": "Kajanne",
+   "given": "Risto"
+  },
+  {
+   "family": "Kallio",
+   "given": "Lila"
+  },
+  {
+   "family": "Kälviäinen",
+   "given": "Reetta"
+  },
+  {
+   "family": "Kaprio",
+   "given": "Jaakko"
+  },
+  {
+   "family": "Kerimov",
+   "given": "Nurlan"
+  },
+  {
+   "family": "Kettunen",
+   "given": "Johannes"
+  },
+  {
+   "family": "Kilpeläinen",
+   "given": "Elina"
+  },
+  {
+   "family": "Kilpi",
+   "given": "Terhi"
+  },
+  {
+   "family": "Klinger",
+   "given": "Katherine"
+  },
+  {
+   "family": "Kosma",
+   "given": "Veli-Matti"
+  },
+  {
+   "family": "Kuopio",
+   "given": "Teijo"
+  },
+  {
+   "family": "Kurra",
+   "given": "Venla"
+  },
+  {
+   "family": "Laisk",
+   "given": "Triin"
+  },
+  {
+   "family": "Laukkanen",
+   "given": "Jari"
+  },
+  {
+   "family": "Lawless",
+   "given": "Nathan"
+  },
+  {
+   "family": "Liu",
+   "given": "Aoxing"
+  },
+  {
+   "family": "Longerich",
+   "given": "Simonne"
+  },
+  {
+   "family": "Mägi",
+   "given": "Reedik"
+  },
+  {
+   "family": "Mäkelä",
+   "given": "Johanna"
+  },
+  {
+   "family": "Mäkitie",
+   "given": "Antti"
+  },
+  {
+   "family": "Malarstig",
+   "given": "Anders"
+  },
+  {
+   "family": "Mannermaa",
+   "given": "Arto"
+  },
+  {
+   "family": "Maranville",
+   "given": "Joseph"
+  },
+  {
+   "family": "Matakidou",
+   "given": "Athena"
+  },
+  {
+   "family": "Meretoja",
+   "given": "Tuomo"
+  },
+  {
+   "family": "Mozaffari",
+   "given": "Sahar V."
+  },
+  {
+   "family": "Niemi",
+   "given": "Mari E. K."
+  },
+  {
+   "family": "Niemi",
+   "given": "Marianna"
+  },
+  {
+   "family": "Niiranen",
+   "given": "Teemu"
+  },
+  {
+   "family": "O´Donnell",
+   "given": "Christopher J."
+  },
+  {
+   "family": "Obeidat",
+   "given": "Ma´en"
+  },
+  {
+   "family": "Okafo",
+   "given": "George"
+  },
+  {
+   "family": "Ollila",
+   "given": "Hanna M."
+  },
+  {
+   "family": "Palomäki",
+   "given": "Antti"
+  },
+  {
+   "family": "Palotie",
+   "given": "Tuula"
+  },
+  {
+   "family": "Partanen",
+   "given": "Jukka"
+  },
+  {
+   "family": "Paul",
+   "given": "Dirk S."
+  },
+  {
+   "family": "Pelkonen",
+   "given": "Margit"
+  },
+  {
+   "family": "Pendergrass",
+   "given": "Rion K."
+  },
+  {
+   "family": "Petrovski",
+   "given": "Slavé"
+  },
+  {
+   "family": "Pitkäranta",
+   "given": "Anne"
+  },
+  {
+   "family": "Platt",
+   "given": "Adam"
+  },
+  {
+   "family": "Pulford",
+   "given": "David"
+  },
+  {
+   "family": "Punkka",
+   "given": "Eero"
+  },
+  {
+   "family": "Pussinen",
+   "given": "Pirkko"
+  },
+  {
+   "family": "Raghavan",
+   "given": "Neha"
+  },
+  {
+   "family": "Rahimov",
+   "given": "Fedik"
+  },
+  {
+   "family": "Rajpal",
+   "given": "Deepak"
+  },
+  {
+   "family": "Renaud",
+   "given": "Nicole A."
+  },
+  {
+   "family": "Riley-Gillis",
+   "given": "Bridget"
+  },
+  {
+   "family": "Rodosthenous",
+   "given": "Rodosthenis"
+  },
+  {
+   "family": "Saarentaus",
+   "given": "Elmo"
+  },
+  {
+   "family": "Salminen",
+   "given": "Aino"
+  },
+  {
+   "family": "Salminen",
+   "given": "Eveliina"
+  },
+  {
+   "family": "Salomaa",
+   "given": "Veikko"
+  },
+  {
+   "family": "Schleutker",
+   "given": "Johanna"
+  },
+  {
+   "family": "Serpi",
+   "given": "Raisa"
+  },
+  {
+   "family": "Shen",
+   "given": "Huei-yi"
+  },
+  {
+   "family": "Siegel",
+   "given": "Richard"
+  },
+  {
+   "family": "Silander",
+   "given": "Kaisa"
+  },
+  {
+   "family": "Siltanen",
+   "given": "Sanna"
+  },
+  {
+   "family": "Soini",
+   "given": "Sirpa"
+  },
+  {
+   "family": "Soininen",
+   "given": "Hilkka"
+  },
+  {
+   "family": "Sul",
+   "given": "Jae Hoon"
+  },
+  {
+   "family": "Tachmazidou",
+   "given": "Ioanna"
+  },
+  {
+   "family": "Tasanen",
+   "given": "Kaisa"
+  },
+  {
+   "family": "Tienari",
+   "given": "Pentti"
+  },
+  {
+   "family": "Toppila-Salmi",
+   "given": "Sanna"
+  },
+  {
+   "family": "Tukiainen",
+   "given": "Taru"
+  },
+  {
+   "family": "Tuomi",
+   "given": "Tiinamaija"
+  },
+  {
+   "family": "Turunen",
+   "given": "Joni A."
+  },
+  {
+   "family": "Ulirsch",
+   "given": "Jacob C."
+  },
+  {
+   "family": "Vaura",
+   "given": "Felix"
+  },
+  {
+   "family": "Virolainen",
+   "given": "Petri"
+  },
+  {
+   "family": "Waring",
+   "given": "Jeffrey"
+  },
+  {
+   "family": "Waterworth",
+   "given": "Dawn"
+  },
+  {
+   "family": "Yang",
+   "given": "Robert"
+  },
+  {
+   "family": "Nelis",
+   "given": "Mari"
+  },
+  {
+   "family": "Reigo",
+   "given": "Anu"
+  },
+  {
+   "family": "Metspalu",
+   "given": "Andres"
+  },
+  {
+   "family": "Milani",
+   "given": "Lili"
+  },
+  {
+   "family": "Esko",
+   "given": "Tõnu"
+  },
+  {
+   "family": "Fox",
+   "given": "Caroline"
+  },
+  {
+   "family": "Havulinna",
+   "given": "Aki S."
+  },
+  {
+   "family": "Perola",
+   "given": "Markus"
+  },
+  {
+   "family": "Ripatti",
+   "given": "Samuli"
+  },
+  {
+   "family": "Jalanko",
+   "given": "Anu"
+  },
+  {
+   "family": "Laitinen",
+   "given": "Tarja"
+  },
+  {
+   "family": "Mäkelä",
+   "given": "Tomi P."
+  },
+  {
+   "family": "Plenge",
+   "given": "Robert"
+  },
+  {
+   "family": "McCarthy",
+   "given": "Mark"
+  },
+  {
+   "family": "Runz",
+   "given": "Heiko"
+  },
+  {
+   "family": "Daly",
+   "given": "Mark J."
+  },
+  {
+   "family": "Palotie",
+   "given": "Aarno"
+  },
+  {
+   "name": "FinnGen",
+   "literal": "FinnGen"
+  }
+ ],
+ "issued": {
+  "date-parts": [
+   [
+    2023,
+    1,
+    18
+   ]
+  ]
+ },
+ "published-print": {
+  "date-parts": [
+   [
+    2023,
+    1,
+    19
+   ]
+  ]
+ },
+ "published-online": {
+  "date-parts": [
+   [
+    2023,
+    1,
+    18
+   ]
+  ]
+ },
+ "volume": "613",
+ "issue": "7944",
+ "page": "508-518",
+ "article-number": "",
+ "type": "journal-article",
+ "corrections": [
+  "10.1038/s41586-023-05837-8"
+ ],
+ "verified_title_similarity": 1.0
+}

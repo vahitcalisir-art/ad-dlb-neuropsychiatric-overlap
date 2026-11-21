@@ -1,0 +1,54 @@
+{
+ "author_order_note": "",
+ "DOI": "10.1002/gepi.21998",
+ "title": "Bias due to participant overlap in two‐sample Mendelian randomization",
+ "container-title": "Genetic Epidemiology",
+ "container-title-short": "Genetic Epidemiology",
+ "author": [
+  {
+   "family": "Burgess",
+   "given": "Stephen"
+  },
+  {
+   "family": "Davies",
+   "given": "Neil M."
+  },
+  {
+   "family": "Thompson",
+   "given": "Simon G."
+  }
+ ],
+ "issued": {
+  "date-parts": [
+   [
+    2016,
+    9,
+    14
+   ]
+  ]
+ },
+ "published-print": {
+  "date-parts": [
+   [
+    2016,
+    11
+   ]
+  ]
+ },
+ "published-online": {
+  "date-parts": [
+   [
+    2016,
+    9,
+    14
+   ]
+  ]
+ },
+ "volume": "40",
+ "issue": "7",
+ "page": "597-608",
+ "article-number": "",
+ "type": "journal-article",
+ "corrections": [],
+ "verified_title_similarity": 1.0
+}

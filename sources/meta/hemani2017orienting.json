@@ -1,0 +1,49 @@
+{
+ "author_order_note": "",
+ "DOI": "10.1371/journal.pgen.1007081",
+ "title": "Orienting the causal relationship between imprecisely measured traits using GWAS summary data",
+ "container-title": "PLOS Genetics",
+ "container-title-short": "PLoS Genet",
+ "author": [
+  {
+   "family": "Hemani",
+   "given": "Gibran"
+  },
+  {
+   "family": "Tilling",
+   "given": "Kate"
+  },
+  {
+   "family": "Davey Smith",
+   "given": "George"
+  }
+ ],
+ "issued": {
+  "date-parts": [
+   [
+    2017,
+    11,
+    17
+   ]
+  ]
+ },
+ "published-print": {},
+ "published-online": {
+  "date-parts": [
+   [
+    2017,
+    11,
+    17
+   ]
+  ]
+ },
+ "volume": "13",
+ "issue": "11",
+ "page": "e1007081",
+ "article-number": "",
+ "type": "journal-article",
+ "corrections": [
+  "10.1371/journal.pgen.1007149"
+ ],
+ "verified_title_similarity": 1.0
+}

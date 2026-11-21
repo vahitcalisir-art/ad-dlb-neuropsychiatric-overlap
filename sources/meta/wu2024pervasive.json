@@ -1,0 +1,74 @@
+{
+ "author_order_note": "",
+ "DOI": "10.1038/s41588-024-01963-9",
+ "title": "Pervasive biases in proxy genome-wide association studies based on parental history of Alzheimer’s disease",
+ "container-title": "Nature Genetics",
+ "container-title-short": "Nat Genet",
+ "author": [
+  {
+   "family": "Wu",
+   "given": "Yuchang"
+  },
+  {
+   "family": "Sun",
+   "given": "Zhongxuan"
+  },
+  {
+   "family": "Zheng",
+   "given": "Qinwen"
+  },
+  {
+   "family": "Miao",
+   "given": "Jiacheng"
+  },
+  {
+   "family": "Dorn",
+   "given": "Stephen"
+  },
+  {
+   "family": "Mukherjee",
+   "given": "Shubhabrata"
+  },
+  {
+   "family": "Fletcher",
+   "given": "Jason M."
+  },
+  {
+   "family": "Lu",
+   "given": "Qiongshi"
+  }
+ ],
+ "issued": {
+  "date-parts": [
+   [
+    2024,
+    11,
+    4
+   ]
+  ]
+ },
+ "published-print": {
+  "date-parts": [
+   [
+    2024,
+    12
+   ]
+  ]
+ },
+ "published-online": {
+  "date-parts": [
+   [
+    2024,
+    11,
+    4
+   ]
+  ]
+ },
+ "volume": "56",
+ "issue": "12",
+ "page": "2696-2703",
+ "article-number": "",
+ "type": "journal-article",
+ "corrections": [],
+ "verified_title_similarity": 1.0
+}

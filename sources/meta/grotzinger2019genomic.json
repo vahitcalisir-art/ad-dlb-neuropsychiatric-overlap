@@ -1,0 +1,91 @@
+{
+ "author_order_note": "",
+ "DOI": "10.1038/s41562-019-0566-x",
+ "title": "Genomic structural equation modelling provides insights into the multivariate genetic architecture of complex traits",
+ "container-title": "Nature Human Behaviour",
+ "container-title-short": "Nat Hum Behav",
+ "author": [
+  {
+   "family": "Grotzinger",
+   "given": "Andrew D."
+  },
+  {
+   "family": "Rhemtulla",
+   "given": "Mijke"
+  },
+  {
+   "family": "de Vlaming",
+   "given": "Ronald"
+  },
+  {
+   "family": "Ritchie",
+   "given": "Stuart J."
+  },
+  {
+   "family": "Mallard",
+   "given": "Travis T."
+  },
+  {
+   "family": "Hill",
+   "given": "W. David"
+  },
+  {
+   "family": "Ip",
+   "given": "Hill F."
+  },
+  {
+   "family": "Marioni",
+   "given": "Riccardo E."
+  },
+  {
+   "family": "McIntosh",
+   "given": "Andrew M."
+  },
+  {
+   "family": "Deary",
+   "given": "Ian J."
+  },
+  {
+   "family": "Koellinger",
+   "given": "Philipp D."
+  },
+  {
+   "family": "Harden",
+   "given": "K. Paige"
+  },
+  {
+   "family": "Nivard",
+   "given": "Michel G."
+  },
+  {
+   "family": "Tucker-Drob",
+   "given": "Elliot M."
+  }
+ ],
+ "issued": {
+  "date-parts": [
+   [
+    2019,
+    4,
+    8
+   ]
+  ]
+ },
+ "published-print": {},
+ "published-online": {
+  "date-parts": [
+   [
+    2019,
+    4,
+    8
+   ]
+  ]
+ },
+ "volume": "3",
+ "issue": "5",
+ "page": "513-525",
+ "article-number": "",
+ "type": "journal-article",
+ "corrections": [],
+ "verified_title_similarity": 1.0
+}

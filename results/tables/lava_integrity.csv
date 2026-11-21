@@ -1,0 +1,3 @@
+reference,loci_expected,raw_elements,worker_results,worker_missing,order_match,status_rows,processed,not_processed,errors,status_complete,ok_loci_with_univ,bivar_loci_not_ok,pass
+ukb,2473,2473,2473,0,TRUE,2473,2431,42,0,TRUE,2431,0,TRUE
+g1000,2473,2473,2473,0,TRUE,2473,2430,43,0,TRUE,2430,0,TRUE

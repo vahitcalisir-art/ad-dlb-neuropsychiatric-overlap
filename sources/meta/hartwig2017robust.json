@@ -1,0 +1,55 @@
+{
+ "author_order_note": "",
+ "DOI": "10.1093/ije/dyx102",
+ "title": "Robust inference in summary data Mendelian randomization via the zero modal pleiotropy assumption",
+ "container-title": "International Journal of Epidemiology",
+ "container-title-short": "",
+ "author": [
+  {
+   "family": "Hartwig",
+   "given": "Fernando Pires"
+  },
+  {
+   "family": "Davey Smith",
+   "given": "George"
+  },
+  {
+   "family": "Bowden",
+   "given": "Jack"
+  }
+ ],
+ "issued": {
+  "date-parts": [
+   [
+    2017,
+    7,
+    12
+   ]
+  ]
+ },
+ "published-print": {
+  "date-parts": [
+   [
+    2017,
+    12,
+    1
+   ]
+  ]
+ },
+ "published-online": {
+  "date-parts": [
+   [
+    2017,
+    7,
+    12
+   ]
+  ]
+ },
+ "volume": "46",
+ "issue": "6",
+ "page": "1985-1998",
+ "article-number": "",
+ "type": "journal-article",
+ "corrections": [],
+ "verified_title_similarity": 1.0
+}

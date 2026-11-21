@@ -1,0 +1,17 @@
+ref,dementia,psychiatric,loci_analysed,loci_univ_dementia,loci_univ_psychiatric,loci_testable,loci_nominal_p05,expected_nominal,loci_fdr05
+ukb,ad,insomnia,2431,56,4,0,0,0,0
+ukb,ad,mdd,2431,56,347,8,4,0.4,0
+ukb,ad,ptsd,2431,56,105,3,1,0.15,0
+ukb,ad,scz,2431,56,260,9,3,0.45,0
+ukb,dlb,insomnia,2431,8,4,0,0,0,0
+ukb,dlb,mdd,2431,8,347,2,0,0.1,0
+ukb,dlb,ptsd,2431,8,105,0,0,0,0
+ukb,dlb,scz,2431,8,260,1,0,0.05,0
+g1000,ad,insomnia,2430,268,217,33,4,1.65,1
+g1000,ad,mdd,2430,268,715,116,25,5.8,4
+g1000,ad,ptsd,2430,268,449,89,17,4.45,5
+g1000,ad,scz,2430,268,729,126,19,6.3,8
+g1000,dlb,insomnia,2430,134,217,26,2,1.3,0
+g1000,dlb,mdd,2430,134,715,52,12,2.6,0
+g1000,dlb,ptsd,2430,134,449,35,2,1.75,1
+g1000,dlb,scz,2430,134,729,59,10,2.95,1

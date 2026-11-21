@@ -1,0 +1,7 @@
+phenotype	cases	controls	prevalence	filename
+ad	141573	141573	0.05	/home/user/q1paper/data/lava_sumstats_strandqc/ad.txt.gz
+dlb	3153	3153	0.001	/home/user/q1paper/data/lava_sumstats_strandqc/dlb.txt.gz
+mdd	483539	483539	0.15	/home/user/q1paper/data/lava_sumstats_strandqc/mdd.txt.gz
+ptsd	319878	319878	0.05	/home/user/q1paper/data/lava_sumstats_strandqc/ptsd.txt.gz
+insomnia	156615	156615	0.1	/home/user/q1paper/data/lava_sumstats_strandqc/insomnia.txt.gz
+scz	58749	58749	0.01	/home/user/q1paper/data/lava_sumstats_strandqc/scz.txt.gz

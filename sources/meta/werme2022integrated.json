@@ -1,0 +1,57 @@
+{
+ "author_order_note": "",
+ "DOI": "10.1038/s41588-022-01017-y",
+ "title": "An integrated framework for local genetic correlation analysis",
+ "container-title": "Nature Genetics",
+ "container-title-short": "Nat Genet",
+ "author": [
+  {
+   "family": "Werme",
+   "given": "Josefin"
+  },
+  {
+   "family": "van der Sluis",
+   "given": "Sophie"
+  },
+  {
+   "family": "Posthuma",
+   "given": "Danielle"
+  },
+  {
+   "family": "de Leeuw",
+   "given": "Christiaan A."
+  }
+ ],
+ "issued": {
+  "date-parts": [
+   [
+    2022,
+    3
+   ]
+  ]
+ },
+ "published-print": {
+  "date-parts": [
+   [
+    2022,
+    3
+   ]
+  ]
+ },
+ "published-online": {
+  "date-parts": [
+   [
+    2022,
+    3,
+    14
+   ]
+  ]
+ },
+ "volume": "54",
+ "issue": "3",
+ "page": "274-282",
+ "article-number": "",
+ "type": "journal-article",
+ "corrections": [],
+ "verified_title_similarity": 1.0
+}

@@ -1,0 +1,19 @@
+== ldsc finished Fri Nov 20 13:48:56 +03 2026
+[43] proxy_0.4-29            glue_1.8.1              codetools_0.2-19       
+[46] stats4_4.3.3            e1071_1.7-17            tools_4.3.3            
+[49] pkgconfig_2.0.3        
+== MR insomnia Fri Nov 20 13:48:56 +03 2026
+2026-11-20 14:06:55 durumlar: ok 46 
+2026-11-20 14:06:55 BİTTİ 
+R version 4.3.3 (2024-02-29)
+Platform: x86_64-pc-linux-gnu (64-bit)
+Running under: Ubuntu 24.04.2 LTS
+
+Matrix products: default
+BLAS:   /usr/lib/x86_64-linux-gnu/blas/libblas.so.3.12.0 
+LAPACK: /usr/lib/x86_64-linux-gnu/lapack/liblapack.so.3.12.0
+
+locale:
+ [1] LC_CTYPE=C.UTF-8       LC_NUMERIC=C           LC_TIME=C.UTF-8       
+ [4] LC_COLLATE=C.UTF-8     LC_MONETARY=C.UTF-8    LC_MESSAGES=C.UTF-8   
+== LAVA ukb update insomnia Fri Nov 20 14:06:56 +03 2026

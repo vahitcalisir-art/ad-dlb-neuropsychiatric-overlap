@@ -1,0 +1,254 @@
+2026-11-20 06:20:20 referans okunuyor
+referans SNP: 9997231  (çok alelli/tekrar konum: 0 )
+
+== bellenguez_ad 2026-11-20 06:21:10 
+                   id              build_in                 start 
+      "bellenguez_ad"              "GRCh38"            "21101022" 
+     p_underflow_zero               no_rsid         non_autosomal 
+                  "1"              "105078"              "105041" 
+          rsid_in_ref       allele_mismatch pos_discordant_grch37 
+            "9169234"                "4340"                    NA 
+               mapped                   maf        info_available 
+            "9164894"             "7891500"               "FALSE" 
+                 info           palindromic                   mhc 
+            "7891500"             "7781899"             "7737194" 
+         multiallelic multiallelic_ldsc_set 
+            "7781887"             "7737186" 
+                   id                  af_n            af_cor_ref 
+      "bellenguez_ad"             "7781887"               "0.993" 
+    af_absdiff_gt_0.2 af_absdiff_gt_0.2_pct           maf_cor_ref 
+               "1667"               "0.021"                    NA 
+            lambda_gc    lambda_gc_ldsc_set      p_vs_z_cor_log10 
+             "1.1805"              "1.1769"                   "1" 
+            n_gws_5e8        declared_ncase     declared_ncontrol 
+               "4770"               "85934"              "401577" 
+            max_ncase          max_ncontrol              neff_min 
+              "85934"              "401577"               "42084" 
+          neff_median              neff_max  neff_lt_half_max_pct 
+             "283145"              "283145"               "0.077" 
+           se_missing 
+                  "0" 
+
+== chia_dlb 2026-11-20 06:24:06 
+                   id              build_in                 start 
+           "chia_dlb"              "GRCh38"             "7654310" 
+     p_underflow_zero               no_rsid         non_autosomal 
+                  "0"               "45987"               "45971" 
+          rsid_in_ref       allele_mismatch pos_discordant_grch37 
+            "7055149"                  "51"                    NA 
+               mapped                   maf        info_available 
+            "7055098"             "6946855"               "FALSE" 
+                 info           palindromic                   mhc 
+            "6946855"             "6841865"             "6810775" 
+         multiallelic multiallelic_ldsc_set 
+            "6841848"             "6810758" 
+                   id                  af_n            af_cor_ref 
+           "chia_dlb"             "6841848"              "0.9937" 
+    af_absdiff_gt_0.2 af_absdiff_gt_0.2_pct           maf_cor_ref 
+                "839"               "0.012"                    NA 
+            lambda_gc    lambda_gc_ldsc_set      p_vs_z_cor_log10 
+             "0.9932"              "0.9925"                   "1" 
+            n_gws_5e8        declared_ncase     declared_ncontrol 
+                "155"                "2591"                "4027" 
+            max_ncase          max_ncontrol              neff_min 
+               "2591"                "4027"                "6306" 
+          neff_median              neff_max  neff_lt_half_max_pct 
+               "6306"                "6306"                   "0" 
+           se_missing 
+                  "0" 
+
+== mdd_noukbb 2026-11-20 06:25:01 
+                   id              build_in                 start 
+         "mdd_noukbb"              "GRCh37"             "7139872" 
+     p_underflow_zero               no_rsid         non_autosomal 
+                  "0"                 "265"              "160728" 
+          rsid_in_ref       allele_mismatch pos_discordant_grch37 
+            "6944924"                   "0"                   "0" 
+               mapped                   maf        info_available 
+            "6944924"             "6900407"                "TRUE" 
+                 info           palindromic                   mhc 
+            "6395021"             "6395021"             "6357549" 
+         multiallelic multiallelic_ldsc_set 
+            "6395021"             "6357549" 
+                   id                  af_n            af_cor_ref 
+         "mdd_noukbb"             "6395021"              "0.9927" 
+    af_absdiff_gt_0.2 af_absdiff_gt_0.2_pct           maf_cor_ref 
+                  "4"                   "0"                    NA 
+            lambda_gc    lambda_gc_ldsc_set      p_vs_z_cor_log10 
+              "1.663"              "1.6593"              "0.9999" 
+            n_gws_5e8        declared_ncase     declared_ncontrol 
+               "9362"              "357636"             "1281936" 
+            max_ncase          max_ncontrol              neff_min 
+             "357636"             "1281936"              "773665" 
+          neff_median              neff_max  neff_lt_half_max_pct 
+             "967078"              "967078"                   "0" 
+           se_missing 
+                  "0" 
+
+== mdd_ukbb 2026-11-20 06:25:49 
+                   id              build_in                 start 
+           "mdd_ukbb"              "GRCh37"             "7363302" 
+     p_underflow_zero               no_rsid         non_autosomal 
+                  "0"                 "576"              "171260" 
+          rsid_in_ref       allele_mismatch pos_discordant_grch37 
+            "7150357"                   "0"                   "0" 
+               mapped                   maf        info_available 
+            "7150357"             "7094652"                "TRUE" 
+                 info           palindromic                   mhc 
+            "6687711"             "6687711"             "6648522" 
+         multiallelic multiallelic_ldsc_set 
+            "6687711"             "6648522" 
+                   id                  af_n            af_cor_ref 
+           "mdd_ukbb"             "6687711"              "0.9934" 
+    af_absdiff_gt_0.2 af_absdiff_gt_0.2_pct           maf_cor_ref 
+                  "5"                   "0"                    NA 
+            lambda_gc    lambda_gc_ldsc_set      p_vs_z_cor_log10 
+             "1.7533"              "1.7479"              "0.9998" 
+            n_gws_5e8        declared_ncase     declared_ncontrol 
+              "14430"              "412305"             "1588397" 
+            max_ncase          max_ncontrol              neff_min 
+             "412305"             "1588397"              "922120" 
+          neff_median              neff_max  neff_lt_half_max_pct 
+            "1152650"             "1152650"                   "0" 
+           se_missing 
+                  "0" 
+
+== ptsd_cc 2026-11-20 06:26:43 
+                   id              build_in                 start 
+            "ptsd_cc"              "GRCh37"             "6545577" 
+     p_underflow_zero               no_rsid         non_autosomal 
+                  "0"                   "0"                   "0" 
+          rsid_in_ref       allele_mismatch pos_discordant_grch37 
+            "6536311"                   "0"                   "0" 
+               mapped                   maf        info_available 
+            "6536311"             "6536311"               "FALSE" 
+                 info           palindromic                   mhc 
+            "6536311"             "6438494"             "6402652" 
+         multiallelic multiallelic_ldsc_set 
+            "6438494"             "6402652" 
+                   id                  af_n            af_cor_ref 
+            "ptsd_cc"             "6438494"              "0.9938" 
+    af_absdiff_gt_0.2 af_absdiff_gt_0.2_pct           maf_cor_ref 
+                 "44"               "0.001"                    NA 
+            lambda_gc    lambda_gc_ldsc_set      p_vs_z_cor_log10 
+             "1.3743"              "1.3712"              "0.9999" 
+            n_gws_5e8        declared_ncase     declared_ncontrol 
+               "1184"              "137136"             "1085746" 
+            max_ncase          max_ncontrol              neff_min 
+             "140767"             "1109073"              "368644" 
+          neff_median              neff_max  neff_lt_half_max_pct 
+             "459504"              "460805"                   "0" 
+           se_missing 
+                  "0" 
+
+== ptsd_z 2026-11-20 06:27:38 
+                   id              build_in                 start 
+             "ptsd_z"              "GRCh37"             "7193585" 
+     p_underflow_zero               no_rsid         non_autosomal 
+                  "0"                   "0"              "189099" 
+          rsid_in_ref       allele_mismatch pos_discordant_grch37 
+            "6992939"                   "0"                   "0" 
+               mapped                   maf        info_available 
+            "6992939"             "6992939"               "FALSE" 
+                 info           palindromic                   mhc 
+            "6992939"             "6892361"             "6852455" 
+         multiallelic multiallelic_ldsc_set 
+            "6892361"             "6852455" 
+                   id                  af_n            af_cor_ref 
+             "ptsd_z"             "6892361"              "0.9942" 
+    af_absdiff_gt_0.2 af_absdiff_gt_0.2_pct           maf_cor_ref 
+                 "45"               "0.001"                    NA 
+            lambda_gc    lambda_gc_ldsc_set      p_vs_z_cor_log10 
+             "1.4744"              "1.4672"                   "1" 
+            n_gws_5e8        declared_ncase     declared_ncontrol 
+               "6802"              "137136"             "1085746" 
+            max_ncase          max_ncontrol              neff_min 
+               "-Inf"                "-Inf"              "513243" 
+          neff_median              neff_max  neff_lt_half_max_pct 
+             "639755"              "641533"                   "0" 
+           se_missing 
+            "6892361" 
+
+== insomnia 2026-11-20 06:28:50 
+                   id              build_in                 start 
+           "insomnia"              "GRCh37"            "12663596" 
+     p_underflow_zero               no_rsid         non_autosomal 
+                  "0"              "497315"              "227537" 
+          rsid_in_ref       allele_mismatch pos_discordant_grch37 
+            "8529879"                "1181"                   "4" 
+               mapped                   maf        info_available 
+            "8528698"             "7593249"                "TRUE" 
+                 info           palindromic                   mhc 
+            "7593249"             "7486614"             "7437603" 
+         multiallelic multiallelic_ldsc_set 
+            "7486614"             "7437603" 
+                   id                  af_n            af_cor_ref 
+           "insomnia"                   "0"                    NA 
+    af_absdiff_gt_0.2 af_absdiff_gt_0.2_pct           maf_cor_ref 
+                   NA                    NA              "0.9934" 
+            lambda_gc    lambda_gc_ldsc_set      p_vs_z_cor_log10 
+             "1.2611"              "1.2589"              "0.9994" 
+            n_gws_5e8        declared_ncase     declared_ncontrol 
+                "440"              "109548"              "277440" 
+            max_ncase          max_ncontrol              neff_min 
+             "109548"              "277440"              "298435" 
+          neff_median              neff_max  neff_lt_half_max_pct 
+             "313225"              "314149"                   "0" 
+           se_missing 
+                  "0" 
+
+== scz 2026-11-20 06:30:06 
+                   id              build_in                 start 
+                "scz"              "GRCh37"             "7659767" 
+     p_underflow_zero               no_rsid         non_autosomal 
+                  "0"               "21019"                   "0" 
+          rsid_in_ref       allele_mismatch pos_discordant_grch37 
+            "7516172"                  "30"                   "1" 
+               mapped                   maf        info_available 
+            "7516142"             "7516142"                "TRUE" 
+                 info           palindromic                   mhc 
+            "6328781"             "6228847"             "6189233" 
+         multiallelic multiallelic_ldsc_set 
+            "6228847"             "6189233" 
+                   id                  af_n            af_cor_ref 
+                "scz"             "6228847"              "0.9946" 
+    af_absdiff_gt_0.2 af_absdiff_gt_0.2_pct           maf_cor_ref 
+                "149"               "0.002"                    NA 
+            lambda_gc    lambda_gc_ldsc_set      p_vs_z_cor_log10 
+             "1.6996"              "1.6864"                   "1" 
+            n_gws_5e8        declared_ncase     declared_ncontrol 
+              "19126"               "52017"               "75889" 
+            max_ncase          max_ncontrol              neff_min 
+              "53386"               "77258"               "31571" 
+          neff_median              neff_max  neff_lt_half_max_pct 
+              "58749"               "58749"                   "0" 
+           se_missing 
+                  "0" 
+
+BİTTİ 2026-11-20 06:31:01 
+R version 4.3.3 (2024-02-29)
+Platform: x86_64-pc-linux-gnu (64-bit)
+Running under: Ubuntu 24.04.2 LTS
+
+Matrix products: default
+BLAS:   /usr/lib/x86_64-linux-gnu/blas/libblas.so.3.12.0 
+LAPACK: /usr/lib/x86_64-linux-gnu/lapack/liblapack.so.3.12.0
+
+locale:
+ [1] LC_CTYPE=C.UTF-8       LC_NUMERIC=C           LC_TIME=C.UTF-8       
+ [4] LC_COLLATE=C.UTF-8     LC_MONETARY=C.UTF-8    LC_MESSAGES=C.UTF-8   
+ [7] LC_PAPER=C.UTF-8       LC_NAME=C              LC_ADDRESS=C          
+[10] LC_TELEPHONE=C         LC_MEASUREMENT=C.UTF-8 LC_IDENTIFICATION=C   
+
+time zone: Europe/Istanbul
+tzcode source: system (glibc)
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] data.table_1.18.6.1
+
+loaded via a namespace (and not attached):
+[1] compiler_4.3.3    parallel_4.3.3    R.methodsS3_1.8.2 R.utils_2.13.0   
+[5] R.oo_1.27.1      

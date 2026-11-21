@@ -1,0 +1,27 @@
+== 03_lava_ukb_seeded start Sat Nov 21 03:17:37 +03 2026
+== 03_lava_ukb_seeded exit=0 Sat Nov 21 05:53:09 +03 2026
+2026-11-21 05:53:08 BİTTİ 
+== 03b_lava_seeded_compare start Sat Nov 21 05:53:09 +03 2026
+== 03b_lava_seeded_compare exit=0 Sat Nov 21 05:53:10 +03 2026
+2026-11-21 05:53:10 seeded primary FDR: 0  secondary FDR unseeded/seeded: 84 84 
+2026-11-21 05:53:10 BİTTİ 
+== 03_lava_ukb_strandcheck_seeded start Sat Nov 21 05:53:10 +03 2026
+== 03_lava_ukb_strandcheck_seeded exit=0 Sat Nov 21 06:06:34 +03 2026
+2026-11-21 06:06:33 strandcheck değişen: 0 
+2026-11-21 06:06:33 BİTTİ 
+== 03_lava_g1000_seeded start Sat Nov 21 06:06:34 +03 2026
+== 03_lava_g1000_seeded exit=0 Sat Nov 21 14:36:46 +03 2026
+2026-11-21 14:36:44 BİTTİ 
+== 06_coloc_seeded start Sat Nov 21 14:36:46 +03 2026
+== 06_coloc_seeded exit=0 Sat Nov 21 14:36:48 +03 2026
+2026-11-21 14:36:48 coloc not run (plan §5.1 condition not met). BİTTİ 
+== 06b_power_summary_seeded start Sat Nov 21 14:36:48 +03 2026
+== 06b_power_summary_seeded exit=0 Sat Nov 21 14:36:54 +03 2026
+2026-11-21 14:36:54 BİTTİ 
+== 06c_lava_reference_diagnostic_seeded start Sat Nov 21 14:36:54 +03 2026
+== 06c_lava_reference_diagnostic_seeded exit=0 Sat Nov 21 14:36:55 +03 2026
+2026-11-21 14:36:55 BİTTİ 
+== 07_figures_seeded start Sat Nov 21 14:36:55 +03 2026
+== 07_figures_seeded exit=0 Sat Nov 21 14:37:01 +03 2026
+2026-11-21 14:37:00 BİTTİ 
+CHAIN5 ALL DONE Sat Nov 21 14:37:01 +03 2026

@@ -1,0 +1,51 @@
+2026-11-20 13:48:58 yön sayısı: 10 
+2026-11-20 13:49:12 çekirdek: 10 
+2026-11-20 13:49:12 yön: ad__insomnia 
+2026-11-20 13:49:12 yön: ad__insomnia__noapoe 
+2026-11-20 13:49:12 yön: ad_finngen__insomnia 
+2026-11-20 13:49:12 yön: ad_finngen__insomnia__noapoe 
+2026-11-20 13:49:12 yön: insomnia__ad 
+2026-11-20 13:49:12 yön: insomnia__dlb 
+2026-11-20 13:49:12 yön: insomnia__ad_finngen 
+2026-11-20 13:49:12 yön: insomnia__ad__noapoe 
+2026-11-20 13:49:12 yön: insomnia__ad_finngen__noapoe 
+2026-11-20 13:49:12 yön: dlb__insomnia 
+2026-11-20 13:51:35   -> dlb__insomnia ok n_iv = 3 thr = 5e-08 
+2026-11-20 13:55:38   -> insomnia__dlb ok n_iv = 8 thr = 5e-08 
+2026-11-20 13:57:20   -> insomnia__ad__noapoe ok n_iv = 12 thr = 5e-08 
+2026-11-20 13:57:23   -> insomnia__ad ok n_iv = 12 thr = 5e-08 
+2026-11-20 13:57:24   -> insomnia__ad_finngen ok n_iv = 12 thr = 5e-08 
+2026-11-20 13:57:24   -> insomnia__ad_finngen__noapoe ok n_iv = 12 thr = 5e-08 
+2026-11-20 13:59:09   -> ad_finngen__insomnia__noapoe ok n_iv = 18 thr = 5e-08 
+2026-11-20 13:59:22   -> ad_finngen__insomnia ok n_iv = 19 thr = 5e-08 
+2026-11-20 14:06:16   -> ad__insomnia__noapoe ok n_iv = 45 thr = 5e-08 
+2026-11-20 14:06:55   -> ad__insomnia ok n_iv = 49 thr = 5e-08 
+2026-11-20 14:06:55 durumlar: ok 46 
+2026-11-20 14:06:55 BİTTİ 
+R version 4.3.3 (2024-02-29)
+Platform: x86_64-pc-linux-gnu (64-bit)
+Running under: Ubuntu 24.04.2 LTS
+
+Matrix products: default
+BLAS:   /usr/lib/x86_64-linux-gnu/blas/libblas.so.3.12.0 
+LAPACK: /usr/lib/x86_64-linux-gnu/lapack/liblapack.so.3.12.0
+
+locale:
+ [1] LC_CTYPE=C.UTF-8       LC_NUMERIC=C           LC_TIME=C.UTF-8       
+ [4] LC_COLLATE=C.UTF-8     LC_MONETARY=C.UTF-8    LC_MESSAGES=C.UTF-8   
+ [7] LC_PAPER=C.UTF-8       LC_NAME=C              LC_ADDRESS=C          
+[10] LC_TELEPHONE=C         LC_MEASUREMENT=C.UTF-8 LC_IDENTIFICATION=C   
+
+time zone: Europe/Istanbul
+tzcode source: system (glibc)
+
+attached base packages:
+[1] parallel  stats     graphics  grDevices utils     datasets  methods  
+[8] base     
+
+other attached packages:
+[1] simex_1.8           MRPRESSO_1.0        TwoSampleMR_0.7.14 
+[4] jsonlite_2.0.0      data.table_1.18.6.1
+
+loaded via a namespace (and not attached):
+[1] compiler_4.3.3 magrittr_2.0.5 cli_3.6.6     

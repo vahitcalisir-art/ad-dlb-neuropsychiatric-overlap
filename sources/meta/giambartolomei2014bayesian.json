@@ -1,0 +1,63 @@
+{
+ "author_order_note": "",
+ "DOI": "10.1371/journal.pgen.1004383",
+ "title": "Bayesian Test for Colocalisation between Pairs of Genetic Association Studies Using Summary Statistics",
+ "container-title": "PLoS Genetics",
+ "container-title-short": "PLoS Genet",
+ "author": [
+  {
+   "family": "Giambartolomei",
+   "given": "Claudia"
+  },
+  {
+   "family": "Vukcevic",
+   "given": "Damjan"
+  },
+  {
+   "family": "Schadt",
+   "given": "Eric E."
+  },
+  {
+   "family": "Franke",
+   "given": "Lude"
+  },
+  {
+   "family": "Hingorani",
+   "given": "Aroon D."
+  },
+  {
+   "family": "Wallace",
+   "given": "Chris"
+  },
+  {
+   "family": "Plagnol",
+   "given": "Vincent"
+  }
+ ],
+ "issued": {
+  "date-parts": [
+   [
+    2014,
+    5,
+    15
+   ]
+  ]
+ },
+ "published-print": {},
+ "published-online": {
+  "date-parts": [
+   [
+    2014,
+    5,
+    15
+   ]
+  ]
+ },
+ "volume": "10",
+ "issue": "5",
+ "page": "e1004383",
+ "article-number": "",
+ "type": "journal-article",
+ "corrections": [],
+ "verified_title_similarity": 1.0
+}

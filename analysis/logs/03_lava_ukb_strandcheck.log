@@ -1,0 +1,67 @@
+      trait n_input n_palindromic n_removed_strand
+     <char>   <int>         <int>            <int>
+1:       ad 7715711       1084340             1385
+2:      dlb 6810504        949064              698
+3:      mdd 6357549        825886                0
+4:     ptsd 6852455        941216               13
+5: insomnia 6391549             0                0
+6:      scz 6189233        848798                9
+2026-11-20 22:29:59 örneklem örtüşme matrisi: 
+               ad      dlb      mdd     ptsd insomnia      scz
+ad        1.00000  0.01281  0.00842  0.01193 -0.00069  0.03342
+dlb       0.01281  1.00000 -0.00637 -0.00560  0.00812  0.00086
+mdd       0.00842 -0.00637  1.00000  0.27204  0.03381  0.09630
+ptsd      0.01193 -0.00560  0.27204  1.00000  0.05594  0.06320
+insomnia -0.00069  0.00812  0.03381  0.05594  1.00000 -0.00010
+scz       0.03342  0.00086  0.09630  0.06320 -0.00010  1.00000
+2026-11-20 22:29:59 lokus: 2495  MHC ile örtüşen (hariç): 22 
+2026-11-20 22:29:59 process.input, referans: ukb 
+[1] "...Processing input info"
+[1] "...** All phenotypes treated as BINARY ('ad', 'dlb', 'mdd', 'ptsd', 'insomnia', 'scz')"
+[1] "...Reading in sumstats"
+[1] "...Reading in SNP info from reference data"
+[1] "...Extracting common SNPs"
+[1] "... 4271173 SNPs shared across data sets"
+[1] "...Aligning effect alleles to reference data set"
+2026-11-20 22:33:29 strandcheck: anlamlı lokus-çifti: 84 lokus: 63 
+[1] "Warning: Negative variance estimate for phenotype(s) 'dlb' in locus 63; Dropping these as they cannot be analysed"
+[1] "Warning: Negative variance estimate for phenotype(s) 'dlb' in locus 226; Dropping these as they cannot be analysed"
+[1] "Warning: Negative variance estimate for phenotype(s) 'dlb' in locus 195; Dropping these as they cannot be analysed"
+[1] "Warning: Negative variance estimate for phenotype(s) 'ad' in locus 61; Dropping these as they cannot be analysed"
+[1] "Warning: Negative variance estimate for phenotype(s) 'ad' in locus 160; Dropping these as they cannot be analysed"
+[1] "Warning: Negative variance estimate for phenotype(s) 'dlb', 'insomnia' in locus 230; Dropping these as they cannot be analysed"
+[1] "Warning: Negative variance estimate for phenotype(s) 'dlb' in locus 266; Dropping these as they cannot be analysed"
+[1] "Warning: Negative variance estimate for phenotype(s) 'ad', 'dlb' in locus 369; Dropping these as they cannot be analysed"
+[1] "Warning: Negative variance estimate for phenotype(s) 'ad' in locus 461; Dropping these as they cannot be analysed"
+[1] "Warning: Negative variance estimate for phenotype(s) 'insomnia' in locus 482; Dropping these as they cannot be analysed"
+[1] "Warning: Negative variance estimate for phenotype(s) 'dlb' in locus 360; Dropping these as they cannot be analysed"
+[1] "Warning: Negative variance estimate for phenotype(s) 'insomnia' in locus 1074; Dropping these as they cannot be analysed"
+[1] "Warning: Negative variance estimate for phenotype(s) 'dlb' in locus 718; Dropping these as they cannot be analysed"
+[1] "Warning: Negative variance estimate for phenotype(s) 'ad' in locus 1474; Dropping these as they cannot be analysed"
+[1] "Warning: Negative variance estimate for phenotype(s) 'ad', 'insomnia' in locus 1471; Dropping these as they cannot be analysed"
+[1] "Warning: Negative variance estimate for phenotype(s) 'ad', 'dlb', 'insomnia' in locus 1367; Dropping these as they cannot be analysed"
+[1] "Warning: Negative variance estimate for phenotype(s) 'dlb' in locus 1668; Dropping these as they cannot be analysed"
+[1] "Warning: Negative variance estimate for phenotype(s) 'ad' in locus 1719; Dropping these as they cannot be analysed"
+[1] "Warning: Negative variance estimate for phenotype(s) 'dlb' in locus 1764; Dropping these as they cannot be analysed"
+[1] "Warning: Negative variance estimate for phenotype(s) 'insomnia' in locus 1582; Dropping these as they cannot be analysed"
+[1] "Warning: Negative variance estimate for phenotype(s) 'ad' in locus 1849; Dropping these as they cannot be analysed"
+[1] "Warning: Negative variance estimate for phenotype(s) 'dlb' in locus 2096; Dropping these as they cannot be analysed"
+[1] "Warning: Negative variance estimate for phenotype(s) 'ad' in locus 2279; Dropping these as they cannot be analysed"
+[1] "Warning: Negative variance estimate for phenotype(s) 'scz' in locus 2351; Dropping these as they cannot be analysed"
+[1] "Warning: Negative variance estimate for phenotype(s) 'dlb' in locus 2132; Dropping these as they cannot be analysed"
+[1] "Warning: Negative variance estimate for phenotype(s) 'ad', 'ptsd' in locus 2465; Dropping these as they cannot be analysed"
+2026-11-20 22:40:12 strandcheck değişen: 1 
+2026-11-20 22:40:12 STRAND_CHECK_CHANGE 
+     LOC   CHR    START     STOP    family  phen1  phen2 n_snps_main
+   <int> <int>    <int>    <int>    <char> <char> <char>       <int>
+1:   848     5 86493764 87943482 secondary    mdd    scz        1484
+   n_snps_check rho_main rho_lo_main rho_hi_main    p_main p_fdr_main rho_check
+          <int>    <num>       <num>       <num>     <num>      <num>     <num>
+1:         1484 0.420933     0.06218     0.77914 0.0226975 0.04944812  0.420933
+   rho_lo_check rho_hi_check   p_check bh_cutoff status sign_same sig_retained
+          <num>        <num>     <num>     <num> <char>    <lgcl>       <lgcl>
+1:      0.07535      0.78462 0.0228809 0.0226975     ok      TRUE        FALSE
+   changed
+    <lgcl>
+1:    TRUE
+2026-11-20 22:40:12 BİTTİ 

@@ -1,0 +1,803 @@
+2026-11-21 02:35:43 MRlap yön sayısı: 28 
+Clumping lmb5ZY, 4251 variants, using: /home/user/q1paper/data/ref/clump/EUR
+PLINK v1.9.1 64-bit (11 Nov 2026)                  cog-genomics.org/plink/1.9/
+(C) 2005-2026 Shaun Purcell, Christopher Chang   GNU General Public License v3
+Logging to /tmp/Rtmp5oHnm4/file109ad2c910ee0.log.
+Options in effect:
+  --bfile /home/user/q1paper/data/ref/clump/EUR
+  --clump /tmp/Rtmp5oHnm4/file109ad2c910ee0
+  --clump-kb 10000
+  --clump-p1 0.99
+  --clump-r2 0.001
+  --out /tmp/Rtmp5oHnm4/file109ad2c910ee0
+
+27058 MB RAM detected; reserving 13529 MB for main workspace.
+8550156 variants loaded from .bim file.
+503 people (0 males, 0 females, 503 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to /tmp/Rtmp5oHnm4/file109ad2c910ee0.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 503 founders and 0 nonfounders present.
+Calculating allele frequencies... 0%1%2%3%4%5%6%7%8%9%10%11%12%13%14%15%16%17%18%19%20%21%22%23%24%25%26%27%28%29%30%31%32%33%34%35%36%37%38%39%40%41%42%43%44%45%46%47%48%49%50%51%52%53%54%55%56%57%58%59%60%61%62%63%64%65%66%67%68%69%70%71%72%73%74%75%76%77%78%79%80%81%82%83%84%85%86%87%88%89%90%91%92%93%94%95%96%97%98%99% done.
+Total genotyping rate is exactly 1.
+8550156 variants and 503 people pass filters and QC.
+Note: No phenotypes present.
+Warning: 'rs74359223' is missing from the main dataset, and is a top variant.
+Warning: 'rs769448' is missing from the main dataset, and is a top variant.
+Warning: 'rs534178240' is missing from the main dataset, and is a top variant.
+1 more top variant ID missing; see log file.
+--clump: 55 clumps formed from 4247 top variants.
+Results written to /tmp/Rtmp5oHnm4/file109ad2c910ee0.clumped .
+Removing 4196 of 4251 variants due to LD with other variants or absence from LD reference panel
+Clumping lmb5ZY, 4228 variants, using: /home/user/q1paper/data/ref/clump/EUR
+PLINK v1.9.1 64-bit (11 Nov 2026)                  cog-genomics.org/plink/1.9/
+(C) 2005-2026 Shaun Purcell, Christopher Chang   GNU General Public License v3
+Logging to /tmp/Rtmp5oHnm4/file109ac2c910ee0.log.
+Options in effect:
+  --bfile /home/user/q1paper/data/ref/clump/EUR
+  --clump /tmp/Rtmp5oHnm4/file109ac2c910ee0
+  --clump-kb 10000
+  --clump-p1 0.99
+  --clump-r2 0.001
+  --out /tmp/Rtmp5oHnm4/file109ac2c910ee0
+
+27058 MB RAM detected; reserving 13529 MB for main workspace.
+8550156 variants loaded from .bim file.
+503 people (0 males, 0 females, 503 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to /tmp/Rtmp5oHnm4/file109ac2c910ee0.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 503 founders and 0 nonfounders present.
+Calculating allele frequencies... 0%1%2%3%4%5%6%7%Clumping lmb5ZY, 4330 variants, using: /home/user/q1paper/data/ref/clump/EUR
+8%9%10%11%12%13%14%15%16%17%18%19%20%21%22%23%24%25%26%27%28%29%30%31%32%33%34%35%36%37%38%39%40%41%42%43%44%45%46%47%48%49%50%51%52%53%54%55%56%57%58%59%60%61%62%63%64%65%66%67%68%69%70%71%72%73%74%75%76%77%78%79%80%81%82%83%84%85%86%87%88%89%90%91%PLINK v1.9.1 64-bit (11 Nov 2026)                  cog-genomics.org/plink/1.9/
+(C) 2005-2026 Shaun Purcell, Christopher Chang   GNU General Public License v3
+Logging to /tmp/Rtmp5oHnm4/file109ab2c910ee0.log.
+Options in effect:
+  --bfile /home/user/q1paper/data/ref/clump/EUR
+  --clump /tmp/Rtmp5oHnm4/file109ab2c910ee0
+  --clump-kb 10000
+  --clump-p1 0.99
+  --clump-r2 0.001
+  --out /tmp/Rtmp5oHnm4/file109ab2c910ee0
+
+27058 MB RAM detected; reserving 13529 MB for main workspace.
+8550156 variants loaded from .bim file.
+503 people (0 males, 0 females, 503 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to /tmp/Rtmp5oHnm4/file109ab2c910ee0.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 503 founders and 0 nonfounders present.
+Calculating allele frequencies... 0%92%1%93%94%2%95%3%96%4%97%5%98%6%99%7%8%9%10%11%12%13%14%15%16%17%18%19%20%21%22%23%24%25%26%27%28%29%30%31%32%33%34%35%36%37%38%39%40%41%42%43%44%45%46%47%48%49%50%51%52%53%54%55%56%57%58%59%60%61%62%63%64%65%66%67%68%69%70%71%72%73%74%75%76%77%78%79%80%81%82%83%84%85%86%87%88%89%90%91%92%93%94%95%96%97%98%99% done.
+Total genotyping rate is exactly 1.
+8550156 variants and 503 people pass filters and QC.
+Note: No phenotypes present.
+Warning: 'rs79701229' is missing from the main dataset, and is a top variant.
+Warning: 'rs114533385' is missing from the main dataset, and is a top variant.
+Warning: 'rs193187396' is missing from the main dataset, and is a top variant.
+4 more top variant IDs missing; see log file.
+--clump: 56 clumps formed from 4221 top variants.
+Results written to /tmp/Rtmp5oHnm4/file109ac2c910ee0.clumped .
+Removing 4172 of 4228 variants due to LD with other variants or absence from LD reference panel
+ done.
+Total genotyping rate is exactly 1.
+8550156 variants and 503 people pass filters and QC.
+Note: No phenotypes present.
+Warning: 'rs79701229' is missing from the main dataset, and is a top variant.
+Warning: 'rs183610051' is missing from the main dataset, and is a top variant.
+Warning: 'rs114533385' is missing from the main dataset, and is a top variant.
+6 more top variant IDs missing; see log file.
+--clump: 58 clumps formed from 4321 top variants.
+Results written to /tmp/Rtmp5oHnm4/file109ab2c910ee0.clumped .
+Removing 4272 of 4330 variants due to LD with other variants or absence from LD reference panel
+Clumping lmb5ZY, 4033 variants, using: /home/user/q1paper/data/ref/clump/EUR
+PLINK v1.9.1 64-bit (11 Nov 2026)                  cog-genomics.org/plink/1.9/
+(C) 2005-2026 Shaun Purcell, Christopher Chang   GNU General Public License v3
+Logging to /tmp/Rtmp5oHnm4/file109aa2c910ee0.log.
+Options in effect:
+  --bfile /home/user/q1paper/data/ref/clump/EUR
+  --clump /tmp/Rtmp5oHnm4/file109aa2c910ee0
+  --clump-kb 10000
+  --clump-p1 0.99
+  --clump-r2 0.001
+  --out /tmp/Rtmp5oHnm4/file109aa2c910ee0
+
+27058 MB RAM detected; reserving 13529 MB for main workspace.
+8550156 variants loaded from .bim file.
+503 people (0 males, 0 females, 503 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to /tmp/Rtmp5oHnm4/file109aa2c910ee0.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 503 founders and 0 nonfounders present.
+Calculating allele frequencies... 0%1%2%3%4%5%6%7%8%9%10%11%12%13%14%15%16%17%18%19%20%21%22%23%24%25%26%27%28%29%30%31%32%33%34%35%36%37%38%39%40%41%42%43%44%45%46%47%48%49%50%51%52%53%54%55%56%57%58%59%60%61%62%63%64%65%66%67%68%69%70%71%72%73%74%75%76%77%78%79%80%81%82%83%84%85%86%87%88%89%90%91%92%93%94%95%96%97%98%99% done.
+Total genotyping rate is exactly 1.
+8550156 variants and 503 people pass filters and QC.
+Note: No phenotypes present.
+Warning: 'rs79701229' is missing from the main dataset, and is a top variant.
+Warning: 'rs183610051' is missing from the main dataset, and is a top variant.
+Warning: 'rs74359223' is missing from the main dataset, and is a top variant.
+8 more top variant IDs missing; see log file.
+--clump: 56 clumps formed from 4022 top variants.
+Results written to /tmp/Rtmp5oHnm4/file109aa2c910ee0.clumped .
+Removing 3977 of 4033 variants due to LD with other variants or absence from LD reference panel
+Clumping lmb5ZY, 4259 variants, using: /home/user/q1paper/data/ref/clump/EUR
+PLINK v1.9.1 64-bit (11 Nov 2026)                  cog-genomics.org/plink/1.9/
+(C) 2005-2026 Shaun Purcell, Christopher Chang   GNU General Public License v3
+Logging to /tmp/Rtmp5oHnm4/file142122c910ee0.log.
+Options in effect:
+  --bfile /home/user/q1paper/data/ref/clump/EUR
+  --clump /tmp/Rtmp5oHnm4/file142122c910ee0
+  --clump-kb 10000
+  --clump-p1 0.99
+  --clump-r2 0.001
+  --out /tmp/Rtmp5oHnm4/file142122c910ee0
+
+27058 MB RAM detected; reserving 13529 MB for main workspace.
+8550156 variants loaded from .bim file.
+503 people (0 males, 0 females, 503 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to /tmp/Rtmp5oHnm4/file142122c910ee0.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 503 founders and 0 nonfounders present.
+Calculating allele frequencies... 0%1%2%3%4%5%6%7%8%9%10%11%12%13%14%15%16%17%18%19%20%21%22%23%24%25%26%27%28%29%30%31%32%33%34%35%36%37%38%39%40%41%42%43%44%45%46%47%48%49%50%51%52%53%54%55%56%57%58%59%60%61%62%63%64%65%66%67%68%69%70%71%72%73%74%75%76%77%78%79%80%81%82%83%84%85%86%87%88%89%90%91%92%93%94%95%96%97%98%99% done.
+Total genotyping rate is exactly 1.
+8550156 variants and 503 people pass filters and QC.
+Note: No phenotypes present.
+Warning: 'rs79701229' is missing from the main dataset, and is a top variant.
+Warning: 'rs150567157' is missing from the main dataset, and is a top variant.
+--clump: 53 clumps formed from 4257 top variants.
+Results written to /tmp/Rtmp5oHnm4/file142122c910ee0.clumped .
+Removing 4206 of 4259 variants due to LD with other variants or absence from LD reference panel
+Clumping lmb5ZY, 2838 variants, using: /home/user/q1paper/data/ref/clump/EUR
+PLINK v1.9.1 64-bit (11 Nov 2026)                  cog-genomics.org/plink/1.9/
+(C) 2005-2026 Shaun Purcell, Christopher Chang   GNU General Public License v3
+Logging to /tmp/Rtmp5oHnm4/file142132c910ee0.log.
+Options in effect:
+  --bfile /home/user/q1paper/data/ref/clump/EUR
+  --clump /tmp/Rtmp5oHnm4/file142132c910ee0
+  --clump-kb 10000
+  --clump-p1 0.99
+  --clump-r2 0.001
+  --out /tmp/Rtmp5oHnm4/file142132c910ee0
+
+27058 MB RAM detected; reserving 13529 MB for main workspace.
+8550156 variants loaded from .bim file.
+503 people (0 males, 0 females, 503 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to /tmp/Rtmp5oHnm4/file142132c910ee0.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 503 founders and 0 nonfounders present.
+Calculating allele frequencies... 0%1%2%3%4%5%6%7%8%9%10%11%12%13%14%15%16%17%18%19%20%21%22%23%24%25%26%27%28%29%30%31%32%33%34%35%36%37%38%39%40%41%42%43%44%45%46%47%48%49%50%51%52%53%54%55%56%57%58%59%60%61%62%63%64%65%66%67%68%69%70%71%72%73%74%75%76%77%78%79%80%81%82%83%84%85%86%87%88%89%90%91%92%93%94%95%96%97%98%99% done.
+Total genotyping rate is exactly 1.
+8550156 variants and 503 people pass filters and QC.
+Note: No phenotypes present.
+Warning: 'rs142883151' is missing from the main dataset, and is a top variant.
+Warning: 'rs150567157' is missing from the main dataset, and is a top variant.
+Warning: 'rs118062675' is missing from the main dataset, and is a top variant.
+5 more top variant IDs missing; see log file.
+--clump: 23 clumps formed from 2830 top variants.
+Results written to /tmp/Rtmp5oHnm4/file142132c910ee0.clumped .
+Removing 2815 of 2838 variants due to LD with other variants or absence from LD reference panel
+Clumping lmb5ZY, 2548 variants, using: /home/user/q1paper/data/ref/clump/EUR
+PLINK v1.9.1 64-bit (11 Nov 2026)                  cog-genomics.org/plink/1.9/
+(C) 2005-2026 Shaun Purcell, Christopher Chang   GNU General Public License v3
+Logging to /tmp/Rtmp5oHnm4/file142142c910ee0.log.
+Options in effect:
+  --bfile /home/user/q1paper/data/ref/clump/EUR
+  --clump /tmp/Rtmp5oHnm4/file142142c910ee0
+  --clump-kb 10000
+  --clump-p1 0.99
+  --clump-r2 0.001
+  --out /tmp/Rtmp5oHnm4/file142142c910ee0
+
+27058 MB RAM detected; reserving 13529 MB for main workspace.
+8550156 variants loaded from .bim file.
+503 people (0 males, 0 females, 503 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to /tmp/Rtmp5oHnm4/file142142c910ee0.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 503 founders and 0 nonfounders present.
+Calculating allele frequencies... 0%1%2%3%4%5%6%7%8%9%10%11%12%13%14%15%16%17%18%19%20%21%22%23%24%25%26%27%28%29%30%31%32%33%34%35%36%37%38%39%40%41%42%43%44%45%46%47%48%49%50%51%52%53%54%55%56%57%58%59%60%61%62%63%64%65%66%67%68%69%70%71%72%73%74%75%76%77%78%79%80%81%82%83%84%85%86%87%88%89%90%91%92%93%94%95%96%97%98%99% done.
+Total genotyping rate is exactly 1.
+8550156 variants and 503 people pass filters and QC.
+Note: No phenotypes present.
+Warning: 'rs193187396' is missing from the main dataset, and is a top variant.
+Warning: 'rs142883151' is missing from the main dataset, and is a top variant.
+Warning: 'rs150567157' is missing from the main dataset, and is a top variant.
+2 more top variant IDs missing; see log file.
+--clump: 25 clumps formed from 2543 top variants.
+Results written to /tmp/Rtmp5oHnm4/file142142c910ee0.clumped .
+Removing 2523 of 2548 variants due to LD with other variants or absence from LD reference panel
+Clumping lmb5ZY, 2156 variants, using: /home/user/q1paper/data/ref/clump/EUR
+PLINK v1.9.1 64-bit (11 Nov 2026)                  cog-genomics.org/plink/1.9/
+(C) 2005-2026 Shaun Purcell, Christopher Chang   GNU General Public License v3
+Logging to /tmp/Rtmp5oHnm4/file142152c910ee0.log.
+Options in effect:
+  --bfile /home/user/q1paper/data/ref/clump/EUR
+  --clump /tmp/Rtmp5oHnm4/file142152c910ee0
+  --clump-kb 10000
+  --clump-p1 0.99
+  --clump-r2 0.001
+  --out /tmp/Rtmp5oHnm4/file142152c910ee0
+
+27058 MB RAM detected; reserving 13529 MB for main workspace.
+8550156 variants loaded from .bim file.
+503 people (0 males, 0 females, 503 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to /tmp/Rtmp5oHnm4/file142152c910ee0.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 503 founders and 0 nonfounders present.
+Calculating allele frequencies... 0%1%2%3%4%5%6%7%8%9%10%11%12%13%14%15%16%17%18%19%20%21%22%23%24%25%26%27%28%29%30%31%32%33%34%35%36%37%38%39%40%41%42%43%44%45%46%47%48%49%50%51%52%53%54%55%56%57%58%59%60%61%62%63%64%65%66%67%68%69%70%71%72%73%74%75%76%77%78%79%80%81%82%83%84%85%86%87%88%89%90%91%92%93%94%95%96%97%98%99% done.
+Total genotyping rate is exactly 1.
+8550156 variants and 503 people pass filters and QC.
+Note: No phenotypes present.
+Warning: 'rs142883151' is missing from the main dataset, and is a top variant.
+Warning: 'rs11556510' is missing from the main dataset, and is a top variant.
+Warning: 'rs147707133' is missing from the main dataset, and is a top variant.
+1 more top variant ID missing; see log file.
+--clump: 24 clumps formed from 2152 top variants.
+Results written to /tmp/Rtmp5oHnm4/file142152c910ee0.clumped .
+Removing 2132 of 2156 variants due to LD with other variants or absence from LD reference panel
+Clumping lmb5ZY, 2587 variants, using: /home/user/q1paper/data/ref/clump/EUR
+PLINK v1.9.1 64-bit (11 Nov 2026)                  cog-genomics.org/plink/1.9/
+(C) 2005-2026 Shaun Purcell, Christopher Chang   GNU General Public License v3
+Logging to /tmp/Rtmp5oHnm4/file14fcc2c910ee0.log.
+Options in effect:
+  --bfile /home/user/q1paper/data/ref/clump/EUR
+  --clump /tmp/Rtmp5oHnm4/file14fcc2c910ee0
+  --clump-kb 10000
+  --clump-p1 0.99
+  --clump-r2 0.001
+  --out /tmp/Rtmp5oHnm4/file14fcc2c910ee0
+
+27058 MB RAM detected; reserving 13529 MB for main workspace.
+8550156 variants loaded from .bim file.
+503 people (0 males, 0 females, 503 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to /tmp/Rtmp5oHnm4/file14fcc2c910ee0.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 503 founders and 0 nonfounders present.
+Calculating allele frequencies... 0%1%2%3%4%5%6%7%8%9%10%11%12%13%14%15%16%17%18%19%20%21%22%23%24%25%26%27%28%29%30%31%32%33%34%35%36%37%38%39%40%41%42%43%44%45%46%47%48%49%50%51%52%53%54%55%56%57%58%59%60%61%62%63%64%65%66%67%68%69%70%71%72%73%74%75%76%77%78%79%80%81%82%83%84%85%86%87%88%89%90%91%92%93%94%95%96%97%98%99% done.
+Total genotyping rate is exactly 1.
+8550156 variants and 503 people pass filters and QC.
+Note: No phenotypes present.
+Warning: 'rs142883151' is missing from the main dataset, and is a top variant.
+Warning: 'rs150567157' is missing from the main dataset, and is a top variant.
+--clump: 25 clumps formed from 2585 top variants.
+Results written to /tmp/Rtmp5oHnm4/file14fcc2c910ee0.clumped .
+Removing 2562 of 2587 variants due to LD with other variants or absence from LD reference panel
+Clumping lmb5ZY, 141 variants, using: /home/user/q1paper/data/ref/clump/EUR
+PLINK v1.9.1 64-bit (11 Nov 2026)                  cog-genomics.org/plink/1.9/
+(C) 2005-2026 Shaun Purcell, Christopher Chang   GNU General Public License v3
+Logging to /tmp/Rtmp5oHnm4/file179022c910ee0.log.
+Options in effect:
+  --bfile /home/user/q1paper/data/ref/clump/EUR
+  --clump /tmp/Rtmp5oHnm4/file179022c910ee0
+  --clump-kb 10000
+  --clump-p1 0.99
+  --clump-r2 0.001
+  --out /tmp/Rtmp5oHnm4/file179022c910ee0
+
+27058 MB RAM detected; reserving 13529 MB for main workspace.
+8550156 variants loaded from .bim file.
+503 people (0 males, 0 females, 503 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to /tmp/Rtmp5oHnm4/file179022c910ee0.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 503 founders and 0 nonfounders present.
+Calculating allele frequencies... 0%1%2%3%4%5%6%7%8%9%10%11%12%13%14%15%16%17%18%19%20%21%22%23%24%25%26%27%28%29%30%31%32%33%34%35%36%37%38%39%40%41%42%43%44%45%46%47%48%49%50%51%52%53%54%55%56%57%58%59%60%61%62%63%64%65%66%67%68%69%70%71%72%73%74%75%76%77%78%79%80%81%82%83%84%85%86%87%88%89%90%91%92%93%94%95%96%97%98%99%Clumping lmb5ZY, 138 variants, using: /home/user/q1paper/data/ref/clump/EUR
+ done.
+Total genotyping rate is exactly 1.
+8550156 variants and 503 people pass filters and QC.
+Note: No phenotypes present.
+--clump: 5 clumps formed from 141 top variants.
+Results written to /tmp/Rtmp5oHnm4/file179022c910ee0.clumped .
+Removing 136 of 141 variants due to LD with other variants or absence from LD reference panel
+PLINK v1.9.1 64-bit (11 Nov 2026)                  cog-genomics.org/plink/1.9/
+(C) 2005-2026 Shaun Purcell, Christopher Chang   GNU General Public License v3
+Logging to /tmp/Rtmp5oHnm4/file179032c910ee0.log.
+Options in effect:
+  --bfile /home/user/q1paper/data/ref/clump/EUR
+  --clump /tmp/Rtmp5oHnm4/file179032c910ee0
+  --clump-kb 10000
+  --clump-p1 0.99
+  --clump-r2 0.001
+  --out /tmp/Rtmp5oHnm4/file179032c910ee0
+
+27058 MB RAM detected; reserving 13529 MB for main workspace.
+8550156 variants loaded from .bim file.
+503 people (0 males, 0 females, 503 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to /tmp/Rtmp5oHnm4/file179032c910ee0.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 503 founders and 0 nonfounders present.
+Calculating allele frequencies... 0%1%2%3%4%5%6%7%8%9%10%11%12%13%14%15%16%17%18%19%20%21%22%23%24%25%26%27%28%29%30%31%32%33%34%35%36%37%38%39%40%41%42%43%44%45%46%47%48%49%50%51%52%53%54%55%56%57%58%59%60%61%62%63%64%65%66%67%68%69%70%71%72%73%74%75%76%77%78%79%80%81%82%83%84%85%86%87%88%89%90%91%92%93%94%95%96%97%98%99% done.
+Total genotyping rate is exactly 1.
+8550156 variants and 503 people pass filters and QC.
+Note: No phenotypes present.
+--clump: 5 clumps formed from 138 top variants.
+Results written to /tmp/Rtmp5oHnm4/file179032c910ee0.clumped .
+Removing 133 of 138 variants due to LD with other variants or absence from LD reference panel
+Clumping lmb5ZY, 127 variants, using: /home/user/q1paper/data/ref/clump/EUR
+PLINK v1.9.1 64-bit (11 Nov 2026)                  cog-genomics.org/plink/1.9/
+(C) 2005-2026 Shaun Purcell, Christopher Chang   GNU General Public License v3
+Logging to /tmp/Rtmp5oHnm4/file179012c910ee0.log.
+Options in effect:
+  --bfile /home/user/q1paper/data/ref/clump/EUR
+  --clump /tmp/Rtmp5oHnm4/file179012c910ee0
+  --clump-kb 10000
+  --clump-p1 0.99
+  --clump-r2 0.001
+  --out /tmp/Rtmp5oHnm4/file179012c910ee0
+
+27058 MB RAM detected; reserving 13529 MB for main workspace.
+8550156 variants loaded from .bim file.
+503 people (0 males, 0 females, 503 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to /tmp/Rtmp5oHnm4/file179012c910ee0.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 503 founders and 0 nonfounders present.
+Calculating allele frequencies... 0%1%2%3%4%5%6%7%8%9%10%11%12%13%14%15%16%17%18%19%20%21%22%23%24%25%26%27%28%29%30%31%32%33%34%35%36%37%38%39%40%41%42%43%44%45%46%47%48%49%50%51%52%53%54%55%56%57%58%59%60%61%62%63%64%65%66%67%68%69%70%71%72%73%74%75%76%77%78%79%80%81%82%83%84%85%86%87%88%89%90%91%92%93%94%95%96%97%98%99% done.
+Total genotyping rate is exactly 1.
+8550156 variants and 503 people pass filters and QC.
+Note: No phenotypes present.
+--clump: 5 clumps formed from 127 top variants.
+Results written to /tmp/Rtmp5oHnm4/file179012c910ee0.clumped .
+Removing 122 of 127 variants due to LD with other variants or absence from LD reference panel
+Clumping lmb5ZY, 145 variants, using: /home/user/q1paper/data/ref/clump/EUR
+PLINK v1.9.1 64-bit (11 Nov 2026)                  cog-genomics.org/plink/1.9/
+(C) 2005-2026 Shaun Purcell, Christopher Chang   GNU General Public License v3
+Logging to /tmp/Rtmp5oHnm4/file186bd2c910ee0.log.
+Options in effect:
+  --bfile /home/user/q1paper/data/ref/clump/EUR
+  --clump /tmp/Rtmp5oHnm4/file186bd2c910ee0
+  --clump-kb 10000
+  --clump-p1 0.99
+  --clump-r2 0.001
+  --out /tmp/Rtmp5oHnm4/file186bd2c910ee0
+
+27058 MB RAM detected; reserving 13529 MB for main workspace.
+8550156 variants loaded from .bim file.
+503 people (0 males, 0 females, 503 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to /tmp/Rtmp5oHnm4/file186bd2c910ee0.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 503 founders and 0 nonfounders present.
+Calculating allele frequencies... 0%1%2%3%4%5%6%7%8%9%10%11%12%13%14%15%16%17%18%19%20%21%22%23%24%25%26%27%28%29%30%31%32%33%34%35%36%37%38%39%40%41%42%43%44%45%46%47%48%49%50%51%52%53%54%55%56%57%58%59%60%61%62%63%64%65%66%67%68%69%70%71%72%73%74%75%76%77%78%79%80%81%82%83%84%85%86%87%88%89%90%91%92%93%94%95%96%97%98%99% done.
+Total genotyping rate is exactly 1.
+8550156 variants and 503 people pass filters and QC.
+Note: No phenotypes present.
+--clump: 5 clumps formed from 145 top variants.
+Results written to /tmp/Rtmp5oHnm4/file186bd2c910ee0.clumped .
+Removing 140 of 145 variants due to LD with other variants or absence from LD reference panel
+Clumping lmb5ZY, 137 variants, using: /home/user/q1paper/data/ref/clump/EUR
+PLINK v1.9.1 64-bit (11 Nov 2026)                  cog-genomics.org/plink/1.9/
+(C) 2005-2026 Shaun Purcell, Christopher Chang   GNU General Public License v3
+Logging to /tmp/Rtmp5oHnm4/file1af7a2c910ee0.log.
+Options in effect:
+  --bfile /home/user/q1paper/data/ref/clump/EUR
+  --clump /tmp/Rtmp5oHnm4/file1af7a2c910ee0
+  --clump-kb 10000
+  --clump-p1 0.99
+  --clump-r2 0.001
+  --out /tmp/Rtmp5oHnm4/file1af7a2c910ee0
+
+27058 MB RAM detected; reserving 13529 MB for main workspace.
+8550156 variants loaded from .bim file.
+503 people (0 males, 0 females, 503 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to /tmp/Rtmp5oHnm4/file1af7a2c910ee0.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 503 founders and 0 nonfounders present.
+Calculating allele frequencies... 0%1%2%3%4%5%6%7%8%9%10%11%12%13%14%15%16%17%18%19%20%21%22%23%24%25%26%27%28%29%30%31%32%33%34%35%36%37%38%39%40%41%42%43%44%45%46%47%48%49%50%51%52%53%54%55%56%57%58%59%60%61%62%63%64%65%66%67%68%69%70%71%72%73%74%75%76%77%78%79%80%81%82%83%84%85%86%87%88%89%90%91%92%93%94%95%96%97%98%99% done.
+Total genotyping rate is exactly 1.
+8550156 variants and 503 people pass filters and QC.
+Note: No phenotypes present.
+--clump: 5 clumps formed from 137 top variants.
+Results written to /tmp/Rtmp5oHnm4/file1af7a2c910ee0.clumped .
+Removing 132 of 137 variants due to LD with other variants or absence from LD reference panel
+Clumping lmb5ZY, 386 variants, using: /home/user/q1paper/data/ref/clump/EUR
+PLINK v1.9.1 64-bit (11 Nov 2026)                  cog-genomics.org/plink/1.9/
+(C) 2005-2026 Shaun Purcell, Christopher Chang   GNU General Public License v3
+Logging to /tmp/Rtmp5oHnm4/file1af7c2c910ee0.log.
+Options in effect:
+  --bfile /home/user/q1paper/data/ref/clump/EUR
+  --clump /tmp/Rtmp5oHnm4/file1af7c2c910ee0
+  --clump-kb 10000
+  --clump-p1 0.99
+  --clump-r2 0.001
+  --out /tmp/Rtmp5oHnm4/file1af7c2c910ee0
+
+27058 MB RAM detected; reserving 13529 MB for main workspace.
+8550156 variants loaded from .bim file.
+503 people (0 males, 0 females, 503 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to /tmp/Rtmp5oHnm4/file1af7c2c910ee0.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 503 founders and 0 nonfounders present.
+Calculating allele frequencies... 0%1%2%3%4%5%6%7%8%9%10%11%12%13%14%15%16%17%18%19%20%21%22%23%24%25%26%27%28%29%30%31%32%33%34%35%36%37%38%39%40%41%42%43%44%45%46%47%48%49%50%51%52%53%54%55%56%57%58%59%60%61%62%63%64%65%66%67%68%69%70%71%72%73%74%75%76%77%78%79%80%81%82%83%84%85%86%87%88%89%90%91%92%93%94%95%96%97%98%99% done.
+Total genotyping rate is exactly 1.
+8550156 variants and 503 people pass filters and QC.
+Note: No phenotypes present.
+--clump: 13 clumps formed from 386 top variants.
+Results written to /tmp/Rtmp5oHnm4/file1af7c2c910ee0.clumped .
+Removing 373 of 386 variants due to LD with other variants or absence from LD reference panel
+Clumping lmb5ZY, 386 variants, using: /home/user/q1paper/data/ref/clump/EUR
+PLINK v1.9.1 64-bit (11 Nov 2026)                  cog-genomics.org/plink/1.9/
+(C) 2005-2026 Shaun Purcell, Christopher Chang   GNU General Public License v3
+Logging to /tmp/Rtmp5oHnm4/file1af7b2c910ee0.log.
+Options in effect:
+  --bfile /home/user/q1paper/data/ref/clump/EUR
+  --clump /tmp/Rtmp5oHnm4/file1af7b2c910ee0
+  --clump-kb 10000
+  --clump-p1 0.99
+  --clump-r2 0.001
+  --out /tmp/Rtmp5oHnm4/file1af7b2c910ee0
+
+27058 MB RAM detected; reserving 13529 MB for main workspace.
+8550156 variants loaded from .bim file.
+503 people (0 males, 0 females, 503 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to /tmp/Rtmp5oHnm4/file1af7b2c910ee0.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 503 founders and 0 nonfounders present.
+Calculating allele frequencies... 0%1%2%3%4%5%6%7%8%9%10%11%12%13%14%15%16%17%18%19%20%21%22%23%24%25%26%27%28%29%30%31%32%33%34%35%36%37%38%39%40%41%42%43%44%45%46%47%48%49%50%51%52%53%54%55%56%57%58%59%60%61%62%63%64%65%66%67%68%69%70%71%72%73%74%75%76%77%78%79%80%81%82%83%84%85%86%87%88%89%90%91%92%93%94%95%96%97%98%99% done.
+Total genotyping rate is exactly 1.
+8550156 variants and 503 people pass filters and QC.
+Note: No phenotypes present.
+--clump: 13 clumps formed from 386 top variants.
+Results written to /tmp/Rtmp5oHnm4/file1af7b2c910ee0.clumped .
+Removing 373 of 386 variants due to LD with other variants or absence from LD reference panel
+Clumping lmb5ZY, 378 variants, using: /home/user/q1paper/data/ref/clump/EUR
+PLINK v1.9.1 64-bit (11 Nov 2026)                  cog-genomics.org/plink/1.9/
+(C) 2005-2026 Shaun Purcell, Christopher Chang   GNU General Public License v3
+Logging to /tmp/Rtmp5oHnm4/file1bc982c910ee0.log.
+Options in effect:
+  --bfile /home/user/q1paper/data/ref/clump/EUR
+  --clump /tmp/Rtmp5oHnm4/file1bc982c910ee0
+  --clump-kb 10000
+  --clump-p1 0.99
+  --clump-r2 0.001
+  --out /tmp/Rtmp5oHnm4/file1bc982c910ee0
+
+27058 MB RAM detected; reserving 13529 MB for main workspace.
+8550156 variants loaded from .bim file.
+503 people (0 males, 0 females, 503 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to /tmp/Rtmp5oHnm4/file1bc982c910ee0.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 503 founders and 0 nonfounders present.
+Calculating allele frequencies... 0%1%2%3%4%5%6%7%8%9%10%11%12%13%14%15%16%17%18%19%20%21%22%23%24%25%26%27%28%29%30%31%32%33%34%35%36%37%38%39%40%41%42%43%44%45%46%47%48%49%50%51%52%53%54%55%56%57%58%59%60%61%62%63%64%65%66%67%68%69%70%71%72%73%74%75%76%77%78%79%80%81%82%83%84%85%86%87%88%89%90%91%92%93%94%95%96%97%98%99% done.
+Total genotyping rate is exactly 1.
+8550156 variants and 503 people pass filters and QC.
+Note: No phenotypes present.
+--clump: 13 clumps formed from 378 top variants.
+Results written to /tmp/Rtmp5oHnm4/file1bc982c910ee0.clumped .
+Removing 365 of 378 variants due to LD with other variants or absence from LD reference panel
+Clumping lmb5ZY, 9206 variants, using: /home/user/q1paper/data/ref/clump/EUR
+PLINK v1.9.1 64-bit (11 Nov 2026)                  cog-genomics.org/plink/1.9/
+(C) 2005-2026 Shaun Purcell, Christopher Chang   GNU General Public License v3
+Logging to /tmp/Rtmp5oHnm4/file1e6642c910ee0.log.
+Options in effect:
+  --bfile /home/user/q1paper/data/ref/clump/EUR
+  --clump /tmp/Rtmp5oHnm4/file1e6642c910ee0
+  --clump-kb 10000
+  --clump-p1 0.99
+  --clump-r2 0.001
+  --out /tmp/Rtmp5oHnm4/file1e6642c910ee0
+
+27058 MB RAM detected; reserving 13529 MB for main workspace.
+8550156 variants loaded from .bim file.
+503 people (0 males, 0 females, 503 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to /tmp/Rtmp5oHnm4/file1e6642c910ee0.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 503 founders and 0 nonfounders present.
+Calculating allele frequencies... 0%1%2%3%4%5%6%7%8%9%10%11%12%13%14%15%16%17%18%19%20%21%22%23%24%25%26%27%28%29%30%31%32%33%34%35%36%37%38%39%40%41%42%43%44%45%46%47%48%49%50%51%52%53%54%55%56%57%58%59%60%61%62%63%64%65%66%67%68%69%70%71%72%73%74%75%76%77%78%79%80%81%82%83%84%85%86%87%88%89%90%91%92%93%94%95%96%97%98%99% done.
+Total genotyping rate is exactly 1.
+8550156 variants and 503 people pass filters and QC.
+Note: No phenotypes present.
+--clump: 145 clumps formed from 9206 top variants.
+Results written to /tmp/Rtmp5oHnm4/file1e6642c910ee0.clumped .
+Removing 9061 of 9206 variants due to LD with other variants or absence from LD reference panel
+Clumping lmb5ZY, 9272 variants, using: /home/user/q1paper/data/ref/clump/EUR
+PLINK v1.9.1 64-bit (11 Nov 2026)                  cog-genomics.org/plink/1.9/
+(C) 2005-2026 Shaun Purcell, Christopher Chang   GNU General Public License v3
+Logging to /tmp/Rtmp5oHnm4/file1e6612c910ee0.log.
+Options in effect:
+  --bfile /home/user/q1paper/data/ref/clump/EUR
+  --clump /tmp/Rtmp5oHnm4/file1e6612c910ee0
+  --clump-kb 10000
+  --clump-p1 0.99
+  --clump-r2 0.001
+  --out /tmp/Rtmp5oHnm4/file1e6612c910ee0
+
+27058 MB RAM detected; reserving 13529 MB for main workspace.
+8550156 variants loaded from .bim file.
+503 people (0 males, 0 females, 503 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to /tmp/Rtmp5oHnm4/file1e6612c910ee0.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 503 founders and 0 nonfounders present.
+Calculating allele frequencies... 0%1%2%3%4%5%6%7%8%9%10%11%12%13%14%15%16%17%18%19%20%21%22%23%24%25%26%27%28%29%30%31%32%33%34%35%36%37%38%39%40%41%42%43%44%45%46%47%48%49%50%51%52%53%54%55%56%57%58%59%60%61%62%63%64%65%66%67%68%69%70%71%72%73%74%75%76%77%78%79%80%81%82%83%84%85%86%87%88%89%90%91%92%93%94%95%96%97%98%99% done.
+Total genotyping rate is exactly 1.
+8550156 variants and 503 people pass filters and QC.
+Note: No phenotypes present.
+--clump: 144 clumps formed from 9272 top variants.
+Results written to /tmp/Rtmp5oHnm4/file1e6612c910ee0.clumped .
+Removing 9128 of 9272 variants due to LD with other variants or absence from LD reference panel
+Clumping lmb5ZY, 7827 variants, using: /home/user/q1paper/data/ref/clump/EUR
+PLINK v1.9.1 64-bit (11 Nov 2026)                  cog-genomics.org/plink/1.9/
+(C) 2005-2026 Shaun Purcell, Christopher Chang   GNU General Public License v3
+Logging to /tmp/Rtmp5oHnm4/file1e6652c910ee0.log.
+Options in effect:
+  --bfile /home/user/q1paper/data/ref/clump/EUR
+  --clump /tmp/Rtmp5oHnm4/file1e6652c910ee0
+  --clump-kb 10000
+  --clump-p1 0.99
+  --clump-r2 0.001
+  --out /tmp/Rtmp5oHnm4/file1e6652c910ee0
+
+27058 MB RAM detected; reserving 13529 MB for main workspace.
+8550156 variants loaded from .bim file.
+503 people (0 males, 0 females, 503 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to /tmp/Rtmp5oHnm4/file1e6652c910ee0.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 503 founders and 0 nonfounders present.
+Calculating allele frequencies... 0%1%2%3%4%5%6%7%8%9%10%11%12%13%14%15%16%17%18%19%20%21%22%23%24%25%26%27%28%29%30%31%32%33%34%35%36%37%38%39%40%41%42%43%44%45%46%47%48%49%50%51%52%53%54%55%56%57%58%59%60%61%62%63%64%65%66%67%68%69%70%71%72%73%74%75%76%77%78%79%80%81%82%83%84%85%86%87%88%89%90%91%92%93%94%95%96%97%98%99% done.
+Total genotyping rate is exactly 1.
+8550156 variants and 503 people pass filters and QC.
+Note: No phenotypes present.
+--clump: 144 clumps formed from 7827 top variants.
+Results written to /tmp/Rtmp5oHnm4/file1e6652c910ee0.clumped .
+Removing 7683 of 7827 variants due to LD with other variants or absence from LD reference panel
+Clumping lmb5ZY, 14291 variants, using: /home/user/q1paper/data/ref/clump/EUR
+PLINK v1.9.1 64-bit (11 Nov 2026)                  cog-genomics.org/plink/1.9/
+(C) 2005-2026 Shaun Purcell, Christopher Chang   GNU General Public License v3
+Logging to /tmp/Rtmp5oHnm4/file20f7e2c910ee0.log.
+Options in effect:
+  --bfile /home/user/q1paper/data/ref/clump/EUR
+  --clump /tmp/Rtmp5oHnm4/file20f7e2c910ee0
+  --clump-kb 10000
+  --clump-p1 0.99
+  --clump-r2 0.001
+  --out /tmp/Rtmp5oHnm4/file20f7e2c910ee0
+
+27058 MB RAM detected; reserving 13529 MB for main workspace.
+8550156 variants loaded from .bim file.
+503 people (0 males, 0 females, 503 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to /tmp/Rtmp5oHnm4/file20f7e2c910ee0.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 503 founders and 0 nonfounders present.
+Calculating allele frequencies... 0%1%2%3%4%5%6%7%8%9%10%11%12%13%14%15%16%17%18%19%20%21%22%23%24%25%26%27%28%29%30%31%32%33%34%35%36%37%38%39%40%41%42%43%44%45%46%47%48%49%50%51%52%53%54%55%56%57%58%59%60%61%62%63%64%65%66%67%68%69%70%71%72%73%74%75%76%77%78%79%80%81%82%83%84%85%86%87%88%89%90%91%92%93%94%95%96%97%98%99% done.
+Total genotyping rate is exactly 1.
+8550156 variants and 503 people pass filters and QC.
+Note: No phenotypes present.
+Warning: 'rs36120096' is missing from the main dataset, and is a top variant.
+Warning: 'rs141898327' is missing from the main dataset, and is a top variant.
+Warning: 'rs191859819' is missing from the main dataset, and is a top variant.
+--clump: 199 clumps formed from 14288 top variants.
+Results written to /tmp/Rtmp5oHnm4/file20f7e2c910ee0.clumped .
+Removing 14092 of 14291 variants due to LD with other variants or absence from LD reference panel
+Clumping lmb5ZY, 12574 variants, using: /home/user/q1paper/data/ref/clump/EUR
+Clumping lmb5ZY, 1149 variants, using: /home/user/q1paper/data/ref/clump/EUR
+PLINK v1.9.1 64-bit (11 Nov 2026)                  cog-genomics.org/plink/1.9/
+(C) 2005-2026 Shaun Purcell, Christopher Chang   GNU General Public License v3
+Logging to /tmp/Rtmp5oHnm4/file21cde2c910ee0.log.
+Options in effect:
+  --bfile /home/user/q1paper/data/ref/clump/EUR
+  --clump /tmp/Rtmp5oHnm4/file21cde2c910ee0
+  --clump-kb 10000
+  --clump-p1 0.99
+  --clump-r2 0.001
+  --out /tmp/Rtmp5oHnm4/file21cde2c910ee0
+
+27058 MB RAM detected; reserving 13529 MB for main workspace.
+8550156 variants loaded from .bim file.
+503 people (0 males, 0 females, 503 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to /tmp/Rtmp5oHnm4/file21cde2c910ee0.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 503 founders and 0 nonfounders present.
+Calculating allele frequencies... 0%1%PLINK v1.9.1 64-bit (11 Nov 2026)                  cog-genomics.org/plink/1.9/
+(C) 2005-2026 Shaun Purcell, Christopher Chang   GNU General Public License v3
+Logging to /tmp/Rtmp5oHnm4/file21ce02c910ee0.log.
+Options in effect:
+  --bfile /home/user/q1paper/data/ref/clump/EUR
+  --clump /tmp/Rtmp5oHnm4/file21ce02c910ee0
+  --clump-kb 10000
+  --clump-p1 0.99
+  --clump-r2 0.001
+  --out /tmp/Rtmp5oHnm4/file21ce02c910ee0
+
+27058 MB RAM detected; reserving 13529 MB for main workspace.
+8550156 variants loaded from .bim file.
+503 people (0 males, 0 females, 503 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to /tmp/Rtmp5oHnm4/file21ce02c910ee0.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 503 founders and 0 nonfounders present.
+Calculating allele frequencies... 0%2%1%3%2%4%3%5%4%6%5%7%6%7%8%8%9%9%10%10%11%11%12%12%13%13%14%14%15%15%16%16%17%17%18%18%19%19%20%20%21%21%22%22%23%23%24%24%25%25%26%26%27%27%28%28%29%29%30%30%31%31%32%32%33%33%34%34%35%35%36%36%37%37%38%38%39%39%40%40%41%41%42%42%43%43%44%44%45%45%46%46%47%47%48%48%49%49%50%50%51%51%52%52%53%54%53%55%54%56%55%57%58%56%59%57%60%58%59%61%60%62%61%63%62%64%63%65%64%66%65%67%66%68%67%69%68%70%71%69%72%70%73%71%74%75%72%76%73%77%74%78%75%79%76%80%77%81%78%82%79%83%80%84%81%85%82%86%83%87%84%88%85%89%86%90%87%88%91%89%92%90%93%91%94%92%95%93%96%94%97%95%98%96%99%97%98%99% done.
+Total genotyping rate is exactly 1.
+8550156 variants and 503 people pass filters and QC.
+Note: No phenotypes present.
+--clump: 27 clumps formed from 1149 top variants.
+Results written to /tmp/Rtmp5oHnm4/file21ce02c910ee0.clumped .
+Removing 1122 of 1149 variants due to LD with other variants or absence from LD reference panel
+ done.
+Total genotyping rate is exactly 1.
+8550156 variants and 503 people pass filters and QC.
+Note: No phenotypes present.
+Warning: 'rs36120096' is missing from the main dataset, and is a top variant.
+Warning: 'rs141898327' is missing from the main dataset, and is a top variant.
+Warning: 'rs191859819' is missing from the main dataset, and is a top variant.
+--clump: 195 clumps formed from 12571 top variants.
+Results written to /tmp/Rtmp5oHnm4/file21cde2c910ee0.clumped .
+Removing 12379 of 12574 variants due to LD with other variants or absence from LD reference panel
+Clumping lmb5ZY, 1159 variants, using: /home/user/q1paper/data/ref/clump/EUR
+PLINK v1.9.1 64-bit (11 Nov 2026)                  cog-genomics.org/plink/1.9/
+(C) 2005-2026 Shaun Purcell, Christopher Chang   GNU General Public License v3
+Logging to /tmp/Rtmp5oHnm4/file21cdf2c910ee0.log.
+Options in effect:
+  --bfile /home/user/q1paper/data/ref/clump/EUR
+  --clump /tmp/Rtmp5oHnm4/file21cdf2c910ee0
+  --clump-kb 10000
+  --clump-p1 0.99
+  --clump-r2 0.001
+  --out /tmp/Rtmp5oHnm4/file21cdf2c910ee0
+
+27058 MB RAM detected; reserving 13529 MB for main workspace.
+8550156 variants loaded from .bim file.
+503 people (0 males, 0 females, 503 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to /tmp/Rtmp5oHnm4/file21cdf2c910ee0.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 503 founders and 0 nonfounders present.
+Calculating allele frequencies... 0%1%2%3%4%5%6%7%8%9%10%11%12%13%14%15%16%17%18%19%20%21%22%23%24%25%26%27%28%29%30%31%32%33%34%35%36%37%38%39%40%41%42%43%44%45%46%47%48%49%50%51%52%53%54%55%56%57%58%59%60%61%62%63%64%65%66%67%68%69%70%71%72%73%74%75%76%77%78%79%80%81%82%83%84%85%86%87%88%89%90%91%92%93%94%95%96%97%98%99% done.
+Total genotyping rate is exactly 1.
+8550156 variants and 503 people pass filters and QC.
+Note: No phenotypes present.
+--clump: 27 clumps formed from 1159 top variants.
+Results written to /tmp/Rtmp5oHnm4/file21cdf2c910ee0.clumped .
+Removing 1132 of 1159 variants due to LD with other variants or absence from LD reference panel
+Clumping lmb5ZY, 1007 variants, using: /home/user/q1paper/data/ref/clump/EUR
+PLINK v1.9.1 64-bit (11 Nov 2026)                  cog-genomics.org/plink/1.9/
+(C) 2005-2026 Shaun Purcell, Christopher Chang   GNU General Public License v3
+Logging to /tmp/Rtmp5oHnm4/file23ea92c910ee0.log.
+Options in effect:
+  --bfile /home/user/q1paper/data/ref/clump/EUR
+  --clump /tmp/Rtmp5oHnm4/file23ea92c910ee0
+  --clump-kb 10000
+  --clump-p1 0.99
+  --clump-r2 0.001
+  --out /tmp/Rtmp5oHnm4/file23ea92c910ee0
+
+27058 MB RAM detected; reserving 13529 MB for main workspace.
+8550156 variants loaded from .bim file.
+503 people (0 males, 0 females, 503 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to /tmp/Rtmp5oHnm4/file23ea92c910ee0.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 503 founders and 0 nonfounders present.
+Calculating allele frequencies... 0%1%2%3%4%5%6%7%8%9%10%11%12%13%14%15%16%17%18%19%20%21%22%23%24%25%26%27%28%29%30%31%32%33%34%35%36%37%38%39%40%41%42%43%44%45%46%47%48%49%50%51%52%53%54%55%56%57%58%59%60%61%62%63%64%65%66%67%68%69%70%71%72%73%74%75%76%77%78%79%80%81%82%83%84%85%86%87%88%89%90%91%92%93%94%95%96%97%98%99% done.
+Total genotyping rate is exactly 1.
+8550156 variants and 503 people pass filters and QC.
+Note: No phenotypes present.
+--clump: 27 clumps formed from 1007 top variants.
+Results written to /tmp/Rtmp5oHnm4/file23ea92c910ee0.clumped .
+Removing 980 of 1007 variants due to LD with other variants or absence from LD reference panel
+Clumping lmb5ZY, 18039 variants, using: /home/user/q1paper/data/ref/clump/EUR
+PLINK v1.9.1 64-bit (11 Nov 2026)                  cog-genomics.org/plink/1.9/
+(C) 2005-2026 Shaun Purcell, Christopher Chang   GNU General Public License v3
+Logging to /tmp/Rtmp5oHnm4/file252b82c910ee0.log.
+Options in effect:
+  --bfile /home/user/q1paper/data/ref/clump/EUR
+  --clump /tmp/Rtmp5oHnm4/file252b82c910ee0
+  --clump-kb 10000
+  --clump-p1 0.99
+  --clump-r2 0.001
+  --out /tmp/Rtmp5oHnm4/file252b82c910ee0
+
+27058 MB RAM detected; reserving 13529 MB for main workspace.
+8550156 variants loaded from .bim file.
+503 people (0 males, 0 females, 503 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to /tmp/Rtmp5oHnm4/file252b82c910ee0.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 503 founders and 0 nonfounders present.
+Calculating allele frequencies... 0%1%2%3%4%5%6%7%8%9%10%11%12%13%14%15%16%17%18%19%20%21%22%23%24%25%26%27%28%29%30%31%32%33%34%35%36%37%38%39%40%41%42%43%44%45%46%47%48%49%50%51%52%53%54%55%56%57%58%59%60%61%62%63%64%65%66%67%68%69%70%71%72%73%74%75%76%77%78%79%80%81%82%83%84%85%86%87%88%89%90%91%92%93%94%95%96%97%98%99% done.
+Total genotyping rate is exactly 1.
+8550156 variants and 503 people pass filters and QC.
+Note: No phenotypes present.
+--clump: 151 clumps formed from 18039 top variants.
+Results written to /tmp/Rtmp5oHnm4/file252b82c910ee0.clumped .
+Removing 17888 of 18039 variants due to LD with other variants or absence from LD reference panel
+Clumping lmb5ZY, 15331 variants, using: /home/user/q1paper/data/ref/clump/EUR
+PLINK v1.9.1 64-bit (11 Nov 2026)                  cog-genomics.org/plink/1.9/
+(C) 2005-2026 Shaun Purcell, Christopher Chang   GNU General Public License v3
+Logging to /tmp/Rtmp5oHnm4/file252bb2c910ee0.log.
+Options in effect:
+  --bfile /home/user/q1paper/data/ref/clump/EUR
+  --clump /tmp/Rtmp5oHnm4/file252bb2c910ee0
+  --clump-kb 10000
+  --clump-p1 0.99
+  --clump-r2 0.001
+  --out /tmp/Rtmp5oHnm4/file252bb2c910ee0
+
+27058 MB RAM detected; reserving 13529 MB for main workspace.
+8550156 variants loaded from .bim file.
+503 people (0 males, 0 females, 503 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to /tmp/Rtmp5oHnm4/file252bb2c910ee0.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 503 founders and 0 nonfounders present.
+Calculating allele frequencies... 0%1%2%3%4%5%6%7%8%9%10%11%12%13%14%15%16%17%18%19%20%21%22%23%24%25%26%27%28%29%30%31%32%33%34%35%36%37%38%39%40%41%42%43%44%45%46%47%48%49%50%51%52%53%54%55%56%57%58%59%60%61%62%63%64%65%66%67%68%69%70%71%72%73%74%75%76%77%78%79%80%81%82%83%84%85%86%87%88%89%90%91%92%93%94%95%96%97%98%99% done.
+Total genotyping rate is exactly 1.
+8550156 variants and 503 people pass filters and QC.
+Note: No phenotypes present.
+--clump: 147 clumps formed from 15331 top variants.
+Results written to /tmp/Rtmp5oHnm4/file252bb2c910ee0.clumped .
+Removing 15184 of 15331 variants due to LD with other variants or absence from LD reference panel
+Clumping lmb5ZY, 18360 variants, using: /home/user/q1paper/data/ref/clump/EUR
+PLINK v1.9.1 64-bit (11 Nov 2026)                  cog-genomics.org/plink/1.9/
+(C) 2005-2026 Shaun Purcell, Christopher Chang   GNU General Public License v3
+Logging to /tmp/Rtmp5oHnm4/file252b72c910ee0.log.
+Options in effect:
+  --bfile /home/user/q1paper/data/ref/clump/EUR
+  --clump /tmp/Rtmp5oHnm4/file252b72c910ee0
+  --clump-kb 10000
+  --clump-p1 0.99
+  --clump-r2 0.001
+  --out /tmp/Rtmp5oHnm4/file252b72c910ee0
+
+27058 MB RAM detected; reserving 13529 MB for main workspace.
+8550156 variants loaded from .bim file.
+503 people (0 males, 0 females, 503 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to /tmp/Rtmp5oHnm4/file252b72c910ee0.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 503 founders and 0 nonfounders present.
+Calculating allele frequencies... 0%1%2%3%4%5%6%7%8%9%10%11%12%13%14%15%16%17%18%19%20%21%22%23%24%25%26%27%28%29%30%31%32%33%34%35%36%37%38%39%40%41%42%43%44%45%46%47%48%49%50%51%52%53%54%55%56%57%58%59%60%61%62%63%64%65%66%67%68%69%70%71%72%73%74%75%76%77%78%79%80%81%82%83%84%85%86%87%88%89%90%91%92%93%94%95%96%97%98%99% done.
+Total genotyping rate is exactly 1.
+8550156 variants and 503 people pass filters and QC.
+Note: No phenotypes present.
+--clump: 151 clumps formed from 18360 top variants.
+Results written to /tmp/Rtmp5oHnm4/file252b72c910ee0.clumped .
+Removing 18209 of 18360 variants due to LD with other variants or absence from LD reference panel
+2026-11-21 03:15:14 özet: 
+               id  n_iv isq_gx    OR      p   fdr
+           <char> <int>  <num> <num>  <num> <num>
+ 1:  ad__insomnia    49   0.95 0.977 0.0900 0.480
+ 2:       ad__mdd    50   0.97 1.001 0.9400 0.940
+ 3:      ad__ptsd    45   0.95 0.994 0.5600 0.920
+ 4:       ad__scz    46   0.97 1.009 0.7300 0.920
+ 5: dlb__insomnia     3   0.98 0.987 0.6200 0.920
+ 6:      dlb__mdd     4   0.98 1.004 0.3700 0.920
+ 7:     dlb__ptsd     3   0.00 1.007 0.2900 0.920
+ 8:      dlb__scz     4   0.98 1.008 0.7500 0.920
+ 9:  insomnia__ad    12   0.79 0.954 0.5800 0.920
+10: insomnia__dlb     8   0.00 0.956 0.8400 0.940
+11:       mdd__ad   135   0.50 1.004 0.9100 0.940
+12:      mdd__dlb    53   0.58 0.949 0.5300 0.920
+13:      ptsd__ad    25   0.39 0.833 0.0028 0.045
+14:     ptsd__dlb    13   0.67 1.067 0.7200 0.920
+15:       scz__ad   150   0.61 1.039 0.0250 0.200
+16:      scz__dlb   119   0.55 0.959 0.3700 0.920
+                      classification
+                              <char>
+ 1:                      no evidence
+ 2:                      no evidence
+ 3:                      no evidence
+ 4:                      no evidence
+ 5:                      no evidence
+ 6:                      no evidence
+ 7:                      no evidence
+ 8:                      no evidence
+ 9:                      no evidence
+10:                      no evidence
+11:                      no evidence
+12:                      no evidence
+13: evidence sensitive to pleiotropy
+14:                      no evidence
+15:                      no evidence
+16:                      no evidence
+2026-11-21 03:15:14 BİTTİ 
+R version 4.3.3 (2024-02-29)
+Platform: x86_64-pc-linux-gnu (64-bit)
+Running under: Ubuntu 24.04.2 LTS
+
+Matrix products: default
+BLAS:   /usr/lib/x86_64-linux-gnu/blas/libblas.so.3.12.0 
+LAPACK: /usr/lib/x86_64-linux-gnu/lapack/liblapack.so.3.12.0
+
+locale:
+ [1] LC_CTYPE=C.UTF-8       LC_NUMERIC=C           LC_TIME=C.UTF-8       
+ [4] LC_COLLATE=C.UTF-8     LC_MONETARY=C.UTF-8    LC_MESSAGES=C.UTF-8   
+ [7] LC_PAPER=C.UTF-8       LC_NAME=C              LC_ADDRESS=C          
+[10] LC_TELEPHONE=C         LC_MEASUREMENT=C.UTF-8 LC_IDENTIFICATION=C   
+
+time zone: Europe/Istanbul
+tzcode source: system (glibc)
+
+attached base packages:
+[1] parallel  stats     graphics  grDevices utils     datasets  methods  
+[8] base     
+
+other attached packages:
+[1] MRlap_0.0.3.3       jsonlite_2.0.0      data.table_1.18.6.1
+
+loaded via a namespace (and not attached):
+[1] compiler_4.3.3 magrittr_2.0.5 cli_3.6.6      rlang_1.3.0   

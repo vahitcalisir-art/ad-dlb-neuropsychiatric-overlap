@@ -1,0 +1,179 @@
+Multivariate ld-score regression of 5 traits (/home/user/q1paper/data/ldsc_sumstats/ad_finngen_noapoe.sumstats.gz /home/user/q1paper/data/ldsc_sumstats/mdd.sumstats.gz /home/user/q1paper/data/ldsc_sumstats/ptsd.sumstats.gz /home/user/q1paper/data/ldsc_sumstats/insomnia.sumstats.gz /home/user/q1paper/data/ldsc_sumstats/scz.sumstats.gz) began at: 2026-11-20 13:48:19.91436
+Reading in LD scores
+Read in summary statistics [1/5] from: /home/user/q1paper/data/ldsc_sumstats/ad_finngen_noapoe.sumstats.gz
+Out of 1150206 SNPs, 1150206 remain after merging with LD-score files
+Removing 6 SNPs with Chi^2 > 80; 1150200 remain
+Read in summary statistics [2/5] from: /home/user/q1paper/data/ldsc_sumstats/mdd.sumstats.gz
+Out of 1078335 SNPs, 1078335 remain after merging with LD-score files
+Removing 0 SNPs with Chi^2 > 967.07832; 1078335 remain
+Read in summary statistics [3/5] from: /home/user/q1paper/data/ldsc_sumstats/ptsd.sumstats.gz
+Out of 1140739 SNPs, 1140739 remain after merging with LD-score files
+Removing 0 SNPs with Chi^2 > 641.533; 1140739 remain
+Read in summary statistics [4/5] from: /home/user/q1paper/data/ldsc_sumstats/insomnia.sumstats.gz
+Out of 1122443 SNPs, 1122443 remain after merging with LD-score files
+Removing 0 SNPs with Chi^2 > 314.149246178176; 1122443 remain
+Read in summary statistics [5/5] from: /home/user/q1paper/data/ldsc_sumstats/scz.sumstats.gz
+Out of 1122922 SNPs, 1122922 remain after merging with LD-score files
+Removing 0 SNPs with Chi^2 > 117.49826; 1122922 remain
+          
+Estimating heritability [1/15] for: /home/user/q1paper/data/ldsc_sumstats/ad_finngen_noapoe.sumstats.gz
+Heritability Results for trait: /home/user/q1paper/data/ldsc_sumstats/ad_finngen_noapoe.sumstats.gz
+Mean Chi^2 across remaining SNPs: 1.2052
+Lambda GC: 1.1695
+Intercept: 1.1092 (0.0145)
+Ratio: 0.5322 (0.0708)
+Total Observed Scale h2: 0.0632 (0.0108)
+h2 Z: 5.87
+     
+Calculating genetic covariance [2/15] for traits: /home/user/q1paper/data/ldsc_sumstats/ad_finngen_noapoe.sumstats.gz and /home/user/q1paper/data/ldsc_sumstats/mdd.sumstats.gz
+1060411 SNPs remain after merging /home/user/q1paper/data/ldsc_sumstats/ad_finngen_noapoe.sumstats.gz and /home/user/q1paper/data/ldsc_sumstats/mdd.sumstats.gz summary statistics
+Results for genetic covariance between: /home/user/q1paper/data/ldsc_sumstats/ad_finngen_noapoe.sumstats.gz and /home/user/q1paper/data/ldsc_sumstats/mdd.sumstats.gz
+Mean Z*Z: 0.0169
+Cross trait Intercept: 0.0145 (0.0061)
+Total Observed Scale Genetic Covariance (g_cov): 0.001 (0.002)
+g_cov Z: 0.486
+g_cov P-value: 0.62664
+     
+Calculating genetic covariance [3/15] for traits: /home/user/q1paper/data/ldsc_sumstats/ad_finngen_noapoe.sumstats.gz and /home/user/q1paper/data/ldsc_sumstats/ptsd.sumstats.gz
+1121279 SNPs remain after merging /home/user/q1paper/data/ldsc_sumstats/ad_finngen_noapoe.sumstats.gz and /home/user/q1paper/data/ldsc_sumstats/ptsd.sumstats.gz summary statistics
+Results for genetic covariance between: /home/user/q1paper/data/ldsc_sumstats/ad_finngen_noapoe.sumstats.gz and /home/user/q1paper/data/ldsc_sumstats/ptsd.sumstats.gz
+Mean Z*Z: 0.0245
+Cross trait Intercept: 0.0016 (0.0058)
+Total Observed Scale Genetic Covariance (g_cov): 0.0054 (0.0023)
+g_cov Z: 2.32
+g_cov P-value: 0.020356
+     
+Calculating genetic covariance [4/15] for traits: /home/user/q1paper/data/ldsc_sumstats/ad_finngen_noapoe.sumstats.gz and /home/user/q1paper/data/ldsc_sumstats/insomnia.sumstats.gz
+1098996 SNPs remain after merging /home/user/q1paper/data/ldsc_sumstats/ad_finngen_noapoe.sumstats.gz and /home/user/q1paper/data/ldsc_sumstats/insomnia.sumstats.gz summary statistics
+Results for genetic covariance between: /home/user/q1paper/data/ldsc_sumstats/ad_finngen_noapoe.sumstats.gz and /home/user/q1paper/data/ldsc_sumstats/insomnia.sumstats.gz
+Mean Z*Z: 0.0092
+Cross trait Intercept: 0.0021 (0.0058)
+Total Observed Scale Genetic Covariance (g_cov): 0.0017 (0.0028)
+g_cov Z: 0.6
+g_cov P-value: 0.5483
+     
+Calculating genetic covariance [5/15] for traits: /home/user/q1paper/data/ldsc_sumstats/ad_finngen_noapoe.sumstats.gz and /home/user/q1paper/data/ldsc_sumstats/scz.sumstats.gz
+1101359 SNPs remain after merging /home/user/q1paper/data/ldsc_sumstats/ad_finngen_noapoe.sumstats.gz and /home/user/q1paper/data/ldsc_sumstats/scz.sumstats.gz summary statistics
+Results for genetic covariance between: /home/user/q1paper/data/ldsc_sumstats/ad_finngen_noapoe.sumstats.gz and /home/user/q1paper/data/ldsc_sumstats/scz.sumstats.gz
+Mean Z*Z: 0.013
+Cross trait Intercept: -0.0016 (0.0074)
+Total Observed Scale Genetic Covariance (g_cov): 0.0083 (0.0065)
+g_cov Z: 1.29
+g_cov P-value: 0.19742
+          
+Estimating heritability [6/15] for: /home/user/q1paper/data/ldsc_sumstats/mdd.sumstats.gz
+Heritability Results for trait: /home/user/q1paper/data/ldsc_sumstats/mdd.sumstats.gz
+Mean Chi^2 across remaining SNPs: 1.9994
+Lambda GC: 1.7403
+Intercept: 1.1409 (0.0151)
+Ratio: 0.141 (0.0151)
+Total Observed Scale h2: 0.0414 (0.0016)
+h2 Z: 26
+     
+Calculating genetic covariance [7/15] for traits: /home/user/q1paper/data/ldsc_sumstats/mdd.sumstats.gz and /home/user/q1paper/data/ldsc_sumstats/ptsd.sumstats.gz
+1064396 SNPs remain after merging /home/user/q1paper/data/ldsc_sumstats/mdd.sumstats.gz and /home/user/q1paper/data/ldsc_sumstats/ptsd.sumstats.gz summary statistics
+Results for genetic covariance between: /home/user/q1paper/data/ldsc_sumstats/mdd.sumstats.gz and /home/user/q1paper/data/ldsc_sumstats/ptsd.sumstats.gz
+Mean Z*Z: 0.9633
+Cross trait Intercept: 0.3058 (0.0115)
+Total Observed Scale Genetic Covariance (g_cov): 0.0387 (0.0015)
+g_cov Z: 26
+g_cov P-value: 1.5685e-148
+     
+Calculating genetic covariance [8/15] for traits: /home/user/q1paper/data/ldsc_sumstats/mdd.sumstats.gz and /home/user/q1paper/data/ldsc_sumstats/insomnia.sumstats.gz
+1044106 SNPs remain after merging /home/user/q1paper/data/ldsc_sumstats/mdd.sumstats.gz and /home/user/q1paper/data/ldsc_sumstats/insomnia.sumstats.gz summary statistics
+Results for genetic covariance between: /home/user/q1paper/data/ldsc_sumstats/mdd.sumstats.gz and /home/user/q1paper/data/ldsc_sumstats/insomnia.sumstats.gz
+Mean Z*Z: 0.2903
+Cross trait Intercept: 0.0371 (0.0077)
+Total Observed Scale Genetic Covariance (g_cov): 0.0205 (0.0013)
+g_cov Z: 16.3
+g_cov P-value: 4.6779e-60
+     
+Calculating genetic covariance [9/15] for traits: /home/user/q1paper/data/ldsc_sumstats/mdd.sumstats.gz and /home/user/q1paper/data/ldsc_sumstats/scz.sumstats.gz
+1052069 SNPs remain after merging /home/user/q1paper/data/ldsc_sumstats/mdd.sumstats.gz and /home/user/q1paper/data/ldsc_sumstats/scz.sumstats.gz summary statistics
+Results for genetic covariance between: /home/user/q1paper/data/ldsc_sumstats/mdd.sumstats.gz and /home/user/q1paper/data/ldsc_sumstats/scz.sumstats.gz
+Mean Z*Z: 0.4263
+Cross trait Intercept: 0.1116 (0.0092)
+Total Observed Scale Genetic Covariance (g_cov): 0.0423 (0.003)
+g_cov Z: 14.2
+g_cov P-value: 8.3429e-46
+          
+Estimating heritability [10/15] for: /home/user/q1paper/data/ldsc_sumstats/ptsd.sumstats.gz
+Heritability Results for trait: /home/user/q1paper/data/ldsc_sumstats/ptsd.sumstats.gz
+Mean Chi^2 across remaining SNPs: 1.7184
+Lambda GC: 1.551
+Intercept: 1.1072 (0.0107)
+Ratio: 0.1493 (0.0148)
+Total Observed Scale h2: 0.0437 (0.0019)
+h2 Z: 22.9
+     
+Calculating genetic covariance [11/15] for traits: /home/user/q1paper/data/ldsc_sumstats/ptsd.sumstats.gz and /home/user/q1paper/data/ldsc_sumstats/insomnia.sumstats.gz
+1099112 SNPs remain after merging /home/user/q1paper/data/ldsc_sumstats/ptsd.sumstats.gz and /home/user/q1paper/data/ldsc_sumstats/insomnia.sumstats.gz summary statistics
+Results for genetic covariance between: /home/user/q1paper/data/ldsc_sumstats/ptsd.sumstats.gz and /home/user/q1paper/data/ldsc_sumstats/insomnia.sumstats.gz
+Mean Z*Z: 0.2808
+Cross trait Intercept: 0.0604 (0.007)
+Total Observed Scale Genetic Covariance (g_cov): 0.0223 (0.0014)
+g_cov Z: 15.6
+g_cov P-value: 4.7033e-55
+     
+Calculating genetic covariance [12/15] for traits: /home/user/q1paper/data/ldsc_sumstats/ptsd.sumstats.gz and /home/user/q1paper/data/ldsc_sumstats/scz.sumstats.gz
+1099918 SNPs remain after merging /home/user/q1paper/data/ldsc_sumstats/ptsd.sumstats.gz and /home/user/q1paper/data/ldsc_sumstats/scz.sumstats.gz summary statistics
+Results for genetic covariance between: /home/user/q1paper/data/ldsc_sumstats/ptsd.sumstats.gz and /home/user/q1paper/data/ldsc_sumstats/scz.sumstats.gz
+Mean Z*Z: 0.3495
+Cross trait Intercept: 0.0721 (0.0086)
+Total Observed Scale Genetic Covariance (g_cov): 0.0466 (0.0032)
+g_cov Z: 14.7
+g_cov P-value: 8.7855e-49
+          
+Estimating heritability [13/15] for: /home/user/q1paper/data/ldsc_sumstats/insomnia.sumstats.gz
+Heritability Results for trait: /home/user/q1paper/data/ldsc_sumstats/insomnia.sumstats.gz
+Mean Chi^2 across remaining SNPs: 1.3658
+Lambda GC: 1.3058
+Intercept: 1.0534 (0.009)
+Ratio: 0.1459 (0.0245)
+Total Observed Scale h2: 0.0437 (0.0024)
+h2 Z: 18.2
+     
+Calculating genetic covariance [14/15] for traits: /home/user/q1paper/data/ldsc_sumstats/insomnia.sumstats.gz and /home/user/q1paper/data/ldsc_sumstats/scz.sumstats.gz
+1089020 SNPs remain after merging /home/user/q1paper/data/ldsc_sumstats/insomnia.sumstats.gz and /home/user/q1paper/data/ldsc_sumstats/scz.sumstats.gz summary statistics
+Results for genetic covariance between: /home/user/q1paper/data/ldsc_sumstats/insomnia.sumstats.gz and /home/user/q1paper/data/ldsc_sumstats/scz.sumstats.gz
+Mean Z*Z: 0.0336
+Cross trait Intercept: -1e-04 (0.0076)
+Total Observed Scale Genetic Covariance (g_cov): 0.006 (0.0033)
+g_cov Z: 1.8
+g_cov P-value: 0.072079
+          
+Estimating heritability [15/15] for: /home/user/q1paper/data/ldsc_sumstats/scz.sumstats.gz
+Heritability Results for trait: /home/user/q1paper/data/ldsc_sumstats/scz.sumstats.gz
+Mean Chi^2 across remaining SNPs: 2.048
+Lambda GC: 1.7673
+Intercept: 1.1764 (0.0172)
+Ratio: 0.1683 (0.0165)
+Total Observed Scale h2: 0.3227 (0.0145)
+h2 Z: 22.2
+     
+      
+Genetic Correlation Results
+Genetic Correlation between ad_finngen_noapoe and mdd: 0.0189 (0.0389)
+     
+Genetic Correlation between ad_finngen_noapoe and ptsd: 0.1031 (0.0444)
+     
+Genetic Correlation between ad_finngen_noapoe and insomnia: 0.0325 (0.0542)
+     
+Genetic Correlation between ad_finngen_noapoe and scz: 0.0583 (0.0452)
+     
+Genetic Correlation between mdd and ptsd: 0.9094 (0.035)
+     
+Genetic Correlation between mdd and insomnia: 0.4826 (0.0295)
+     
+Genetic Correlation between mdd and scz: 0.3664 (0.0258)
+     
+Genetic Correlation between ptsd and insomnia: 0.5106 (0.0327)
+     
+Genetic Correlation between ptsd and scz: 0.3924 (0.0267)
+     
+Genetic Correlation between insomnia and scz: 0.0502 (0.0279)
+     
+     
+LDSC finished running at 2026-11-20 13:48:55.058546
+Running LDSC for all files took 0 minutes and 35 seconds
+     

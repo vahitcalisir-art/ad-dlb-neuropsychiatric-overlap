@@ -1,0 +1,40 @@
+== [7] "mendelian randomization" AND (depression OR "depressive disorder") AND ("Alzheimer disease" OR "Alzheimer's disease")
+7 aday eklendi. Toplam kayıt: 32
+== [5] "mendelian randomization" AND ("post-traumatic stress" OR PTSD) AND (dementia OR Alzheimer*)
+5 aday eklendi. Toplam kayıt: 37
+== [5] "mendelian randomization" AND insomnia AND (Alzheimer* OR dementia)
+5 aday eklendi. Toplam kayıt: 42
+== [5] "mendelian randomization" AND schizophrenia AND (Alzheimer* OR dementia)
+5 aday eklendi. Toplam kayıt: 47
+== [7] "genetic correlation" AND (depression OR schizophrenia OR "post-traumatic stress" OR insomnia) AND (Alzheimer* OR "Lewy body")
+7 aday eklendi. Toplam kayıt: 54
+== [5] ("Lewy body dementia" OR "dementia with Lewy bodies") AND (depression OR psychosis OR hallucinations) AND (genetic OR GWAS OR polygenic)
+5 aday eklendi. Toplam kayıt: 59
+== [6] APOE AND (depression OR psychosis OR "post-traumatic stress") AND ("neuropsychiatric symptoms" OR dementia)
+6 aday eklendi. Toplam kayıt: 65
+== [7] "neuropsychiatric symptoms" AND dementia AND (prevalence OR progression OR mortality) AND ("meta-analysis" OR "systematic review" OR cohort)
+7 aday eklendi. Toplam kayıt: 72
+== [5] "mild behavioral impairment" AND (dementia OR "cognitive decline")
+5 aday eklendi. Toplam kayıt: 77
+== [6] (depression OR PTSD OR insomnia) AND "risk of dementia" AND ("meta-analysis" OR "systematic review")
+6 aday eklendi. Toplam kayıt: 83
+== [5] ("proxy" OR "family history" OR GWAX) AND Alzheimer* AND ("genetic correlation" OR "polygenic" OR "genome-wide")
+5 aday eklendi. Toplam kayıt: 88
+== [4] "LD score regression" AND ("reference panel" OR mismatch OR "linkage disequilibrium reference")
+4 aday eklendi. Toplam kayıt: 92
+== [2] "dementia with Lewy bodies" AND prevalence AND ("systematic review" OR "meta-analysis")
+2 aday eklendi. Toplam kayıt: 94
+== [2] "Alzheimer" AND prevalence AND "older adults" AND ("systematic review" OR "meta-analysis")
+2 aday eklendi. Toplam kayıt: 96
+== [2] ("major depressive disorder" OR "major depression") AND "lifetime prevalence" AND "World Mental Health"
+2 aday eklendi. Toplam kayıt: 98
+== [2] ("posttraumatic stress disorder" OR PTSD) AND "lifetime prevalence" AND "World Mental Health"
+2 aday eklendi. Toplam kayıt: 100
+== [2] insomnia AND prevalence AND ("systematic review" OR "meta-analysis") AND adults
+2 aday eklendi. Toplam kayıt: 102
+== [2] schizophrenia AND prevalence AND "systematic review"
+2 aday eklendi. Toplam kayıt: 104
+{
+ "CANDIDATE": 103,
+ "DROP": 1
+}

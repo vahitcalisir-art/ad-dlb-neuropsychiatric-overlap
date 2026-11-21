@@ -1,0 +1,6 @@
+patched dirs write
+MR main finished Fri Nov 20 13:34:28 +03 2026
+2026-11-20 13:30:56 durumlar: error: Item 2 is type double but the first item is type logical. Please coerce before coalescing. 10; ok 36 
+2026-11-20 13:30:56 BİTTİ 
+== munge insomnia Fri Nov 20 13:34:28 +03 2026
+== ldsc Fri Nov 20 13:37:30 +03 2026

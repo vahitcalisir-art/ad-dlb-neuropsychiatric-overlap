@@ -1,0 +1,33 @@
+PLINK v1.9.1 64-bit (11 Nov 2026)
+Options in effect:
+  --bfile /home/user/q1paper/data/ref/clump/EUR
+  --clump /home/user/q1paper/analysis/logs/clump/dlb__insomnia_5e-08.p
+  --clump-field P
+  --clump-kb 10000
+  --clump-p1 5e-08
+  --clump-p2 5e-08
+  --clump-r2 0.001
+  --clump-snp-field SNP
+  --out /home/user/q1paper/analysis/logs/clump/dlb__insomnia_5e-08
+
+Hostname: host
+Working directory: /home/user/q1paper
+Start time: Fri Nov 20 13:50:10 2026
+
+Random number seed: 1795171810
+27058 MB RAM detected; reserving 13529 MB for main workspace.
+8550156 variants loaded from .bim file.
+503 people (0 males, 0 females, 503 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to
+/home/user/q1paper/analysis/logs/clump/dlb__insomnia_5e-08.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 503 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is exactly 1.
+8550156 variants and 503 people pass filters and QC.
+Note: No phenotypes present.
+--clump: 5 clumps formed from 155 top variants.
+Results written to
+/home/user/q1paper/analysis/logs/clump/dlb__insomnia_5e-08.clumped .
+
+End time: Fri Nov 20 13:50:26 2026

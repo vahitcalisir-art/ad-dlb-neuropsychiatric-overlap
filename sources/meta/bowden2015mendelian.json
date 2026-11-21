@@ -1,0 +1,55 @@
+{
+ "author_order_note": "",
+ "DOI": "10.1093/ije/dyv080",
+ "title": "Mendelian randomization with invalid instruments: effect estimation and bias detection through Egger regression",
+ "container-title": "International Journal of Epidemiology",
+ "container-title-short": "International Journal of Epidemiology",
+ "author": [
+  {
+   "family": "Bowden",
+   "given": "J."
+  },
+  {
+   "family": "Davey Smith",
+   "given": "G."
+  },
+  {
+   "family": "Burgess",
+   "given": "S."
+  }
+ ],
+ "issued": {
+  "date-parts": [
+   [
+    2015,
+    4,
+    1
+   ]
+  ]
+ },
+ "published-print": {
+  "date-parts": [
+   [
+    2015,
+    4,
+    1
+   ]
+  ]
+ },
+ "published-online": {
+  "date-parts": [
+   [
+    2015,
+    6,
+    6
+   ]
+  ]
+ },
+ "volume": "44",
+ "issue": "2",
+ "page": "512-525",
+ "article-number": "",
+ "type": "journal-article",
+ "corrections": [],
+ "verified_title_similarity": 1.0
+}

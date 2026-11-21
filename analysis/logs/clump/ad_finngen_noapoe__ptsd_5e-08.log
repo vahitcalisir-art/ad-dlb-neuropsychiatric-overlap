@@ -1,0 +1,96 @@
+PLINK v1.9.1 64-bit (11 Nov 2026)
+Options in effect:
+  --bfile /home/user/q1paper/data/ref/clump/EUR
+  --clump /home/user/q1paper/analysis/logs/clump/ad_finngen_noapoe__ptsd_5e-08.p
+  --clump-field P
+  --clump-kb 10000
+  --clump-p1 5e-08
+  --clump-p2 5e-08
+  --clump-r2 0.001
+  --clump-snp-field SNP
+  --out /home/user/q1paper/analysis/logs/clump/ad_finngen_noapoe__ptsd_5e-08
+
+Hostname: host
+Working directory: /home/user/q1paper
+Start time: Fri Nov 20 13:13:31 2026
+
+Random number seed: 1795169611
+27058 MB RAM detected; reserving 13529 MB for main workspace.
+8550156 variants loaded from .bim file.
+503 people (0 males, 0 females, 503 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to
+/home/user/q1paper/analysis/logs/clump/ad_finngen_noapoe__ptsd_5e-08.nosex
+.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 503 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is exactly 1.
+8550156 variants and 503 people pass filters and QC.
+Note: No phenotypes present.
+Warning: 'rs186130410' is missing from the main dataset, and is a top variant.
+Warning: 'rs12462098' is missing from the main dataset, and is a top variant.
+Warning: 'rs137887981' is missing from the main dataset, and is a top variant.
+Warning: 'rs189951053' is missing from the main dataset, and is a top variant.
+Warning: 'rs148774309' is missing from the main dataset, and is a top variant.
+Warning: 'rs192417281' is missing from the main dataset, and is a top variant.
+Warning: 'rs188304725' is missing from the main dataset, and is a top variant.
+Warning: 'rs79205806' is missing from the main dataset, and is a top variant.
+Warning: 'rs147679453' is missing from the main dataset, and is a top variant.
+Warning: 'rs552952360' is missing from the main dataset, and is a top variant.
+Warning: 'rs191277778' is missing from the main dataset, and is a top variant.
+Warning: 'rs192071752' is missing from the main dataset, and is a top variant.
+Warning: 'rs191010519' is missing from the main dataset, and is a top variant.
+Warning: 'rs143544095' is missing from the main dataset, and is a top variant.
+Warning: 'rs73058691' is missing from the main dataset, and is a top variant.
+Warning: 'rs76505653' is missing from the main dataset, and is a top variant.
+Warning: 'rs188414744' is missing from the main dataset, and is a top variant.
+Warning: 'rs192981198' is missing from the main dataset, and is a top variant.
+Warning: 'rs139185008' is missing from the main dataset, and is a top variant.
+Warning: 'rs137966138' is missing from the main dataset, and is a top variant.
+Warning: 'rs567970652' is missing from the main dataset, and is a top variant.
+Warning: 'rs180775969' is missing from the main dataset, and is a top variant.
+Warning: 'rs141603377' is missing from the main dataset, and is a top variant.
+Warning: 'rs150403341' is missing from the main dataset, and is a top variant.
+Warning: 'rs147079386' is missing from the main dataset, and is a top variant.
+Warning: 'rs181364771' is missing from the main dataset, and is a top variant.
+Warning: 'rs144184618' is missing from the main dataset, and is a top variant.
+Warning: 'rs181537813' is missing from the main dataset, and is a top variant.
+Warning: 'rs112720499' is missing from the main dataset, and is a top variant.
+Warning: 'rs73565145' is missing from the main dataset, and is a top variant.
+Warning: 'rs112667889' is missing from the main dataset, and is a top variant.
+Warning: 'rs7253152' is missing from the main dataset, and is a top variant.
+Warning: 'rs140403533' is missing from the main dataset, and is a top variant.
+Warning: 'rs4802321' is missing from the main dataset, and is a top variant.
+Warning: 'rs183672230' is missing from the main dataset, and is a top variant.
+Warning: 'rs192608617' is missing from the main dataset, and is a top variant.
+Warning: 'rs113658298' is missing from the main dataset, and is a top variant.
+Warning: 'rs142819907' is missing from the main dataset, and is a top variant.
+Warning: 'rs28684509' is missing from the main dataset, and is a top variant.
+Warning: 'rs73565175' is missing from the main dataset, and is a top variant.
+Warning: 'rs28417791' is missing from the main dataset, and is a top variant.
+Warning: 'rs73565179' is missing from the main dataset, and is a top variant.
+Warning: 'rs150103731' is missing from the main dataset, and is a top variant.
+Warning: 'rs73565188' is missing from the main dataset, and is a top variant.
+Warning: 'rs10414958' is missing from the main dataset, and is a top variant.
+Warning: 'rs10409124' is missing from the main dataset, and is a top variant.
+Warning: 'rs545205163' is missing from the main dataset, and is a top variant.
+Warning: 'rs7251189' is missing from the main dataset, and is a top variant.
+Warning: 'rs73565201' is missing from the main dataset, and is a top variant.
+Warning: 'rs10402664' is missing from the main dataset, and is a top variant.
+Warning: 'rs28451715' is missing from the main dataset, and is a top variant.
+Warning: 'rs139205458' is missing from the main dataset, and is a top variant.
+Warning: 'rs572546175' is missing from the main dataset, and is a top variant.
+Warning: 'rs10426153' is missing from the main dataset, and is a top variant.
+Warning: 'rs138747365' is missing from the main dataset, and is a top variant.
+Warning: 'rs146716389' is missing from the main dataset, and is a top variant.
+Warning: 'rs80276707' is missing from the main dataset, and is a top variant.
+Warning: 'rs184954770' is missing from the main dataset, and is a top variant.
+Warning: 'rs571206641' is missing from the main dataset, and is a top variant.
+Warning: 'rs78166038' is missing from the main dataset, and is a top variant.
+Warning: 'rs142780579' is missing from the main dataset, and is a top variant.
+--clump: 23 clumps formed from 1489 top variants.
+Results written to
+/home/user/q1paper/analysis/logs/clump/ad_finngen_noapoe__ptsd_5e-08.clumped
+.
+
+End time: Fri Nov 20 13:13:36 2026

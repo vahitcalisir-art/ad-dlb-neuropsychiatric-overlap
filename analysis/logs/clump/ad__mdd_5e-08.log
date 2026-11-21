@@ -1,0 +1,55 @@
+PLINK v1.9.1 64-bit (11 Nov 2026)
+Options in effect:
+  --bfile /home/user/q1paper/data/ref/clump/EUR
+  --clump /home/user/q1paper/analysis/logs/clump/ad__mdd_5e-08.p
+  --clump-field P
+  --clump-kb 10000
+  --clump-p1 5e-08
+  --clump-p2 5e-08
+  --clump-r2 0.001
+  --clump-snp-field SNP
+  --out /home/user/q1paper/analysis/logs/clump/ad__mdd_5e-08
+
+Hostname: host
+Working directory: /home/user/q1paper
+Start time: Fri Nov 20 12:37:51 2026
+
+Random number seed: 1795167471
+27058 MB RAM detected; reserving 13529 MB for main workspace.
+8550156 variants loaded from .bim file.
+503 people (0 males, 0 females, 503 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to
+/home/user/q1paper/analysis/logs/clump/ad__mdd_5e-08.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 503 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is exactly 1.
+8550156 variants and 503 people pass filters and QC.
+Note: No phenotypes present.
+Warning: 'rs79701229' is missing from the main dataset, and is a top variant.
+Warning: 'rs80168591' is missing from the main dataset, and is a top variant.
+Warning: 'rs183610051' is missing from the main dataset, and is a top variant.
+Warning: 'rs114533385' is missing from the main dataset, and is a top variant.
+Warning: 'rs74359223' is missing from the main dataset, and is a top variant.
+Warning: 'rs116949436' is missing from the main dataset, and is a top variant.
+Warning: 'rs193187396' is missing from the main dataset, and is a top variant.
+Warning: 'rs150567157' is missing from the main dataset, and is a top variant.
+Warning: 'rs111740474' is missing from the main dataset, and is a top variant.
+Warning: 'rs112394906' is missing from the main dataset, and is a top variant.
+Warning: 'rs574070471' is missing from the main dataset, and is a top variant.
+Warning: 'rs567079891' is missing from the main dataset, and is a top variant.
+Warning: 'rs769448' is missing from the main dataset, and is a top variant.
+Warning: 'rs534178240' is missing from the main dataset, and is a top variant.
+Warning: 'rs616338' is missing from the main dataset, and is a top variant.
+Warning: 'rs146723120' is missing from the main dataset, and is a top variant.
+Warning: 'rs118062675' is missing from the main dataset, and is a top variant.
+Warning: 'rs183442275' is missing from the main dataset, and is a top variant.
+Warning: 'rs547364289' is missing from the main dataset, and is a top variant.
+Warning: 'rs375594987' is missing from the main dataset, and is a top variant.
+Warning: 'rs117448417' is missing from the main dataset, and is a top variant.
+Warning: 'rs183428733' is missing from the main dataset, and is a top variant.
+--clump: 60 clumps formed from 4748 top variants.
+Results written to
+/home/user/q1paper/analysis/logs/clump/ad__mdd_5e-08.clumped .
+
+End time: Fri Nov 20 12:37:56 2026

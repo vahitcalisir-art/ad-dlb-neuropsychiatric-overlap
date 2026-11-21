@@ -1,0 +1,58 @@
+{
+ "author_order_note": "",
+ "DOI": "10.1002/gepi.21965",
+ "title": "Consistent Estimation in Mendelian Randomization with Some Invalid Instruments Using a Weighted Median Estimator",
+ "container-title": "Genetic Epidemiology",
+ "container-title-short": "Genetic Epidemiology",
+ "author": [
+  {
+   "family": "Bowden",
+   "given": "Jack"
+  },
+  {
+   "family": "Davey Smith",
+   "given": "George"
+  },
+  {
+   "family": "Haycock",
+   "given": "Philip C."
+  },
+  {
+   "family": "Burgess",
+   "given": "Stephen"
+  }
+ ],
+ "issued": {
+  "date-parts": [
+   [
+    2016,
+    4,
+    7
+   ]
+  ]
+ },
+ "published-print": {
+  "date-parts": [
+   [
+    2016,
+    5
+   ]
+  ]
+ },
+ "published-online": {
+  "date-parts": [
+   [
+    2016,
+    4,
+    7
+   ]
+  ]
+ },
+ "volume": "40",
+ "issue": "4",
+ "page": "304-314",
+ "article-number": "",
+ "type": "journal-article",
+ "corrections": [],
+ "verified_title_similarity": 1.0
+}

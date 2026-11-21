@@ -1,0 +1,87 @@
+2026-11-21 01:53:58 örneklem örtüşme matrisi: 
+               ad      dlb      mdd     ptsd insomnia      scz
+ad        1.00000  0.01281  0.00842  0.01193 -0.00069  0.03342
+dlb       0.01281  1.00000 -0.00637 -0.00560  0.00812  0.00086
+mdd       0.00842 -0.00637  1.00000  0.27204  0.03381  0.09630
+ptsd      0.01193 -0.00560  0.27204  1.00000  0.05594  0.06320
+insomnia -0.00069  0.00812  0.03381  0.05594  1.00000 -0.00010
+scz       0.03342  0.00086  0.09630  0.06320 -0.00010  1.00000
+2026-11-21 01:53:58 lokus: 2495  MHC ile örtüşen (hariç): 22 
+2026-11-21 01:53:58 process.input, referans: ukb 
+[1] "...Processing input info"
+[1] "...** All phenotypes treated as BINARY ('ad', 'dlb', 'mdd', 'ptsd', 'insomnia', 'scz')"
+[1] "...Reading in sumstats"
+[1] "...Reading in SNP info from reference data"
+[1] "...Extracting common SNPs"
+[1] "... 4271173 SNPs shared across data sets"
+[1] "...Aligning effect alleles to reference data set"
+      family     d
+      <char> <num>
+1: secondary     0
+2:   primary     0
+2026-11-21 01:59:15 seedcheck: primer test: 23  sınır çift: LOC 848 mdd scz 
+[1] "Warning: Negative variance estimate for phenotype(s) 'dlb', 'insomnia' in locus 1576; Dropping these as they cannot be analysed"
+[1] "Warning: Negative variance estimate for phenotype(s) 'ad' in locus 483; Dropping these as they cannot be analysed"
+[1] "Warning: Negative variance estimate for phenotype(s) 'dlb' in locus 2148; Dropping these as they cannot be analysed"
+[1] "Warning: Negative variance estimate for phenotype(s) 'dlb', 'insomnia' in locus 1067; Dropping these as they cannot be analysed"
+[1] "Warning: Negative variance estimate for phenotype(s) 'insomnia' in locus 2352; Dropping these as they cannot be analysed"
+[1] "Warning: Negative variance estimate for phenotype(s) 'dlb' in locus 2069; Dropping these as they cannot be analysed"
+[1] "Warning: Negative variance estimate for phenotype(s) 'insomnia' in locus 2209; Dropping these as they cannot be analysed"
+      LOC    family  phen1  phen2 rho_main rho_seed  p_main   p_seed   mc_se_p
+    <int>    <char> <char> <char>    <num>    <num>   <num>    <num>     <num>
+ 1:   159   primary     ad    scz  0.19733  0.19733 0.25877 0.257285 0.0043714
+ 2:   409   primary     ad    scz -0.10230 -0.10230 0.60669 0.607327 0.0048835
+ 3:   483   primary    dlb    mdd -0.03260 -0.03260 0.85590 0.856267 0.0035082
+ 4:   483   primary    dlb    scz -0.25307 -0.25307 0.24508 0.245375 0.0043031
+ 5:   681   primary    dlb    mdd -0.23278 -0.23278 0.25316 0.252919 0.0043468
+ 6:   942   primary     ad    mdd  0.59957  0.59957 0.01165 0.011848 0.0010820
+ 7:  1067   primary     ad    mdd  0.22457  0.22457 0.30312 0.301929 0.0045909
+ 8:  1272   primary     ad   ptsd  0.19992  0.19992 0.24297 0.244161 0.0042959
+ 9:  1576   primary     ad    mdd  0.18085  0.18085 0.35034 0.351590 0.0047747
+10:  1658   primary     ad    mdd  0.48024  0.48024 0.02089 0.021390 0.0014468
+11:  1658   primary     ad    scz  0.34466  0.34466 0.04954 0.049279 0.0021645
+12:  2029   primary     ad    mdd -0.35392 -0.35392 0.09145 0.091054 0.0028769
+13:  2029   primary     ad    scz -0.36577 -0.36577 0.07809 0.076933 0.0026648
+14:  2069   primary     ad    scz  0.25095  0.25095 0.26835 0.270044 0.0044398
+15:  2128   primary     ad    scz  0.41766  0.41766 0.03575 0.036205 0.0018680
+16:  2148   primary     ad   ptsd  0.13335  0.13335 0.53293 0.532126 0.0049897
+17:  2206   primary     ad    mdd -0.58053 -0.58053 0.00552 0.005498 0.0007394
+18:  2207   primary     ad    mdd -0.56010 -0.56010 0.01783 0.017818 0.0013229
+19:  2207   primary     ad   ptsd -0.54078 -0.54078 0.02322 0.023377 0.0015110
+20:  2207   primary     ad    scz  0.51012  0.51012 0.01857 0.018047 0.0013312
+21:  2209   primary     ad    scz -0.09911 -0.09911 0.61883 0.618872 0.0048566
+22:  2308   primary     ad    scz  0.16992  0.16992 0.46207 0.462947 0.0049863
+23:  2352   primary     ad    mdd -0.14892 -0.14892 0.46171 0.462462 0.0049859
+24:   848 secondary    mdd    scz  0.42093  0.42093 0.02270 0.022319 0.0014772
+      LOC    family  phen1  phen2 rho_main rho_seed  p_main   p_seed   mc_se_p
+    <int>    <char> <char> <char>    <num>    <num>   <num>    <num>     <num>
+    p_fdr_main p_fdr_seed reproducible
+         <num>      <num>       <lgcl>
+ 1:    0.41147    0.41407         TRUE
+ 2:    0.64696    0.64700         TRUE
+ 3:    0.85590    0.85627         TRUE
+ 4:    0.41147    0.41407         TRUE
+ 5:    0.41147    0.41407         TRUE
+ 6:    0.08900    0.08961         TRUE
+ 7:    0.43573    0.43402         TRUE
+ 8:    0.41147    0.41407         TRUE
+ 9:    0.47399    0.47568         TRUE
+10:    0.08900    0.08961         TRUE
+11:    0.14243    0.14168         TRUE
+12:    0.21035    0.20942         TRUE
+13:    0.19956    0.19661         TRUE
+14:    0.41147    0.41407         TRUE
+15:    0.11747    0.11896         TRUE
+16:    0.61286    0.61194         TRUE
+17:    0.08900    0.08961         TRUE
+18:    0.08900    0.08961         TRUE
+19:    0.08900    0.08961         TRUE
+20:    0.08900    0.08961         TRUE
+21:    0.64696    0.64700         TRUE
+22:    0.55935    0.56041         TRUE
+23:    0.55935    0.56041         TRUE
+24:    0.04945    0.04862         TRUE
+    p_fdr_main p_fdr_seed reproducible
+         <num>      <num>       <lgcl>
+2026-11-21 02:01:49 seedcheck primer FDR ana/tohumlu: 0 0  tümü yeniden üretilebilir: TRUE 
+2026-11-21 02:01:49 BİTTİ 

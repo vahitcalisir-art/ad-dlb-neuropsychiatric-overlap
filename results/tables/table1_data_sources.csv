@@ -1,0 +1,9 @@
+Trait,Source,Ancestry,Role,Cases,Controls,Shared cohorts
+AD (Bellenguez),Bellenguez 2022,European,Primary,"85,934","401,577",UK Biobank (proxy cases and controls)
+DLB,Chia 2021,European,Primary,"2,591","4,027",none known
+MDD,"PGC MDD 2025, excl. UKB and 23andMe",European,Primary,"357,636","1,281,936",FinnGen R5
+MDD (with UKB),"PGC MDD 2025, incl. UKB",European,Sensitivity,"412,305","1,588,397",UK Biobank; FinnGen R5
+PTSD,PGC-PTSD Freeze 3,European,Primary,"137,136","1,085,746",UK Biobank; FinnGen (FING)
+Insomnia,"Watanabe 2022, UKB only",European,Primary,"109,548","277,440",UK Biobank (sole cohort)
+SCZ,PGC3 (Trubetskoy 2022),European,Primary,"52,017","75,889",possible Finnish cohorts (unquantified)
+AD (FinnGen),FinnGen R13 G6_ALZHEIMER,Finnish,Sensitivity,"16,652","483,534",FinnGen (shared with MDD and PTSD files)

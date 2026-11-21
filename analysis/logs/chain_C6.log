@@ -1,0 +1,25 @@
+== 03_lava_g1000_rescue start Sat Nov 21 14:44:19 +03 2026
+== 03_lava_g1000_rescue exit=0 Sat Nov 21 18:07:22 +03 2026
+2026-11-21 14:49:22 rescue: 2016 lokus yeniden analiz ediliyor: 3,6,15,17,20,21,23,24,25,26,27,28,29,30,31,32,33,34,35,36,39,41,42,43,44,45,46,47,48,49,50,51,52,53,55,56,57,58,59,60,61,62,63,65,66,67,68,69,70,73,74,75,76,77,78,79,80,81,82,86,87,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,10
+2026-11-21 18:07:19 işlenen lokus: 2430  işlenemeyen: 43  hata: 0 
+2026-11-21 18:07:22 BİTTİ 
+== 06_coloc_seeded2 start Sat Nov 21 18:07:22 +03 2026
+== 06_coloc_seeded2 exit=0 Sat Nov 21 18:07:25 +03 2026
+2026-11-21 18:07:24 coloc not run (plan §5.1 condition not met). BİTTİ 
+== 06b_power_summary_seeded2 start Sat Nov 21 18:07:25 +03 2026
+== 06b_power_summary_seeded2 exit=0 Sat Nov 21 18:07:31 +03 2026
+2026-11-21 18:07:31 BİTTİ 
+== 06c_lava_reference_diagnostic_seeded2 start Sat Nov 21 18:07:31 +03 2026
+== 06c_lava_reference_diagnostic_seeded2 exit=0 Sat Nov 21 18:07:33 +03 2026
+2026-11-21 18:07:33 BİTTİ 
+== 07_figures_seeded2 start Sat Nov 21 18:07:33 +03 2026
+== 07_figures_seeded2 exit=0 Sat Nov 21 18:07:38 +03 2026
+2026-11-21 18:07:38 BİTTİ 
+== 05_mr_sensitivity_scalefix start Sat Nov 21 18:07:38 +03 2026
+== 05_mr_sensitivity_scalefix exit=0 Sat Nov 21 18:07:41 +03 2026
+2026-11-21 18:07:41 BİTTİ 
+== 05b_ptsd_ad_finngen start Sat Nov 21 18:07:41 +03 2026
+== 05b_ptsd_ad_finngen exit=1 Sat Nov 21 18:07:41 +03 2026
+Error in signif(p, 2) : non-numeric argument to mathematical function
+Execution halted
+CHAIN6 STOP at 05b

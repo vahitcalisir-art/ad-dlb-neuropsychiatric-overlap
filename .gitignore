@@ -1,0 +1,21 @@
+# large or third-party data (outside the repository)
+data/
+results/superseded/
+results/rds/
+results_gate3
+/q1paper_gate3/
+runsnap/
+.venv/
+__pycache__/
+*.pyc
+# intermediate analysis files (summary statistics, reformatted inputs)
+analysis/logs/*.gz
+analysis/logs/*.tsv
+analysis/logs/*.sumstats*
+analysis/logs/*.rds
+# publisher full texts (copyright) and extracted text; notes, meta and registry are tracked
+sources/fulltext/
+sources/text/
+sources/inbox/
+Frontiers_Word_Templates.zip
+*.docx

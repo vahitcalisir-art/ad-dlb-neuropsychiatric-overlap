@@ -1,0 +1,82 @@
+{
+ "author_order_note": "group authors moved after personal authors",
+ "DOI": "10.1038/ng.3211",
+ "title": "LD Score regression distinguishes confounding from polygenicity in genome-wide association studies",
+ "container-title": "Nature Genetics",
+ "container-title-short": "Nat Genet",
+ "author": [
+  {
+   "family": "Bulik-Sullivan",
+   "given": "Brendan K"
+  },
+  {
+   "family": "Loh",
+   "given": "Po-Ru"
+  },
+  {
+   "family": "Finucane",
+   "given": "Hilary K"
+  },
+  {
+   "family": "Ripke",
+   "given": "Stephan"
+  },
+  {
+   "family": "Yang",
+   "given": "Jian"
+  },
+  {
+   "family": "Patterson",
+   "given": "Nick"
+  },
+  {
+   "family": "Daly",
+   "given": "Mark J"
+  },
+  {
+   "family": "Price",
+   "given": "Alkes L"
+  },
+  {
+   "family": "Neale",
+   "given": "Benjamin M"
+  },
+  {
+   "name": "Schizophrenia Working Group of the Psychiatric Genomics Consortium",
+   "literal": "Schizophrenia Working Group of the Psychiatric Genomics Consortium"
+  }
+ ],
+ "issued": {
+  "date-parts": [
+   [
+    2015,
+    2,
+    2
+   ]
+  ]
+ },
+ "published-print": {
+  "date-parts": [
+   [
+    2015,
+    3
+   ]
+  ]
+ },
+ "published-online": {
+  "date-parts": [
+   [
+    2015,
+    2,
+    2
+   ]
+  ]
+ },
+ "volume": "47",
+ "issue": "3",
+ "page": "291-295",
+ "article-number": "",
+ "type": "journal-article",
+ "corrections": [],
+ "verified_title_similarity": 1.0
+}

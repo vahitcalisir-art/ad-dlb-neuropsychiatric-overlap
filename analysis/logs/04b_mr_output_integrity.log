@@ -1,0 +1,103 @@
+                              id status n_final n_clumped_file n_clumped_info
+                          <char> <char>   <int>          <int>          <int>
+ 1:                      mdd__ad     ok     135            145            145
+ 2:                      ad__mdd     ok      50             60             60
+ 3:                     mdd__dlb     ok      53            145            145
+ 4:                     dlb__mdd     ok       4              5              5
+ 5:                     ptsd__ad     ok      25             27             27
+ 6:                     ad__ptsd     ok      45             60             60
+ 7:                    ptsd__dlb     ok      13             27             27
+ 8:                    dlb__ptsd     ok       3              5              5
+ 9:                 insomnia__ad     ok      12             13             13
+10:                 ad__insomnia     ok      49             60             60
+11:                insomnia__dlb     ok       8             13             13
+12:                dlb__insomnia     ok       3              5              5
+13:                      scz__ad     ok     150            151            151
+14:                      ad__scz     ok      46             60             60
+15:                     scz__dlb     ok     119            151            151
+16:                     dlb__scz     ok       4              5              5
+17:                 mdd_ukbb__ad     ok     175            198            198
+18:                 ad__mdd_ukbb     ok      53             60             60
+19:                mdd_ukbb__dlb     ok      62            198            198
+20:                dlb__mdd_ukbb     ok       5              5              5
+21:              mdd__ad_finngen     ok     116            145            145
+22:              ad_finngen__mdd     ok      20             26             26
+23:             ptsd__ad_finngen     ok      23             27             27
+24:             ad_finngen__ptsd     ok      21             26             26
+25:         insomnia__ad_finngen     ok      12             13             13
+26:         ad_finngen__insomnia     ok      19             26             26
+27:              scz__ad_finngen     ok     150            151            151
+28:              ad_finngen__scz     ok      20             26             26
+29:              mdd__ad__noapoe     ok     135            145            145
+30:              ad__mdd__noapoe     ok      44             53             53
+31:             ptsd__ad__noapoe     ok      25             27             27
+32:             ad__ptsd__noapoe     ok      42             53             53
+33:         insomnia__ad__noapoe     ok      12             13             13
+34:         ad__insomnia__noapoe     ok      45             53             53
+35:              scz__ad__noapoe     ok     150            151            151
+36:              ad__scz__noapoe     ok      42             53             53
+37:         mdd_ukbb__ad__noapoe     ok     175            198            198
+38:         ad__mdd_ukbb__noapoe     ok      47             53             53
+39:      mdd__ad_finngen__noapoe     ok     116            145            145
+40:      ad_finngen__mdd__noapoe     ok      17             23             23
+41:     ptsd__ad_finngen__noapoe     ok      23             27             27
+42:     ad_finngen__ptsd__noapoe     ok      18             23             23
+43: insomnia__ad_finngen__noapoe     ok      12             13             13
+44: ad_finngen__insomnia__noapoe     ok      18             23             23
+45:      scz__ad_finngen__noapoe     ok     150            151            151
+46:      ad_finngen__scz__noapoe     ok      19             23             23
+                              id status n_final n_clumped_file n_clumped_info
+                          <char> <char>   <int>          <int>          <int>
+    all_ok
+    <lgcl>
+ 1:   TRUE
+ 2:   TRUE
+ 3:   TRUE
+ 4:   TRUE
+ 5:   TRUE
+ 6:   TRUE
+ 7:   TRUE
+ 8:   TRUE
+ 9:   TRUE
+10:   TRUE
+11:   TRUE
+12:   TRUE
+13:   TRUE
+14:   TRUE
+15:   TRUE
+16:   TRUE
+17:   TRUE
+18:   TRUE
+19:   TRUE
+20:   TRUE
+21:   TRUE
+22:   TRUE
+23:   TRUE
+24:   TRUE
+25:   TRUE
+26:   TRUE
+27:   TRUE
+28:   TRUE
+29:   TRUE
+30:   TRUE
+31:   TRUE
+32:   TRUE
+33:   TRUE
+34:   TRUE
+35:   TRUE
+36:   TRUE
+37:   TRUE
+38:   TRUE
+39:   TRUE
+40:   TRUE
+41:   TRUE
+42:   TRUE
+43:   TRUE
+44:   TRUE
+45:   TRUE
+46:   TRUE
+    all_ok
+    <lgcl>
+[1] TRUE
+2026-11-21 18:08:05 MR_INTEGRITY_OK 0 
+2026-11-21 18:08:05 BİTTİ 

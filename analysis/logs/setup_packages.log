@@ -1,0 +1,1186 @@
+Installing packages into ‘/home/user/R/x86_64-pc-linux-gnu-library/4.3’
+(as ‘lib’ is unspecified)
+also installing the dependencies ‘sys’, ‘cpp11’, ‘farver’, ‘labeling’, ‘RColorBrewer’, ‘irlba’, ‘Rcpp’, ‘RcppArmadillo’, ‘plyr’, ‘utf8’, ‘pkgconfig’, ‘askpass’, ‘cli’, ‘gtable’, ‘isoband’, ‘lifecycle’, ‘rlang’, ‘S7’, ‘scales’, ‘vctrs’, ‘withr’, ‘viridisLite’, ‘gridExtra’, ‘matrixStats’, ‘mixsqp’, ‘reshape’, ‘crayon’, ‘generics’, ‘glue’, ‘pillar’, ‘R6’, ‘tibble’, ‘tidyselect’, ‘curl’, ‘mime’, ‘openssl’, ‘ggplot2’, ‘viridis’, ‘susieR’, ‘dplyr’, ‘httr’, ‘magrittr’, ‘R.oo’, ‘R.methodsS3’
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/sys_3.4.3.tar.gz'
+Content type 'binary/octet-stream' length 40061 bytes (39 KB)
+==================================================
+downloaded 39 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/cpp11_0.5.5.tar.gz'
+Content type 'binary/octet-stream' length 302434 bytes (295 KB)
+==================================================
+downloaded 295 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/farver_2.1.2.tar.gz'
+Content type 'binary/octet-stream' length 1463632 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/labeling_0.4.3.tar.gz'
+Content type 'binary/octet-stream' length 60170 bytes (58 KB)
+==================================================
+downloaded 58 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/RColorBrewer_1.1-3.tar.gz'
+Content type 'binary/octet-stream' length 53118 bytes (51 KB)
+==================================================
+downloaded 51 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/irlba_2.4.1.tar.gz'
+Content type 'binary/octet-stream' length 439000 bytes (428 KB)
+==================================================
+downloaded 428 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/Rcpp_1.1.2.tar.gz'
+Content type 'binary/octet-stream' length 2211787 bytes (2.1 MB)
+==================================================
+downloaded 2.1 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/RcppArmadillo_15.6.2-1.tar.gz'
+Content type 'binary/octet-stream' length 1044295 bytes (1019 KB)
+==================================================
+downloaded 1019 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/plyr_1.8.9.tar.gz'
+Content type 'binary/octet-stream' length 825342 bytes (805 KB)
+==================================================
+downloaded 805 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/utf8_1.2.6.tar.gz'
+Content type 'binary/octet-stream' length 150051 bytes (146 KB)
+==================================================
+downloaded 146 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/pkgconfig_2.0.3.tar.gz'
+Content type 'binary/octet-stream' length 17708 bytes (17 KB)
+==================================================
+downloaded 17 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/askpass_1.2.1.tar.gz'
+Content type 'binary/octet-stream' length 21616 bytes (21 KB)
+==================================================
+downloaded 21 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/cli_3.6.6.tar.gz'
+Content type 'binary/octet-stream' length 1318364 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/gtable_0.3.6.tar.gz'
+Content type 'binary/octet-stream' length 220794 bytes (215 KB)
+==================================================
+downloaded 215 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/isoband_0.3.0.tar.gz'
+Content type 'binary/octet-stream' length 1675539 bytes (1.6 MB)
+==================================================
+downloaded 1.6 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/lifecycle_1.0.5.tar.gz'
+Content type 'binary/octet-stream' length 130253 bytes (127 KB)
+==================================================
+downloaded 127 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/rlang_1.3.0.tar.gz'
+Content type 'binary/octet-stream' length 1569499 bytes (1.5 MB)
+==================================================
+downloaded 1.5 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/S7_0.2.2.tar.gz'
+Content type 'binary/octet-stream' length 321098 bytes (313 KB)
+==================================================
+downloaded 313 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/scales_1.4.0.tar.gz'
+Content type 'binary/octet-stream' length 830066 bytes (810 KB)
+==================================================
+downloaded 810 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/vctrs_0.7.3.tar.gz'
+Content type 'binary/octet-stream' length 1830917 bytes (1.7 MB)
+==================================================
+downloaded 1.7 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/withr_3.0.3.tar.gz'
+Content type 'binary/octet-stream' length 220040 bytes (214 KB)
+==================================================
+downloaded 214 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/viridisLite_0.4.3.tar.gz'
+Content type 'binary/octet-stream' length 1296837 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/gridExtra_2.3.1.tar.gz'
+Content type 'binary/octet-stream' length 524171 bytes (511 KB)
+==================================================
+downloaded 511 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/matrixStats_1.5.0.tar.gz'
+Content type 'binary/octet-stream' length 463571 bytes (452 KB)
+==================================================
+downloaded 452 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/mixsqp_0.3-54.tar.gz'
+Content type 'binary/octet-stream' length 213167 bytes (208 KB)
+==================================================
+downloaded 208 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/reshape_0.8.10.tar.gz'
+Content type 'binary/octet-stream' length 167276 bytes (163 KB)
+==================================================
+downloaded 163 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/crayon_1.5.3.tar.gz'
+Content type 'binary/octet-stream' length 160528 bytes (156 KB)
+==================================================
+downloaded 156 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/generics_0.1.4.tar.gz'
+Content type 'binary/octet-stream' length 76094 bytes (74 KB)
+==================================================
+downloaded 74 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/glue_1.8.1.tar.gz'
+Content type 'binary/octet-stream' length 170281 bytes (166 KB)
+==================================================
+downloaded 166 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/pillar_1.11.1.tar.gz'
+Content type 'binary/octet-stream' length 654693 bytes (639 KB)
+==================================================
+downloaded 639 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/R6_2.6.1.tar.gz'
+Content type 'binary/octet-stream' length 86066 bytes (84 KB)
+==================================================
+downloaded 84 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/tibble_3.3.1.tar.gz'
+Content type 'binary/octet-stream' length 642129 bytes (627 KB)
+==================================================
+downloaded 627 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/tidyselect_1.2.1.tar.gz'
+Content type 'binary/octet-stream' length 221842 bytes (216 KB)
+==================================================
+downloaded 216 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/curl_8.1.0.tar.gz'
+Content type 'binary/octet-stream' length 791911 bytes (773 KB)
+==================================================
+downloaded 773 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/mime_0.13.tar.gz'
+Content type 'binary/octet-stream' length 44576 bytes (43 KB)
+==================================================
+downloaded 43 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/openssl_2.6.0.tar.gz'
+Content type 'binary/octet-stream' length 1275203 bytes (1.2 MB)
+==================================================
+downloaded 1.2 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/ggplot2_4.0.4.tar.gz'
+Content type 'binary/octet-stream' length 8448471 bytes (8.1 MB)
+==================================================
+downloaded 8.1 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/viridis_0.6.5.tar.gz'
+Content type 'binary/octet-stream' length 3011979 bytes (2.9 MB)
+==================================================
+downloaded 2.9 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/susieR_0.14.2.tar.gz'
+Content type 'binary/octet-stream' length 2189594 bytes (2.1 MB)
+==================================================
+downloaded 2.1 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/dplyr_1.2.1.tar.gz'
+Content type 'binary/octet-stream' length 1497378 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/httr_1.4.9.tar.gz'
+Content type 'binary/octet-stream' length 466995 bytes (456 KB)
+==================================================
+downloaded 456 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/magrittr_2.0.5.tar.gz'
+Content type 'binary/octet-stream' length 219149 bytes (214 KB)
+==================================================
+downloaded 214 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/R.oo_1.27.1.tar.gz'
+Content type 'binary/octet-stream' length 965182 bytes (942 KB)
+==================================================
+downloaded 942 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/R.methodsS3_1.8.2.tar.gz'
+Content type 'binary/octet-stream' length 80295 bytes (78 KB)
+==================================================
+downloaded 78 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/remotes_2.5.0.tar.gz'
+Content type 'binary/octet-stream' length 427596 bytes (417 KB)
+==================================================
+downloaded 417 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/data.table_1.18.6.1.tar.gz'
+Content type 'binary/octet-stream' length 2952954 bytes (2.8 MB)
+==================================================
+downloaded 2.8 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/jsonlite_2.0.0.tar.gz'
+Content type 'binary/octet-stream' length 1088812 bytes (1.0 MB)
+==================================================
+downloaded 1.0 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/coloc_5.2.3.tar.gz'
+Content type 'binary/octet-stream' length 3920465 bytes (3.7 MB)
+==================================================
+downloaded 3.7 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/ieugwasr_1.2.1.tar.gz'
+Content type 'binary/octet-stream' length 149872 bytes (146 KB)
+==================================================
+downloaded 146 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/R.utils_2.13.0.tar.gz'
+Content type 'binary/octet-stream' length 1394062 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+
+begin installing package ‘cpp11’
+begin installing package ‘sys’
+begin installing package ‘farver’
+begin installing package ‘labeling’
+begin installing package ‘RColorBrewer’
+begin installing package ‘irlba’
+begin installing package ‘Rcpp’
+begin installing package ‘utf8’
+begin installing package ‘pkgconfig’
+begin installing package ‘cli’
+* installing *binary* package ‘RColorBrewer’ ...
+* DONE (RColorBrewer)
+begin installing package ‘rlang’
+* installing *binary* package ‘pkgconfig’ ...
+* DONE (pkgconfig)
+begin installing package ‘S7’
+* installing *binary* package ‘labeling’ ...
+* DONE (labeling)
+* installing *binary* package ‘sys’ ...
+* DONE (sys)
+begin installing package ‘withr’
+begin installing package ‘viridisLite’
+* installing *binary* package ‘irlba’ ...
+* DONE (irlba)
+begin installing package ‘matrixStats’
+* installing *binary* package ‘utf8’ ...
+* DONE (utf8)
+begin installing package ‘crayon’
+* installing *binary* package ‘cpp11’ ...
+* DONE (cpp11)
+begin installing package ‘generics’
+* installing *binary* package ‘farver’ ...
+* DONE (farver)
+begin installing package ‘glue’
+* installing *binary* package ‘cli’ ...
+* DONE (cli)
+begin installing package ‘R6’
+* installing *binary* package ‘withr’ ...
+* DONE (withr)
+begin installing package ‘curl’
+* installing *binary* package ‘viridisLite’ ...
+* DONE (viridisLite)
+begin installing package ‘mime’
+* installing *binary* package ‘S7’ ...
+* DONE (S7)
+begin installing package ‘magrittr’
+* installing *binary* package ‘crayon’ ...
+* DONE (crayon)
+begin installing package ‘R.methodsS3’
+* installing *binary* package ‘generics’ ...
+* DONE (generics)
+begin installing package ‘remotes’
+* installing *binary* package ‘rlang’ ...
+* DONE (rlang)
+begin installing package ‘data.table’
+* installing *binary* package ‘matrixStats’ ...
+* DONE (matrixStats)
+begin installing package ‘jsonlite’
+* installing *binary* package ‘R6’ ...
+* DONE (R6)
+begin installing package ‘askpass’
+* installing *binary* package ‘glue’ ...
+* DONE (glue)
+begin installing package ‘isoband’
+* installing *binary* package ‘mime’ ...
+* DONE (mime)
+begin installing package ‘lifecycle’
+* installing *binary* package ‘R.methodsS3’ ...
+* DONE (R.methodsS3)
+begin installing package ‘R.oo’
+* installing *binary* package ‘remotes’ ...
+* DONE (remotes)
+* installing *binary* package ‘magrittr’ ...
+* DONE (magrittr)
+* installing *binary* package ‘curl’ ...
+* DONE (curl)
+* installing *binary* package ‘askpass’ ...
+* DONE (askpass)
+begin installing package ‘openssl’
+* installing *binary* package ‘jsonlite’ ...
+* DONE (jsonlite)
+* installing *binary* package ‘Rcpp’ ...
+* DONE (Rcpp)
+* installing *binary* package ‘isoband’ ...
+* DONE (isoband)
+begin installing package ‘RcppArmadillo’
+begin installing package ‘plyr’
+* installing *binary* package ‘lifecycle’ ...
+* DONE (lifecycle)
+begin installing package ‘gtable’
+begin installing package ‘scales’
+begin installing package ‘vctrs’
+* installing *binary* package ‘R.oo’ ...
+* DONE (R.oo)
+begin installing package ‘R.utils’
+* installing *binary* package ‘data.table’ ...
+* DONE (data.table)
+* installing *binary* package ‘openssl’ ...
+* DONE (openssl)
+begin installing package ‘httr’
+* installing *binary* package ‘plyr’ ...
+* DONE (plyr)
+begin installing package ‘reshape’
+* installing *binary* package ‘gtable’ ...
+* DONE (gtable)
+begin installing package ‘gridExtra’
+* installing *binary* package ‘scales’ ...
+* DONE (scales)
+* installing *binary* package ‘R.utils’ ...
+* DONE (R.utils)
+* installing *binary* package ‘vctrs’ ...
+* DONE (vctrs)
+begin installing package ‘pillar’
+begin installing package ‘tidyselect’
+begin installing package ‘ggplot2’
+* installing *binary* package ‘reshape’ ...
+* DONE (reshape)
+* installing *binary* package ‘httr’ ...
+* DONE (httr)
+* installing *binary* package ‘gridExtra’ ...
+* DONE (gridExtra)
+* installing *binary* package ‘tidyselect’ ...
+* DONE (tidyselect)
+* installing *binary* package ‘pillar’ ...
+* DONE (pillar)
+begin installing package ‘tibble’
+* installing *binary* package ‘RcppArmadillo’ ...
+* DONE (RcppArmadillo)
+begin installing package ‘mixsqp’
+* installing *binary* package ‘tibble’ ...
+* DONE (tibble)
+begin installing package ‘dplyr’
+* installing *binary* package ‘ggplot2’ ...
+* DONE (ggplot2)
+begin installing package ‘viridis’
+* installing *binary* package ‘mixsqp’ ...
+* DONE (mixsqp)
+begin installing package ‘susieR’
+* installing *binary* package ‘dplyr’ ...
+* DONE (dplyr)
+begin installing package ‘ieugwasr’
+* installing *binary* package ‘viridis’ ...
+* DONE (viridis)
+* installing *binary* package ‘susieR’ ...
+* DONE (susieR)
+begin installing package ‘coloc’
+* installing *binary* package ‘ieugwasr’ ...
+* DONE (ieugwasr)
+* installing *binary* package ‘coloc’ ...
+* DONE (coloc)
+
+The downloaded source packages are in
+	‘/tmp/RtmpBv3vfU/downloaded_packages’
+Installing package into ‘/home/user/R/x86_64-pc-linux-gnu-library/4.3’
+(as ‘lib’ is unspecified)
+also installing the dependencies ‘lazyeval’, ‘later’, ‘otel’, ‘fs’, ‘rappdirs’, ‘iterators’, ‘digest’, ‘base64enc’, ‘htmlwidgets’, ‘crosstalk’, ‘promises’, ‘cachem’, ‘fastmap’, ‘memoise’, ‘sass’, ‘stringi’, ‘foreach’, ‘shape’, ‘RcppEigen’, ‘evaluate’, ‘highr’, ‘xfun’, ‘yaml’, ‘mnormt’, ‘GPArotation’, ‘plotly’, ‘bslib’, ‘fontawesome’, ‘htmltools’, ‘jquerylib’, ‘tinytex’, ‘purrr’, ‘stringr’, ‘cowplot’, ‘glmnet’, ‘knitr’, ‘MRMix’, ‘MRPRESSO’, ‘pbapply’, ‘psych’, ‘RadialMR’, ‘rmarkdown’, ‘tidyr’
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/lazyeval_0.2.3.tar.gz'
+Content type 'binary/octet-stream' length 187942 bytes (183 KB)
+==================================================
+downloaded 183 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/later_1.4.8.tar.gz'
+Content type 'binary/octet-stream' length 154502 bytes (150 KB)
+==================================================
+downloaded 150 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/otel_0.3.0.tar.gz'
+Content type 'binary/octet-stream' length 288740 bytes (281 KB)
+==================================================
+downloaded 281 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/fs_2.1.0.tar.gz'
+Content type 'binary/octet-stream' length 235531 bytes (230 KB)
+==================================================
+downloaded 230 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/rappdirs_0.3.4.tar.gz'
+Content type 'binary/octet-stream' length 44239 bytes (43 KB)
+==================================================
+downloaded 43 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/iterators_1.0.14.tar.gz'
+Content type 'binary/octet-stream' length 345419 bytes (337 KB)
+==================================================
+downloaded 337 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/digest_0.6.39.tar.gz'
+Content type 'binary/octet-stream' length 228187 bytes (222 KB)
+==================================================
+downloaded 222 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/base64enc_0.1-6.tar.gz'
+Content type 'binary/octet-stream' length 28060 bytes (27 KB)
+==================================================
+downloaded 27 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/htmlwidgets_1.6.4.tar.gz'
+Content type 'binary/octet-stream' length 813538 bytes (794 KB)
+==================================================
+downloaded 794 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/crosstalk_1.2.2.tar.gz'
+Content type 'binary/octet-stream' length 408559 bytes (398 KB)
+==================================================
+downloaded 398 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/promises_1.5.0.tar.gz'
+Content type 'binary/octet-stream' length 1666682 bytes (1.6 MB)
+==================================================
+downloaded 1.6 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/cachem_1.1.0.tar.gz'
+Content type 'binary/octet-stream' length 66108 bytes (64 KB)
+==================================================
+downloaded 64 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/fastmap_1.2.0.tar.gz'
+Content type 'binary/octet-stream' length 65068 bytes (63 KB)
+==================================================
+downloaded 63 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/memoise_2.0.1.tar.gz'
+Content type 'binary/octet-stream' length 47529 bytes (46 KB)
+==================================================
+downloaded 46 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/sass_0.4.10.tar.gz'
+Content type 'binary/octet-stream' length 2453439 bytes (2.3 MB)
+==================================================
+downloaded 2.3 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/stringi_1.8.9.tar.gz'
+Content type 'binary/octet-stream' length 3270574 bytes (3.1 MB)
+==================================================
+downloaded 3.1 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/foreach_1.5.2.tar.gz'
+Content type 'binary/octet-stream' length 137960 bytes (134 KB)
+==================================================
+downloaded 134 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/shape_1.4.6.1.tar.gz'
+Content type 'binary/octet-stream' length 745882 bytes (728 KB)
+==================================================
+downloaded 728 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/RcppEigen_0.3.4.0.2.tar.gz'
+Content type 'binary/octet-stream' length 1853323 bytes (1.8 MB)
+==================================================
+downloaded 1.8 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/evaluate_1.0.5.tar.gz'
+Content type 'binary/octet-stream' length 101178 bytes (98 KB)
+==================================================
+downloaded 98 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/highr_0.12.tar.gz'
+Content type 'binary/octet-stream' length 37553 bytes (36 KB)
+==================================================
+downloaded 36 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/xfun_0.62.tar.gz'
+Content type 'binary/octet-stream' length 673431 bytes (657 KB)
+==================================================
+downloaded 657 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/yaml_2.3.12.tar.gz'
+Content type 'binary/octet-stream' length 119814 bytes (117 KB)
+==================================================
+downloaded 117 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/mnormt_2.1.2.tar.gz'
+Content type 'binary/octet-stream' length 173244 bytes (169 KB)
+==================================================
+downloaded 169 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/GPArotation_2026.8-2.tar.gz'
+Content type 'binary/octet-stream' length 1849737 bytes (1.8 MB)
+==================================================
+downloaded 1.8 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/plotly_4.12.1.tar.gz'
+Content type 'binary/octet-stream' length 4026482 bytes (3.8 MB)
+==================================================
+downloaded 3.8 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/bslib_0.12.0.tar.gz'
+Content type 'binary/octet-stream' length 6174899 bytes (5.9 MB)
+==================================================
+downloaded 5.9 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/fontawesome_0.5.3.tar.gz'
+Content type 'binary/octet-stream' length 1407170 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/htmltools_0.5.9.tar.gz'
+Content type 'binary/octet-stream' length 349976 bytes (341 KB)
+==================================================
+downloaded 341 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/jquerylib_0.1.4.tar.gz'
+Content type 'binary/octet-stream' length 526575 bytes (514 KB)
+==================================================
+downloaded 514 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/tinytex_0.61.tar.gz'
+Content type 'binary/octet-stream' length 146809 bytes (143 KB)
+==================================================
+downloaded 143 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/purrr_1.2.2.tar.gz'
+Content type 'binary/octet-stream' length 539575 bytes (526 KB)
+==================================================
+downloaded 526 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/stringr_1.6.0.tar.gz'
+Content type 'binary/octet-stream' length 329229 bytes (321 KB)
+==================================================
+downloaded 321 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/cowplot_1.2.0.tar.gz'
+Content type 'binary/octet-stream' length 1380350 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/glmnet_5.2.tar.gz'
+Content type 'binary/octet-stream' length 2498539 bytes (2.4 MB)
+==================================================
+downloaded 2.4 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/knitr_1.52.tar.gz'
+Content type 'binary/octet-stream' length 1061683 bytes (1.0 MB)
+==================================================
+downloaded 1.0 MB
+
+trying URL 'https://mrcieu.r-universe.dev/src/contrib/MRMix_0.1.0.tar.gz?sha256=59c06ea24ff9e8864a11ec80fb9fe6b1aa18573353fd39daf52a14c952ff5084&file=/MRMix_0.1.0.tar.gz'
+Content type 'application/gzip' length 131055 bytes (127 KB)
+==================================================
+downloaded 127 KB
+
+trying URL 'https://mrcieu.r-universe.dev/src/contrib/MRPRESSO_1.0.tar.gz?sha256=26d025e38f0b24b0fb6d207b12efe84d8efa93d92a924a72f47449ab3bb9ddbe&file=/MRPRESSO_1.0.tar.gz'
+Content type 'application/gzip' length 547340 bytes (534 KB)
+==================================================
+downloaded 534 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/pbapply_1.7-5.tar.gz'
+Content type 'binary/octet-stream' length 98894 bytes (96 KB)
+==================================================
+downloaded 96 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/psych_2.6.9.tar.gz'
+Content type 'binary/octet-stream' length 3653008 bytes (3.5 MB)
+==================================================
+downloaded 3.5 MB
+
+trying URL 'https://mrcieu.r-universe.dev/src/contrib/RadialMR_1.2.5.tar.gz?sha256=3b53b8ea2c488ca032621973758df310cbe279317844ac450a08edcb490d3d45&file=/RadialMR_1.2.5.tar.gz'
+Content type 'application/gzip' length 204301 bytes (199 KB)
+==================================================
+downloaded 199 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/rmarkdown_2.32.tar.gz'
+Content type 'binary/octet-stream' length 2607771 bytes (2.5 MB)
+==================================================
+downloaded 2.5 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/tidyr_1.3.2.tar.gz'
+Content type 'binary/octet-stream' length 1179187 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://mrcieu.r-universe.dev/src/contrib/TwoSampleMR_0.7.14.tar.gz?sha256=e705251998dd18ed86c82fd998f37ab543b087d968f95766bbce09c0ee0fd1ba&file=/TwoSampleMR_0.7.14.tar.gz'
+Content type 'application/gzip' length 8834820 bytes (8.4 MB)
+==================================================
+downloaded 8.4 MB
+
+begin installing package ‘lazyeval’
+begin installing package ‘later’
+begin installing package ‘otel’
+begin installing package ‘fs’
+begin installing package ‘rappdirs’
+begin installing package ‘iterators’
+begin installing package ‘digest’
+begin installing package ‘base64enc’
+begin installing package ‘fastmap’
+begin installing package ‘stringi’
+* installing *binary* package ‘rappdirs’ ...
+* DONE (rappdirs)
+* installing *binary* package ‘base64enc’ ...
+* DONE (base64enc)
+begin installing package ‘shape’
+begin installing package ‘RcppEigen’
+* installing *binary* package ‘fastmap’ ...
+* DONE (fastmap)
+begin installing package ‘evaluate’
+* installing *binary* package ‘later’ ...
+* DONE (later)
+begin installing package ‘xfun’
+* installing *binary* package ‘otel’ ...
+* DONE (otel)
+begin installing package ‘yaml’
+* installing *binary* package ‘fs’ ...
+* DONE (fs)
+begin installing package ‘mnormt’
+* installing *binary* package ‘lazyeval’ ...
+* DONE (lazyeval)
+begin installing package ‘GPArotation’
+* installing *binary* package ‘digest’ ...
+* DONE (digest)
+begin installing package ‘purrr’
+* installing *binary* package ‘iterators’ ...
+* DONE (iterators)
+begin installing package ‘cowplot’
+* installing *binary* package ‘evaluate’ ...
+* DONE (evaluate)
+begin installing package ‘MRMix’
+* installing *binary* package ‘yaml’ ...
+* DONE (yaml)
+* installing *binary* package ‘shape’ ...
+* DONE (shape)
+begin installing package ‘MRPRESSO’
+* installing *binary* package ‘mnormt’ ...
+* DONE (mnormt)
+begin installing package ‘pbapply’
+begin installing package ‘promises’
+* installing *binary* package ‘stringi’ ...
+* DONE (stringi)
+begin installing package ‘cachem’
+* installing *binary* package ‘xfun’ ...
+* DONE (xfun)
+begin installing package ‘foreach’
+* installing *binary* package ‘purrr’ ...
+* DONE (purrr)
+begin installing package ‘highr’
+* installing *binary* package ‘GPArotation’ ...
+* DONE (GPArotation)
+begin installing package ‘htmltools’
+* installing *binary* package ‘cowplot’ ...
+* DONE (cowplot)
+begin installing package ‘tinytex’
+* installing *binary* package ‘cachem’ ...
+* DONE (cachem)
+begin installing package ‘stringr’
+* installing *binary* package ‘pbapply’ ...
+* DONE (pbapply)
+begin installing package ‘psych’
+* installing *binary* package ‘highr’ ...
+* DONE (highr)
+begin installing package ‘memoise’
+* installing *binary* package ‘foreach’ ...
+* DONE (foreach)
+begin installing package ‘knitr’
+* installing *binary* package ‘htmltools’ ...
+* DONE (htmltools)
+* installing *binary* package ‘tinytex’ ...
+* DONE (tinytex)
+begin installing package ‘crosstalk’
+begin installing package ‘sass’
+* installing *binary* package ‘promises’ ...
+* DONE (promises)
+begin installing package ‘fontawesome’
+* installing *binary* package ‘memoise’ ...
+* DONE (memoise)
+begin installing package ‘jquerylib’
+* installing *binary* package ‘stringr’ ...
+* DONE (stringr)
+begin installing package ‘tidyr’
+* installing *binary* package ‘crosstalk’ ...
+* DONE (crosstalk)
+* installing *binary* package ‘psych’ ...
+* DONE (psych)
+* installing *binary* package ‘knitr’ ...
+* DONE (knitr)
+* installing *binary* package ‘fontawesome’ ...
+* DONE (fontawesome)
+* installing *binary* package ‘sass’ ...
+* DONE (sass)
+* installing *binary* package ‘RcppEigen’ ...
+* DONE (RcppEigen)
+begin installing package ‘glmnet’
+* installing *binary* package ‘jquerylib’ ...
+* DONE (jquerylib)
+begin installing package ‘bslib’
+* installing *binary* package ‘tidyr’ ...
+* DONE (tidyr)
+* installing *source* package ‘MRPRESSO’ ...
+** using staged installation
+** R
+** data
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (MRPRESSO)
+* installing *binary* package ‘glmnet’ ...
+* DONE (glmnet)
+* installing *source* package ‘MRMix’ ...
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (MRMix)
+* installing *binary* package ‘bslib’ ...
+* DONE (bslib)
+begin installing package ‘rmarkdown’
+* installing *binary* package ‘rmarkdown’ ...
+* DONE (rmarkdown)
+begin installing package ‘htmlwidgets’
+* installing *binary* package ‘htmlwidgets’ ...
+* DONE (htmlwidgets)
+begin installing package ‘plotly’
+* installing *binary* package ‘plotly’ ...
+* DONE (plotly)
+begin installing package ‘RadialMR’
+* installing *source* package ‘RadialMR’ ...
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (RadialMR)
+begin installing package ‘TwoSampleMR’
+* installing *source* package ‘TwoSampleMR’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (TwoSampleMR)
+
+The downloaded source packages are in
+	‘/tmp/RtmpBv3vfU/downloaded_packages’
+Downloading GitHub repo GenomicSEM/GenomicSEM@HEAD
+Installing 24 packages: prettyunits, bit, progress, tzdb, hms, bit64, colorspace, gridBase, sfsmisc, quadprog, numDeriv, pbivnorm, gtools, vroom, clipr, proxy, simsalapar, mgsub, splitstackshape, doParallel, lavaan, gdata, readr, e1071
+Installing packages into ‘/home/user/R/x86_64-pc-linux-gnu-library/4.3’
+(as ‘lib’ is unspecified)
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/prettyunits_1.2.0.tar.gz'
+Content type 'binary/octet-stream' length 155085 bytes (151 KB)
+==================================================
+downloaded 151 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/bit_4.6.0.tar.gz'
+Content type 'binary/octet-stream' length 616329 bytes (601 KB)
+==================================================
+downloaded 601 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/progress_1.2.3.tar.gz'
+Content type 'binary/octet-stream' length 86836 bytes (84 KB)
+==================================================
+downloaded 84 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/tzdb_0.5.0.tar.gz'
+Content type 'binary/octet-stream' length 666066 bytes (650 KB)
+==================================================
+downloaded 650 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/hms_1.1.4.tar.gz'
+Content type 'binary/octet-stream' length 101699 bytes (99 KB)
+==================================================
+downloaded 99 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/bit64_4.8.6.tar.gz'
+Content type 'binary/octet-stream' length 548487 bytes (535 KB)
+==================================================
+downloaded 535 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/colorspace_2.1-4.tar.gz'
+Content type 'binary/octet-stream' length 2636780 bytes (2.5 MB)
+==================================================
+downloaded 2.5 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/gridBase_0.4-7.tar.gz'
+Content type 'binary/octet-stream' length 161759 bytes (157 KB)
+==================================================
+downloaded 157 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/sfsmisc_1.1-26.tar.gz'
+Content type 'binary/octet-stream' length 678790 bytes (662 KB)
+==================================================
+downloaded 662 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/quadprog_1.5-8.tar.gz'
+Content type 'binary/octet-stream' length 30756 bytes (30 KB)
+==================================================
+downloaded 30 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/numDeriv_2016.8-1.1.tar.gz'
+Content type 'binary/octet-stream' length 113032 bytes (110 KB)
+==================================================
+downloaded 110 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/pbivnorm_0.6.0.tar.gz'
+Content type 'binary/octet-stream' length 18400 bytes (17 KB)
+==================================================
+downloaded 17 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/gtools_3.9.5.tar.gz'
+Content type 'binary/octet-stream' length 356019 bytes (347 KB)
+==================================================
+downloaded 347 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/vroom_1.7.1.tar.gz'
+Content type 'binary/octet-stream' length 1003276 bytes (979 KB)
+==================================================
+downloaded 979 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/clipr_0.8.1.tar.gz'
+Content type 'binary/octet-stream' length 51999 bytes (50 KB)
+==================================================
+downloaded 50 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/proxy_0.4-29.tar.gz'
+Content type 'binary/octet-stream' length 170206 bytes (166 KB)
+==================================================
+downloaded 166 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/simsalapar_1.0-13.tar.gz'
+Content type 'binary/octet-stream' length 461827 bytes (451 KB)
+==================================================
+downloaded 451 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/mgsub_2.0.0.tar.gz'
+Content type 'binary/octet-stream' length 62659 bytes (61 KB)
+==================================================
+downloaded 61 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/splitstackshape_1.4.8.1.tar.gz'
+Content type 'binary/octet-stream' length 119789 bytes (116 KB)
+==================================================
+downloaded 116 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/doParallel_1.0.17.tar.gz'
+Content type 'binary/octet-stream' length 187672 bytes (183 KB)
+==================================================
+downloaded 183 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/lavaan_0.7-3.tar.gz'
+Content type 'binary/octet-stream' length 6184606 bytes (5.9 MB)
+==================================================
+downloaded 5.9 MB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/gdata_3.0.1.tar.gz'
+Content type 'binary/octet-stream' length 494233 bytes (482 KB)
+==================================================
+downloaded 482 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/readr_2.2.0.tar.gz'
+Content type 'binary/octet-stream' length 827656 bytes (808 KB)
+==================================================
+downloaded 808 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/e1071_1.7-17.tar.gz'
+Content type 'binary/octet-stream' length 581295 bytes (567 KB)
+==================================================
+downloaded 567 KB
+
+begin installing package ‘prettyunits’
+begin installing package ‘bit’
+begin installing package ‘tzdb’
+begin installing package ‘hms’
+begin installing package ‘colorspace’
+begin installing package ‘gridBase’
+begin installing package ‘sfsmisc’
+begin installing package ‘quadprog’
+begin installing package ‘numDeriv’
+begin installing package ‘pbivnorm’
+* installing *binary* package ‘prettyunits’ ...
+* DONE (prettyunits)
+* installing *binary* package ‘quadprog’ ...
+* DONE (quadprog)
+begin installing package ‘gtools’
+begin installing package ‘clipr’
+* installing *binary* package ‘pbivnorm’ ...
+* DONE (pbivnorm)
+begin installing package ‘proxy’
+* installing *binary* package ‘hms’ ...
+* DONE (hms)
+begin installing package ‘mgsub’
+* installing *binary* package ‘gridBase’ ...
+* DONE (gridBase)
+begin installing package ‘splitstackshape’
+* installing *binary* package ‘numDeriv’ ...
+* DONE (numDeriv)
+begin installing package ‘doParallel’
+* installing *binary* package ‘bit’ ...
+* DONE (bit)
+begin installing package ‘progress’
+* installing *binary* package ‘sfsmisc’ ...
+* DONE (sfsmisc)
+begin installing package ‘bit64’
+* installing *binary* package ‘tzdb’ ...
+* DONE (tzdb)
+begin installing package ‘lavaan’
+* installing *binary* package ‘clipr’ ...
+* DONE (clipr)
+* installing *binary* package ‘mgsub’ ...
+* DONE (mgsub)
+* installing *binary* package ‘colorspace’ ...
+* DONE (colorspace)
+begin installing package ‘simsalapar’
+* installing *binary* package ‘proxy’ ...
+* DONE (proxy)
+begin installing package ‘e1071’
+* installing *binary* package ‘gtools’ ...
+* DONE (gtools)
+begin installing package ‘gdata’
+* installing *binary* package ‘splitstackshape’ ...
+* DONE (splitstackshape)
+* installing *binary* package ‘doParallel’ ...
+* DONE (doParallel)
+* installing *binary* package ‘progress’ ...
+* DONE (progress)
+* installing *binary* package ‘bit64’ ...
+* DONE (bit64)
+begin installing package ‘vroom’
+* installing *binary* package ‘simsalapar’ ...
+* DONE (simsalapar)
+* installing *binary* package ‘e1071’ ...
+* DONE (e1071)
+* installing *binary* package ‘gdata’ ...
+* DONE (gdata)
+* installing *binary* package ‘lavaan’ ...
+* DONE (lavaan)
+* installing *binary* package ‘vroom’ ...
+* DONE (vroom)
+begin installing package ‘readr’
+* installing *binary* package ‘readr’ ...
+* DONE (readr)
+
+The downloaded source packages are in
+	‘/tmp/RtmpBv3vfU/downloaded_packages’
+Running `R CMD build`...
+* checking for file ‘/tmp/RtmpBv3vfU/remotes20b53a09047/GenomicSEM-GenomicSEM-da95d43/DESCRIPTION’ ... OK
+* preparing ‘GenomicSEM’:
+* checking DESCRIPTION meta-information ... OK
+* excluding invalid files
+Subdirectory 'man' contains invalid file names:
+  ‘decisiontree.png’
+* checking for LF line-endings in source and make files and shell scripts
+* checking for empty or unneeded directories
+Omitted ‘LazyData’ from DESCRIPTION
+* building ‘GenomicSEM_0.0.5.tar.gz’
+Installing package into ‘/home/user/R/x86_64-pc-linux-gnu-library/4.3’
+(as ‘lib’ is unspecified)
+* installing *source* package ‘GenomicSEM’ ...
+** using staged installation
+** R
+** byte-compile and prepare package for lazy loading
+Warning: replacing previous import ‘gdata::nobs’ by ‘lavaan::nobs’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘gdata::last’ by ‘data.table::last’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘gdata::first’ by ‘data.table::first’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘gdata::resample’ by ‘R.utils::resample’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘gdata::env’ by ‘R.utils::env’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘data.table::first’ by ‘dplyr::first’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘data.table::between’ by ‘dplyr::between’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘plyr::summarize’ by ‘dplyr::summarize’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘plyr::desc’ by ‘dplyr::desc’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘gdata::combine’ by ‘dplyr::combine’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘plyr::mutate’ by ‘dplyr::mutate’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘gdata::starts_with’ by ‘dplyr::starts_with’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘data.table::last’ by ‘dplyr::last’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘plyr::summarise’ by ‘dplyr::summarise’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘plyr::arrange’ by ‘dplyr::arrange’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘plyr::count’ by ‘dplyr::count’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘plyr::rename’ by ‘dplyr::rename’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘Rcpp::.DollarNames’ by ‘utils::.DollarNames’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘Matrix::tail’ by ‘utils::tail’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘gdata::object.size’ by ‘utils::object.size’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘Rcpp::prompt’ by ‘utils::prompt’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘Matrix::head’ by ‘utils::head’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘R.utils::timestamp’ by ‘utils::timestamp’ when loading ‘GenomicSEM’
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+Warning: replacing previous import ‘gdata::nobs’ by ‘lavaan::nobs’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘gdata::last’ by ‘data.table::last’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘gdata::first’ by ‘data.table::first’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘gdata::resample’ by ‘R.utils::resample’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘gdata::env’ by ‘R.utils::env’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘data.table::first’ by ‘dplyr::first’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘data.table::between’ by ‘dplyr::between’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘plyr::summarize’ by ‘dplyr::summarize’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘plyr::desc’ by ‘dplyr::desc’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘gdata::combine’ by ‘dplyr::combine’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘plyr::mutate’ by ‘dplyr::mutate’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘gdata::starts_with’ by ‘dplyr::starts_with’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘data.table::last’ by ‘dplyr::last’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘plyr::summarise’ by ‘dplyr::summarise’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘plyr::arrange’ by ‘dplyr::arrange’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘plyr::count’ by ‘dplyr::count’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘plyr::rename’ by ‘dplyr::rename’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘Rcpp::.DollarNames’ by ‘utils::.DollarNames’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘Matrix::tail’ by ‘utils::tail’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘gdata::object.size’ by ‘utils::object.size’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘Rcpp::prompt’ by ‘utils::prompt’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘Matrix::head’ by ‘utils::head’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘R.utils::timestamp’ by ‘utils::timestamp’ when loading ‘GenomicSEM’
+** testing if installed package can be loaded from final location
+Warning: replacing previous import ‘gdata::nobs’ by ‘lavaan::nobs’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘gdata::last’ by ‘data.table::last’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘gdata::first’ by ‘data.table::first’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘gdata::resample’ by ‘R.utils::resample’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘gdata::env’ by ‘R.utils::env’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘data.table::first’ by ‘dplyr::first’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘data.table::between’ by ‘dplyr::between’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘plyr::summarize’ by ‘dplyr::summarize’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘plyr::desc’ by ‘dplyr::desc’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘gdata::combine’ by ‘dplyr::combine’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘plyr::mutate’ by ‘dplyr::mutate’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘gdata::starts_with’ by ‘dplyr::starts_with’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘data.table::last’ by ‘dplyr::last’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘plyr::summarise’ by ‘dplyr::summarise’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘plyr::arrange’ by ‘dplyr::arrange’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘plyr::count’ by ‘dplyr::count’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘plyr::rename’ by ‘dplyr::rename’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘Rcpp::.DollarNames’ by ‘utils::.DollarNames’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘Matrix::tail’ by ‘utils::tail’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘gdata::object.size’ by ‘utils::object.size’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘Rcpp::prompt’ by ‘utils::prompt’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘Matrix::head’ by ‘utils::head’ when loading ‘GenomicSEM’
+Warning: replacing previous import ‘R.utils::timestamp’ by ‘utils::timestamp’ when loading ‘GenomicSEM’
+** testing if installed package keeps a record of temporary installation path
+* DONE (GenomicSEM)
+Downloading GitHub repo josefin-werme/LAVA@HEAD
+Installing 2 packages: keep, matrixsampling
+Installing packages into ‘/home/user/R/x86_64-pc-linux-gnu-library/4.3’
+(as ‘lib’ is unspecified)
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/keep_1.0.tar.gz'
+Content type 'binary/octet-stream' length 27583 bytes (26 KB)
+==================================================
+downloaded 26 KB
+
+trying URL 'https://packagemanager.posit.co/cran/__linux__/noble/latest/src/contrib/matrixsampling_2.0.0.tar.gz'
+Content type 'binary/octet-stream' length 829552 bytes (810 KB)
+==================================================
+downloaded 810 KB
+
+begin installing package ‘keep’
+* installing *binary* package ‘keep’ ...
+* DONE (keep)
+begin installing package ‘matrixsampling’
+* installing *binary* package ‘matrixsampling’ ...
+* DONE (matrixsampling)
+
+The downloaded source packages are in
+	‘/tmp/RtmpBv3vfU/downloaded_packages’
+Running `R CMD build`...
+* checking for file ‘/tmp/RtmpBv3vfU/remotes20b35ad9965/josefin-werme-LAVA-e729a24/DESCRIPTION’ ... OK
+* preparing ‘LAVA’:
+* checking DESCRIPTION meta-information ... OK
+* cleaning src
+* checking for LF line-endings in source and make files and shell scripts
+* checking for empty or unneeded directories
+Omitted ‘LazyData’ from DESCRIPTION
+* building ‘LAVA_0.1.5.tar.gz’
+Installing package into ‘/home/user/R/x86_64-pc-linux-gnu-library/4.3’
+(as ‘lib’ is unspecified)
+* installing *source* package ‘LAVA’ ...
+** using staged installation
+** libs
+using C++ compiler: ‘g++ (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0’
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/home/user/R/x86_64-pc-linux-gnu-library/4.3/cpp11/include'     -fpic  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-FPSnzf/r-base-4.3.3=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -fcf-protection -fdebug-prefix-map=/build/r-base-FPSnzf/r-base-4.3.3=/usr/src/r-base-4.3.3-2build2 -Wdate-time -D_FORTIFY_SOURCE=3  -c cpp11.cpp -o cpp11.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/home/user/R/x86_64-pc-linux-gnu-library/4.3/cpp11/include'     -fpic  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-FPSnzf/r-base-4.3.3=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -fcf-protection -fdebug-prefix-map=/build/r-base-FPSnzf/r-base-4.3.3=/usr/src/r-base-4.3.3-2build2 -Wdate-time -D_FORTIFY_SOURCE=3  -c load_ld.cpp -o load_ld.o
+g++ -std=gnu++17 -I"/usr/share/R/include" -DNDEBUG  -I'/home/user/R/x86_64-pc-linux-gnu-library/4.3/cpp11/include'     -fpic  -g -O2 -fno-omit-frame-pointer -mno-omit-leaf-frame-pointer -ffile-prefix-map=/build/r-base-FPSnzf/r-base-4.3.3=. -fstack-protector-strong -fstack-clash-protection -Wformat -Werror=format-security -fcf-protection -fdebug-prefix-map=/build/r-base-FPSnzf/r-base-4.3.3=/usr/src/r-base-4.3.3-2build2 -Wdate-time -D_FORTIFY_SOURCE=3  -c load_plink.cpp -o load_plink.o
+g++ -std=gnu++17 -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -Wl,-z,relro -o LAVA.so cpp11.o load_ld.o load_plink.o -L/usr/lib/R/lib -lR
+installing to /home/user/R/x86_64-pc-linux-gnu-library/4.3/00LOCK-LAVA/00new/LAVA/libs
+** R
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (LAVA)
+Downloading GitHub repo n-mounier/MRlap@HEAD
+Running `R CMD build`...
+* checking for file ‘/tmp/RtmpBv3vfU/remotes20bd3be9b7/n-mounier-MRlap-660f026/DESCRIPTION’ ... OK
+* preparing ‘MRlap’:
+* checking DESCRIPTION meta-information ... OK
+* checking for LF line-endings in source and make files and shell scripts
+* checking for empty or unneeded directories
+* building ‘MRlap_0.0.3.3.tar.gz’
+Installing package into ‘/home/user/R/x86_64-pc-linux-gnu-library/4.3’
+(as ‘lib’ is unspecified)
+* installing *source* package ‘MRlap’ ...
+** using staged installation
+** R
+** data
+*** moving datasets to lazyload DB
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (MRlap)
+Running LAVA version 0.1.5
+There were 23 warnings (use warnings() to see them)
+    remotes  data.table    jsonlite       coloc    ieugwasr     R.utils 
+       TRUE        TRUE        TRUE        TRUE        TRUE        TRUE 
+TwoSampleMR  GenomicSEM        LAVA       MRlap    MRPRESSO 
+       TRUE        TRUE        TRUE        TRUE        TRUE 

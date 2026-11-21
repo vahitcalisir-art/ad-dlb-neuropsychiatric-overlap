@@ -1,0 +1,12 @@
+tag,trait,n_snp,drop_apoe,file
+ad,ad,1158088,FALSE,/home/user/q1paper/data/ldsc_sumstats/ad.sumstats.gz
+dlb,dlb,1064874,FALSE,/home/user/q1paper/data/ldsc_sumstats/dlb.sumstats.gz
+mdd,mdd,1078335,FALSE,/home/user/q1paper/data/ldsc_sumstats/mdd.sumstats.gz
+ptsd,ptsd,1140739,FALSE,/home/user/q1paper/data/ldsc_sumstats/ptsd.sumstats.gz
+insomnia,insomnia,1122443,FALSE,/home/user/q1paper/data/ldsc_sumstats/insomnia.sumstats.gz
+scz,scz,1122922,FALSE,/home/user/q1paper/data/ldsc_sumstats/scz.sumstats.gz
+mdd_ukbb,mdd_ukbb,1092724,FALSE,/home/user/q1paper/data/ldsc_sumstats/mdd_ukbb.sumstats.gz
+ptsd_cc,ptsd_cc,1075974,FALSE,/home/user/q1paper/data/ldsc_sumstats/ptsd_cc.sumstats.gz
+ad_noapoe,ad,1157284,TRUE,/home/user/q1paper/data/ldsc_sumstats/ad_noapoe.sumstats.gz
+ad_finngen,ad_finngen,1151056,FALSE,/home/user/q1paper/data/ldsc_sumstats/ad_finngen.sumstats.gz
+ad_finngen_noapoe,ad_finngen,1150206,TRUE,/home/user/q1paper/data/ldsc_sumstats/ad_finngen_noapoe.sumstats.gz

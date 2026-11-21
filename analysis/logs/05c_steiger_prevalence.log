@@ -1,0 +1,66 @@
+2026-11-21 19:40:44 mdd__dlb reproduced; removed (k=1, 0.5, 2): 79, 79, 79 
+2026-11-21 19:41:39 dlb__mdd reproduced; removed (k=1, 0.5, 2): 0, 0, 0 
+2026-11-21 19:42:39 ptsd__dlb reproduced; removed (k=1, 0.5, 2): 11, 11, 11 
+2026-11-21 19:44:03 dlb__ptsd reproduced; removed (k=1, 0.5, 2): 0, 0, 0 
+2026-11-21 19:45:48 insomnia__dlb reproduced; removed (k=1, 0.5, 2): 4, 4, 4 
+2026-11-21 19:47:32 dlb__insomnia reproduced; removed (k=1, 0.5, 2): 0, 0, 0 
+2026-11-21 19:48:52 scz__dlb reproduced; removed (k=1, 0.5, 2): 21, 21, 21 
+2026-11-21 19:50:45 dlb__scz reproduced; removed (k=1, 0.5, 2): 0, 0, 0 
+               id prevalence_factor n_harmonised n_removed n_retained
+           <char>             <num>        <int>     <int>      <int>
+ 1:      mdd__dlb               1.0          132        79         53
+ 2:      mdd__dlb               0.5          132        79         53
+ 3:      mdd__dlb               2.0          132        79         53
+ 4:      dlb__mdd               1.0            4         0          4
+ 5:      dlb__mdd               0.5            4         0          4
+ 6:      dlb__mdd               2.0            4         0          4
+ 7:     ptsd__dlb               1.0           24        11         13
+ 8:     ptsd__dlb               0.5           24        11         13
+ 9:     ptsd__dlb               2.0           24        11         13
+10:     dlb__ptsd               1.0            3         0          3
+11:     dlb__ptsd               0.5            3         0          3
+12:     dlb__ptsd               2.0            3         0          3
+13: insomnia__dlb               1.0           12         4          8
+14: insomnia__dlb               0.5           12         4          8
+15: insomnia__dlb               2.0           12         4          8
+16: dlb__insomnia               1.0            3         0          3
+17: dlb__insomnia               0.5            3         0          3
+18: dlb__insomnia               2.0            3         0          3
+19:      scz__dlb               1.0          140        21        119
+20:      scz__dlb               0.5          140        21        119
+21:      scz__dlb               2.0          140        21        119
+22:      dlb__scz               1.0            4         0          4
+23:      dlb__scz               0.5            4         0          4
+24:      dlb__scz               2.0            4         0          4
+               id prevalence_factor n_harmonised n_removed n_retained
+           <char>             <num>        <int>     <int>      <int>
+                         or_ci ivw_p
+                        <char> <num>
+ 1: 0.95 (95% CI 0.81 to 1.12)  0.53
+ 2: 0.95 (95% CI 0.81 to 1.12)  0.53
+ 3: 0.95 (95% CI 0.81 to 1.12)  0.53
+ 4: 1.00 (95% CI 1.00 to 1.01)  0.37
+ 5: 1.00 (95% CI 1.00 to 1.01)  0.37
+ 6: 1.00 (95% CI 1.00 to 1.01)  0.37
+ 7: 1.07 (95% CI 0.75 to 1.52)  0.72
+ 8: 1.07 (95% CI 0.75 to 1.52)  0.72
+ 9: 1.07 (95% CI 0.75 to 1.52)  0.72
+10: 1.01 (95% CI 0.99 to 1.02)  0.29
+11: 1.01 (95% CI 0.99 to 1.02)  0.29
+12: 1.01 (95% CI 0.99 to 1.02)  0.29
+13: 0.96 (95% CI 0.61 to 1.49)  0.84
+14: 0.96 (95% CI 0.61 to 1.49)  0.84
+15: 0.96 (95% CI 0.61 to 1.49)  0.84
+16: 0.99 (95% CI 0.94 to 1.04)  0.62
+17: 0.99 (95% CI 0.94 to 1.04)  0.62
+18: 0.99 (95% CI 0.94 to 1.04)  0.62
+19: 0.96 (95% CI 0.88 to 1.05)  0.37
+20: 0.96 (95% CI 0.88 to 1.05)  0.37
+21: 0.96 (95% CI 0.88 to 1.05)  0.37
+22: 1.01 (95% CI 0.96 to 1.06)  0.75
+23: 1.01 (95% CI 0.96 to 1.06)  0.75
+24: 1.01 (95% CI 0.96 to 1.06)  0.75
+                         or_ci ivw_p
+                        <char> <num>
+[1] TRUE
+2026-11-21 19:51:11 BİTTİ 
