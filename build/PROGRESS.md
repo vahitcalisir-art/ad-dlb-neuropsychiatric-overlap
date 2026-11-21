@@ -230,3 +230,9 @@ Not: Fig 2'deki * = FDR < 0,05 (FinnGen panelinde dört test içi BH); açıklam
 - Introduction (02_introduction.md, 5 paragraphs, ~850 words, every sentence cited) and Abstract (01_abstract.md, ~290 words, numbers from results.json, background sentences linked to anchored cited sentences) written. Audit: 0 errors in both sections; remaining errors are the 3 missing sources (+ livingston2024 metadata until verify_refs rerun completes).
 - Queued (investigator, after sources complete): AI statement (fixed wording) in Statements; sentence-by-sentence style pass with pre/post git tags, build/style_pass_diff.md and an independent 30-pair check (seed 20261123).
 - Draft: d:\tugbadoc\frontiers_dementia\draft_full_abstract_to_discussion_2026-11-21.md.
+
+### 2026-11-22 — sources complete, draft corrections, statements (before style pass)
+- Mounier, Watanabe, BH ingested (copies via sources/inbox; originals in the root folder untouched), notes OK, KEEP, verify_refs 38/38.
+- Draft fixes: FinnGen wording; zero-count wording via text keys; NPS paragraph in Discussion (4 sentences); "reproduced exactly" bound to GATE3_RESULT (depends marker; audit now flags GATE3_RESULT until filled).
+- Statements (07_statements.md) per Frontiers template order; title page updated (correspondence e-mail, ORCID).
+- Audit: 2 errors, both GATE3_RESULT.

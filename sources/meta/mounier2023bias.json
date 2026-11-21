@@ -1,0 +1,50 @@
+{
+ "author_order_note": "",
+ "DOI": "10.1002/gepi.22522",
+ "title": "Bias correction for inverse variance weighting Mendelian randomization",
+ "container-title": "Genetic Epidemiology",
+ "container-title-short": "Genetic Epidemiology",
+ "author": [
+  {
+   "family": "Mounier",
+   "given": "Ninon"
+  },
+  {
+   "family": "Kutalik",
+   "given": "Zoltán"
+  }
+ ],
+ "issued": {
+  "date-parts": [
+   [
+    2023,
+    4,
+    10
+   ]
+  ]
+ },
+ "published-print": {
+  "date-parts": [
+   [
+    2023,
+    6
+   ]
+  ]
+ },
+ "published-online": {
+  "date-parts": [
+   [
+    2023,
+    4,
+    10
+   ]
+  ]
+ },
+ "volume": "47",
+ "issue": "4",
+ "page": "314-331",
+ "article-number": "",
+ "type": "journal-article",
+ "corrections": [],
+ "verified_title_similarity": 1.0
+}

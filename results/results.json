@@ -4593,5 +4593,14 @@
       "mdd_dlb_or_double": "0.95 (95% CI 0.81 to 1.12)",
       "max_change_in_removed": "0"
     }
+  },
+  "text": {
+    "lava_ukb_fdr_primary": "none passed FDR correction",
+    "lava_testable_ad_insomnia": "none",
+    "lava_testable_dlb_range": "at most 2 testable loci",
+    "strand_check_changed": "none changed sign or significance after the exclusion",
+    "steiger_prevalence_change": "did not change the set of removed instruments in any DLB direction",
+    "steiger_prevalence_ivw": "so the IVW estimates were unchanged",
+    "coloc_condition": "no primary locus–pair passed FDR correction in the main LAVA analysis"
   }
 }

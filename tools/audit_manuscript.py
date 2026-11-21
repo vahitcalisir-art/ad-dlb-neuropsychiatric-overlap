@@ -176,7 +176,7 @@ def main():
         rule = rules.get(sec, "none")
         path = ROOT / "manuscript" / sec
         raw_all = path.read_text(encoding="utf-8")
-        for bad in ("TODO", "TBD", "XXX", "[citation needed]", "??"):
+        for bad in ("TODO", "TBD", "XXX", "[citation needed]", "??", "GATE3_RESULT"):
             if bad in raw_all:
                 errors.append(f"[{sec}] yer tutucu/eksik işaret: {bad}")
         for pi, par in enumerate(paragraphs(path), 1):
@@ -249,7 +249,10 @@ def main():
                         errors.append(f"[{loc}] yasak kalıp /{pat}/: \"{plain_text[:90]}\"")
                 if "—" in plain_text or " -- " in plain_text:
                     errors.append(f"[{loc}] uzun tire (em dash) kullanımı")
-                if CFG["PERSON"] == "passive" and FIRST_PERSON.search(plain_text):
+                # data-provider acknowledgements that must be reproduced verbatim (config VERBATIM_REQUIRED, each with
+                # its source page archived) are exempt from the first-person check only
+                if CFG["PERSON"] == "passive" and FIRST_PERSON.search(plain_text) \
+                        and plain_text not in CFG.get("VERBATIM_REQUIRED", {}):
                     errors.append(f"[{loc}] birinci şahıs: \"{plain_text[:90]}\"")
                 if len(plain_text.split()) > CFG["MAX_SENTENCE_WORDS"]:
                     warns.append(f"[{loc}] çok uzun cümle ({len(plain_text.split())} kelime)")

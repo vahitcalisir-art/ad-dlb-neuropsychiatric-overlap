@@ -102,3 +102,12 @@ Entry types: **C** = data-processing correction (no change to the plan); **D** =
 3. Added for the Introduction: zhu2026neuropsychiatric, sassi2026mild, meng2025insomnia (notes and verbatim checks existed; KEEP).
 4. Methods: AD prevalence sentence now states its scope (European prevalence among people aged over 50; Niu 2017 c1–c2).
 5. Reference count: 36 KEEP cited + 3 pending (watanabe2022genome, mounier2023bias, benjamini1995controlling; investigator PDFs) = 39.
+
+## C9 (2026-11-22) — missing sources ingested; wording and statements; plan and analyses unchanged
+1. Published full texts ingested (investigator PDFs): mounier2023bias (Genet Epidemiol 2023, replaces the preprint-based note), watanabe2022genome (Nat Genet 2022), benjamini1995controlling (JRSS-B 1995). All quotes verified verbatim.
+2. Watanabe 2022: UK Biobank counts 109,548 cases / 277,440 controls confirmed (c1). The published paper used a population prevalence of 30% for its liability-scale heritability (c6); the 0.10 used here for Steiger filtering is not stated in the paper and remains a working assumption (investigator rule). Flagged to the investigator: 0.30 lies outside the 0.5×–2× sensitivity range (0.05–0.20).
+3. Mounier 2023: own instrument selection supported (c10); the model is formulated for standardized variables (c9), but the paper does not state that MRlap output is on a standardized scale; the Methods sentence was softened accordingly.
+4. burgess2016bias dropped under the investigator rule of 2026-11-20: both uses supported verbatim by mounier2023bias c3. References: 38.
+5. FinnGen described throughout as "register-based AD GWAS without proxy cases (FinnGen)".
+6. Count-dependent wording: tools/text_keys.py writes results.json["text"] from existing values (no computation); manuscript sentences with zero counts bind to these keys. It must run after any step that rewrites results.json; Gate 3 comparison excludes the "text" block.
+7. Statements written (Frontiers guidelines archived in docs/evidence/frontiers; provider terms in docs/evidence/providers). Single-blind review, so no anonymized file. FinnGen acknowledgement verbatim (config VERBATIM_REQUIRED exempts it from the first-person check only).

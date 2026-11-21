@@ -1,0 +1,250 @@
+{
+ "author_order_note": "",
+ "DOI": "10.1038/s41588-022-01124-w",
+ "title": "Genome-wide meta-analysis of insomnia prioritizes genes associated with metabolic and psychiatric pathways",
+ "container-title": "Nature Genetics",
+ "container-title-short": "Nat Genet",
+ "author": [
+  {
+   "family": "Watanabe",
+   "given": "Kyoko"
+  },
+  {
+   "family": "Jansen",
+   "given": "Philip R."
+  },
+  {
+   "family": "Savage",
+   "given": "Jeanne E."
+  },
+  {
+   "family": "Nandakumar",
+   "given": "Priyanka"
+  },
+  {
+   "family": "Wang",
+   "given": "Xin"
+  },
+  {
+   "family": "Agee",
+   "given": "Michelle"
+  },
+  {
+   "family": "Aslibekyan",
+   "given": "Stella"
+  },
+  {
+   "family": "Auton",
+   "given": "Adam"
+  },
+  {
+   "family": "Bell",
+   "given": "Robert K."
+  },
+  {
+   "family": "Bryc",
+   "given": "Katarzyna"
+  },
+  {
+   "family": "Clark",
+   "given": "Sarah K."
+  },
+  {
+   "family": "Elson",
+   "given": "Sarah L."
+  },
+  {
+   "family": "Fletez-Brant",
+   "given": "Kipper"
+  },
+  {
+   "family": "Fontanillas",
+   "given": "Pierre"
+  },
+  {
+   "family": "Furlotte",
+   "given": "Nicholas A."
+  },
+  {
+   "family": "Gandhi",
+   "given": "Pooja M."
+  },
+  {
+   "family": "Heilbron",
+   "given": "Karl"
+  },
+  {
+   "family": "Hicks",
+   "given": "Barry"
+  },
+  {
+   "family": "Huber",
+   "given": "Karen E."
+  },
+  {
+   "family": "Jewett",
+   "given": "Ethan M."
+  },
+  {
+   "family": "Jiang",
+   "given": "Yunxuan"
+  },
+  {
+   "family": "Kleinman",
+   "given": "Aaron"
+  },
+  {
+   "family": "Lin",
+   "given": "Keng-Han"
+  },
+  {
+   "family": "Litterman",
+   "given": "Nadia K."
+  },
+  {
+   "family": "McCreight",
+   "given": "Jennifer C."
+  },
+  {
+   "family": "McIntyre",
+   "given": "Matthew H."
+  },
+  {
+   "family": "McManus",
+   "given": "Kimberly F."
+  },
+  {
+   "family": "Mountain",
+   "given": "Joanna L."
+  },
+  {
+   "family": "Mozaffari",
+   "given": "Sahar V."
+  },
+  {
+   "family": "Noblin",
+   "given": "Elizabeth S."
+  },
+  {
+   "family": "Northover",
+   "given": "Carrie A. M."
+  },
+  {
+   "family": "O’Connell",
+   "given": "Jared"
+  },
+  {
+   "family": "Pitts",
+   "given": "Steven J."
+  },
+  {
+   "family": "Poznik",
+   "given": "G. David"
+  },
+  {
+   "family": "Sathirapongsasuti",
+   "given": "J. Fah"
+  },
+  {
+   "family": "Shelton",
+   "given": "Janie F."
+  },
+  {
+   "family": "Shi",
+   "given": "Jing"
+  },
+  {
+   "family": "Shringarpure",
+   "given": "Suyash"
+  },
+  {
+   "family": "Tian",
+   "given": "Chao"
+  },
+  {
+   "family": "Tung",
+   "given": "Joyce Y."
+  },
+  {
+   "family": "Tunney",
+   "given": "Robert J."
+  },
+  {
+   "family": "Vacic",
+   "given": "Vladimir"
+  },
+  {
+   "family": "Wang",
+   "given": "Wei"
+  },
+  {
+   "family": "Hinds",
+   "given": "David A."
+  },
+  {
+   "family": "Gelernter",
+   "given": "Joel"
+  },
+  {
+   "family": "Levey",
+   "given": "Daniel F."
+  },
+  {
+   "family": "Polimanti",
+   "given": "Renato"
+  },
+  {
+   "family": "Stein",
+   "given": "Murray B."
+  },
+  {
+   "family": "Van Someren",
+   "given": "Eus J. W."
+  },
+  {
+   "family": "Smit",
+   "given": "August B."
+  },
+  {
+   "family": "Posthuma",
+   "given": "Danielle"
+  },
+  {
+   "name": "23andMe Research Team",
+   "literal": "23andMe Research Team"
+  }
+ ],
+ "issued": {
+  "date-parts": [
+   [
+    2022,
+    7,
+    14
+   ]
+  ]
+ },
+ "published-print": {
+  "date-parts": [
+   [
+    2022,
+    8
+   ]
+  ]
+ },
+ "published-online": {
+  "date-parts": [
+   [
+    2022,
+    7,
+    14
+   ]
+  ]
+ },
+ "volume": "54",
+ "issue": "8",
+ "page": "1125-1132",
+ "article-number": "",
+ "type": "journal-article",
+ "corrections": [],
+ "verified_title_similarity": 1.0
+}
