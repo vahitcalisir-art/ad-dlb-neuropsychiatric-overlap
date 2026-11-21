@@ -1,0 +1,279 @@
+[
+ {
+  "id": 7,
+  "sec": "01_abstract.md",
+  "para": 2,
+  "old": [
+   "That estimate was sensitive to pleiotropy, its overlap-corrected version was not nominally significant (P {{res:mr.ptsd__ad.p_mrlap_corrected}}), and it was not significant with FinnGen AD as outcome (odds ratio {{res:sensitivity_finngen.mr.ptsd__ad_finngen.or_ivw}})."
+  ],
+  "new": "With FinnGen AD as the outcome, the same direction was not significant (odds ratio {{res:sensitivity_finngen.mr.ptsd__ad_finngen.or_ivw}})."
+ },
+ {
+  "id": 11,
+  "sec": "02_introduction.md",
+  "para": 2,
+  "old": [
+   "Most patients with dementia develop at least some neuropsychiatric symptoms during the disease, although the prevalence and persistence of individual symptoms vary widely [@zhu2026neuropsychiatric#c1] <!--id:intro_nps-->."
+  ],
+  "new": "Most people with dementia develop neuropsychiatric symptoms at some stage, although individual symptoms differ widely in prevalence and persistence [@zhu2026neuropsychiatric#c1] <!--id:intro_nps-->."
+ },
+ {
+  "id": 12,
+  "sec": "02_introduction.md",
+  "para": 2,
+  "old": [
+   "About 85% of patients with Alzheimer's disease (AD) will develop a neuropsychiatric symptom at some point in the illness [@kumar2026genetic#c7]."
+  ],
+  "new": "In Alzheimer's disease (AD), about 85% of patients develop such a symptom during the illness [@kumar2026genetic#c7]."
+ },
+ {
+  "id": 13,
+  "sec": "02_introduction.md",
+  "para": 2,
+  "old": [
+   "In a longitudinal clinical cohort, depressed mood was reported by 51% of participants with AD and by 65.2% of those with clinically diagnosed dementia with Lewy bodies (DLB), in whom psychosis was also frequent [@zhu2026neuropsychiatric#c2; @zhu2026neuropsychiatric#c3; @zhu2026neuropsychiatric#c7]."
+  ],
+  "new": "A longitudinal clinical cohort recorded depressed mood in 51% of participants with AD and in 65.2% of those with clinically diagnosed dementia with Lewy bodies (DLB), in whom psychosis was also frequent [@zhu2026neuropsychiatric#c2; @zhu2026neuropsychiatric#c3; @zhu2026neuropsychiatric#c7]."
+ },
+ {
+  "id": 15,
+  "sec": "02_introduction.md",
+  "para": 2,
+  "old": [
+   "Symptoms can also precede the diagnosis: mild behavioral impairment, defined by later-life onset and persistence for at least six months, carried a pooled hazard ratio of 2.70 for incident dementia [@sassi2026mild#c4; @sassi2026mild#c1]."
+  ],
+  "new": "Mild behavioral impairment, defined by later-life onset and at least six months of persistence, carried a pooled hazard ratio of 2.70 for incident dementia [@sassi2026mild#c4; @sassi2026mild#c1]."
+ },
+ {
+  "id": 18,
+  "sec": "02_introduction.md",
+  "para": 3,
+  "old": [
+   "The 2024 Lancet Commission found a higher risk of dementia 10 to 14 years after a diagnosis of depression and concluded that depression increases risk at all adult ages, although part of the late-life association reflects preclinical dementia [@livingston2024dementia#c4; @livingston2024dementia#c1]."
+  ],
+  "new": "The Commission concluded that depression increases risk at all adult ages, although part of the late-life association reflects preclinical dementia [@livingston2024dementia#c1]."
+ },
+ {
+  "id": 22,
+  "sec": "02_introduction.md",
+  "para": 3,
+  "old": [
+   "In that meta-analysis the association was stronger with less than five years of follow-up than with longer follow-up [@meng2025insomnia#c2].",
+   "Such a pattern is expected when risks identified in the few years before dementia reflect reverse causation as well as, or instead of, a causal effect [@livingston2024dementia#c2] <!--id:intro_revcaus-->."
+  ],
+  "new": "The meta-analytic association was stronger when follow-up lasted less than five years [@meng2025insomnia#c2], a pattern expected if risks identified in the few years before dementia reflect reverse causation as well as, or instead of, a causal effect [@livingston2024dementia#c2] <!--id:intro_revcaus-->."
+ },
+ {
+  "id": 25,
+  "sec": "02_introduction.md",
+  "para": 4,
+  "old": [
+   "Mendelian randomization (MR) uses genetic variants as instruments, and its estimates reflect the lifetime effect of genetic liability to the exposure [@skrivankova2021strengthening2#c7; @skrivankova2021strengthening2#c8].",
+   "Bidirectional MR additionally assesses the direction of a causal association [@skrivankova2021strengthening2#c4]."
+  ],
+  "new": "Mendelian randomization (MR) uses genetic variants as instruments, so its estimates reflect the lifetime effect of genetic liability to the exposure [@skrivankova2021strengthening2#c7; @skrivankova2021strengthening2#c8], and applying it in both directions addresses the direction of a causal association [@skrivankova2021strengthening2#c4]."
+ },
+ {
+  "id": 28,
+  "sec": "02_introduction.md",
+  "para": 5,
+  "old": [
+   "Null genome-wide results do not exclude shared genetic effects, because local correlations in opposing directions can cancel out in a genome-wide estimate [@werme2022integrated#c1] <!--id:intro_local-->."
+  ],
+  "new": "A null genome-wide result does not exclude shared genetic effects, since local correlations of opposite sign can cancel out in a genome-wide estimate [@werme2022integrated#c1] <!--id:intro_local-->."
+ },
+ {
+  "id": 40,
+  "sec": "03_methods.md",
+  "para": 5,
+  "old": [
+   "Every later change is listed with its reason and timing in Supplementary Table S1."
+  ],
+  "new": "Supplementary Table S1 lists every later change with its reason and timing."
+ },
+ {
+  "id": 44,
+  "sec": "03_methods.md",
+  "para": 9,
+  "old": [
+   "The sample-size-weighted Z-score file was used for LDSC and LAVA, which need only Z scores and sample sizes [@buliksullivan2015ld#c1; @werme2022integrated#c6], and the case/control file with effect sizes from the same release was used for MR."
+  ],
+  "new": "LDSC and LAVA need only Z scores and sample sizes, so the sample-size-weighted Z-score file was used for them [@buliksullivan2015ld#c1; @werme2022integrated#c6], while MR used the case/control file with effect sizes from the same release."
+ },
+ {
+  "id": 47,
+  "sec": "03_methods.md",
+  "para": 10,
+  "old": [
+   "The FinnGen release 13 endpoint for AD met this requirement as a register-based AD GWAS without proxy cases, defined from register-based diagnosis codes in hospital discharge and cause-of-death registers [@kurki2023finngen#c1; @kurki2023finngen#c4]."
+  ],
+  "new": "The FinnGen release 13 AD endpoint met this requirement as a register-based AD GWAS without proxy cases, defined from register-based diagnosis codes in hospital discharge and cause-of-death registers [@kurki2023finngen#c1; @kurki2023finngen#c4]."
+ },
+ {
+  "id": 50,
+  "sec": "03_methods.md",
+  "para": 12,
+  "old": [
+   "The major histocompatibility complex region (chr6:25–34 Mb) was excluded from genome-wide and local genetic correlation analyses.",
+   "The APOE region (chr19:44.4–46.5 Mb) was flagged for the APOE-excluded analyses."
+  ],
+  "new": "Genome-wide and local genetic correlation analyses excluded the major histocompatibility complex region (chr6:25–34 Mb), and the APOE region (chr19:44.4–46.5 Mb) was flagged for the APOE-excluded analyses."
+ },
+ {
+  "id": 60,
+  "sec": "03_methods.md",
+  "para": 16,
+  "old": [
+   "Sample overlap was modelled from the LDSC cross-trait intercepts [@werme2022integrated#c5; @werme2022integrated#c6].",
+   "Binary traits were entered with case and control counts derived from the effective sample size (Supplementary Table S3)."
+  ],
+  "new": "LDSC cross-trait intercepts supplied the sample overlap model [@werme2022integrated#c5; @werme2022integrated#c6], and binary traits were entered with case and control counts derived from the effective sample size (Supplementary Table S3)."
+ },
+ {
+  "id": 69,
+  "sec": "03_methods.md",
+  "para": 19,
+  "old": [
+   "Instruments absent from the outcome GWAS were dropped without LD proxies.",
+   "Exposure and outcome data were harmonized with TwoSampleMR [@hemani2018mr#c1]."
+  ],
+  "new": "Instruments absent from the outcome GWAS were dropped without LD proxies, and exposure and outcome data were harmonized with TwoSampleMR [@hemani2018mr#c1]."
+ },
+ {
+  "id": 72,
+  "sec": "03_methods.md",
+  "para": 20,
+  "old": [
+   "These were 0.15 for MDD [@adams2025trans#c5], 0.01 for SCZ [@trubetskoy2022mapping#c6], 0.001 for DLB [@chia2021genome#c6], 0.05 for PTSD [@koenen2017posttraumatic#c3] and 0.05 for AD (European prevalence among people aged over 50) [@niu2017prevalence#c1; @niu2017prevalence#c2]."
+  ],
+  "new": "The values were 0.15 for MDD [@adams2025trans#c5], 0.01 for SCZ [@trubetskoy2022mapping#c6], 0.001 for DLB [@chia2021genome#c6], 0.05 for PTSD [@koenen2017posttraumatic#c3] and 0.05 for AD (European prevalence among people aged over 50) [@niu2017prevalence#c1; @niu2017prevalence#c2]."
+ },
+ {
+  "id": 83,
+  "sec": "04_results.md",
+  "para": 3,
+  "old": [
+   "All six traits had SNP heritability estimates distinguishable from zero except DLB, whose heritability Z score was {{res:ldsc_h2.main.dlb.h2_z}}, below the threshold under which the analysis plan flags rg as low power (Figure 2)."
+  ],
+  "new": "Every trait except DLB had a SNP heritability estimate distinguishable from zero, and the DLB heritability Z score of {{res:ldsc_h2.main.dlb.h2_z}} fell below the threshold under which the analysis plan flags rg as low power (Figure 2)."
+ },
+ {
+  "id": 87,
+  "sec": "04_results.md",
+  "para": 5,
+  "old": [
+   "Both estimates rest on a DLB heritability flagged as low power (Z {{res:ldsc_h2.main.dlb.h2_z}}), and their lower confidence limits lay close to zero ({{res:power_ldsc.dlb.mdd.ci_lower}} and {{res:power_ldsc.dlb.ptsd.ci_lower}})."
+  ],
+  "new": "These estimates rest on a DLB heritability flagged as low power (Z {{res:ldsc_h2.main.dlb.h2_z}}), and their lower confidence limits lay close to zero ({{res:power_ldsc.dlb.mdd.ci_lower}} and {{res:power_ldsc.dlb.ptsd.ci_lower}})."
+ },
+ {
+  "id": 96,
+  "sec": "04_results.md",
+  "para": 10,
+  "old": [
+   "Of the {{res:lava_ukb.summary.loci_analysed}} loci analysed with the UK Biobank reference, few carried local heritability for both members of a primary pair, so {{res:lava_ukb.summary.bivar_tests_primary}} bivariate tests were possible across the eight primary pairs (Figure 3)."
+  ],
+  "new": "Of the {{res:lava_ukb.summary.loci_analysed}} loci analysed with the UK Biobank reference, those with local heritability in both traits of a primary pair allowed {{res:lava_ukb.summary.bivar_tests_primary}} bivariate tests across the eight primary pairs (Figure 3)."
+ },
+ {
+  "id": 99,
+  "sec": "04_results.md",
+  "para": 12,
+  "old": [
+   "Nominal local correlations were observed at {{res:power_lava_ukb.ad.mdd.loci_nominal_p05}} of {{res:power_lava_ukb.ad.mdd.loci_testable}} testable loci for AD × MDD (expected under the null {{res:lava_exploratory.ad.mdd.expected}}), {{res:power_lava_ukb.ad.scz.loci_nominal_p05}} of {{res:power_lava_ukb.ad.scz.loci_testable}} for AD × SCZ (expected {{res:lava_exploratory.ad.scz.expected}}) and {{res:power_lava_ukb.ad.ptsd.loci_nominal_p05}} of {{res:power_lava_ukb.ad.ptsd.loci_testable}} for AD × PTSD (expected {{res:lava_exploratory.ad.ptsd.expected}})."
+  ],
+  "new": "Nominal local correlations occurred at {{res:power_lava_ukb.ad.mdd.loci_nominal_p05}} of {{res:power_lava_ukb.ad.mdd.loci_testable}} testable loci for AD × MDD (expected under the null {{res:lava_exploratory.ad.mdd.expected}}), {{res:power_lava_ukb.ad.scz.loci_nominal_p05}} of {{res:power_lava_ukb.ad.scz.loci_testable}} for AD × SCZ (expected {{res:lava_exploratory.ad.scz.expected}}) and {{res:power_lava_ukb.ad.ptsd.loci_nominal_p05}} of {{res:power_lava_ukb.ad.ptsd.loci_testable}} for AD × PTSD (expected {{res:lava_exploratory.ad.ptsd.expected}})."
+ },
+ {
+  "id": 108,
+  "sec": "04_results.md",
+  "para": 15,
+  "old": [
+   "The remaining {{res:lava_g1000_fdr_pairs.summary.n_not_tested_ukb}} were not testable with UK Biobank because at least one trait did not pass the univariate filter."
+  ],
+  "new": "The remaining {{res:lava_g1000_fdr_pairs.summary.n_not_tested_ukb}} could not be tested with UK Biobank because at least one trait did not pass the univariate filter."
+ },
+ {
+  "id": 119,
+  "sec": "04_results.md",
+  "para": 25,
+  "old": [
+   "Steiger filtering removed {{res:mr_steiger_prevalence.summary.mdd_dlb_removed_k1}} of {{res:mr_steiger_prevalence.summary.mdd_dlb_harmonised}} harmonized instruments for MDD → DLB (Table 2)."
+  ],
+  "new": "Steiger filtering removed {{res:mr_steiger_prevalence.summary.mdd_dlb_removed_k1}} of {{res:mr_steiger_prevalence.summary.mdd_dlb_harmonised}} harmonized instruments for MDD → DLB (Table 2), and {{res:mr_steiger_prevalence.summary.mdd_dlb_removed_half}} and {{res:mr_steiger_prevalence.summary.mdd_dlb_removed_double}} with every prevalence halved or doubled."
+ },
+ {
+  "id": 120,
+  "sec": "04_results.md",
+  "para": 25,
+  "old": [
+   "With every prevalence halved or doubled, the number removed was {{res:mr_steiger_prevalence.summary.mdd_dlb_removed_half}} and {{res:mr_steiger_prevalence.summary.mdd_dlb_removed_double}}, and across the eight DLB directions this {{res:text.steiger_prevalence_change}}, {{res:text.steiger_prevalence_ivw}} (Supplementary Table S9)."
+  ],
+  "new": "Across the eight DLB directions, halving or doubling the prevalences {{res:text.steiger_prevalence_change}}, {{res:text.steiger_prevalence_ivw}} (Supplementary Table S9)."
+ },
+ {
+  "id": 126,
+  "sec": "05_discussion.md",
+  "para": 2,
+  "old": [
+   "Genome-wide correlations with AD were close to zero, and their upper confidence limits excluded positive values above {{res:power_ldsc.ad.ptsd.excluded_above}} to {{res:power_ldsc.ad.scz.excluded_above}}.",
+   "None of the {{res:lava_ukb.summary.bivar_tests_primary}} testable local correlations passed FDR correction."
+  ],
+  "new": "Genome-wide correlations with AD were close to zero, with upper confidence limits that excluded positive values above {{res:power_ldsc.ad.ptsd.excluded_above}} to {{res:power_ldsc.ad.scz.excluded_above}}, and none of the {{res:lava_ukb.summary.bivar_tests_primary}} testable local correlations passed FDR correction."
+ },
+ {
+  "id": 138,
+  "sec": "05_discussion.md",
+  "para": 5,
+  "old": [
+   "The reference panel mattered: with the 1000 Genomes panel, {{res:lava_g1000_fdr_pairs.summary.n_fdr_pairs_g1000}} primary locus–pairs passed FDR correction, but {{res:lava_g1000_fdr_pairs.summary.n_not_tested_ukb}} of them were not testable with the UK Biobank reference, and summed local heritability was higher with 1000 Genomes for every trait ({{res:lava_reference_diagnostic.supplementary.range}}-fold; Supplementary Table S7)."
+  ],
+  "new": "With the 1000 Genomes panel, {{res:lava_g1000_fdr_pairs.summary.n_fdr_pairs_g1000}} primary locus–pairs passed FDR correction, yet {{res:lava_g1000_fdr_pairs.summary.n_not_tested_ukb}} of them were not testable with the UK Biobank reference, and summed local heritability was higher with 1000 Genomes for every trait ({{res:lava_reference_diagnostic.supplementary.range}}-fold; Supplementary Table S7)."
+ },
+ {
+  "id": 143,
+  "sec": "05_discussion.md",
+  "para": 6,
+  "old": [
+   "With FinnGen AD as outcome, the estimate was not significant and its confidence interval was wide (OR {{res:sensitivity_finngen.mr.ptsd__ad_finngen.or_ivw}}).",
+   "Power was lower in FinnGen, with a minimum detectable OR of {{res:mr_ptsd_ad_finngen.ptsd__ad_finngen.min_detectable_or_plan}} against {{res:mr_ptsd_ad_finngen.ptsd__ad.min_detectable_or_plan}} with the primary AD GWAS."
+  ],
+  "new": "With FinnGen AD as outcome, the estimate was not significant and had a wide confidence interval (OR {{res:sensitivity_finngen.mr.ptsd__ad_finngen.or_ivw}}), and power was lower there, with a minimum detectable OR of {{res:mr_ptsd_ad_finngen.ptsd__ad_finngen.min_detectable_or_plan}} against {{res:mr_ptsd_ad_finngen.ptsd__ad.min_detectable_or_plan}} with the primary AD GWAS."
+ },
+ {
+  "id": 144,
+  "sec": "05_discussion.md",
+  "para": 7,
+  "old": [
+   "A bias in the primary AD GWAS offers one possible explanation, because proxy-based AD GWAS can give misleading genetic correlations [@wu2024pervasive#c1]."
+  ],
+  "new": "One possible explanation is bias in the primary AD GWAS, since proxy-based AD GWAS can give misleading genetic correlations [@wu2024pervasive#c1]."
+ },
+ {
+  "id": 147,
+  "sec": "05_discussion.md",
+  "para": 7,
+  "old": [
+   "The primary AD GWAS combined clinical and proxy cases without releasing them separately [@wu2024pervasive#c6; @bellenguez2022new#c3], and meta-analysis alone does not remove this bias [@wu2024pervasive#c7]."
+  ],
+  "new": "The primary AD GWAS combined clinical and proxy cases without releasing them separately [@wu2024pervasive#c6; @bellenguez2022new#c3], and meta-analysis alone does not remove the bias [@wu2024pervasive#c7]."
+ },
+ {
+  "id": 158,
+  "sec": "05_discussion.md",
+  "para": 10,
+  "old": [
+   "The DLB GWAS had limited power for common variants of small effect [@chia2021genome#c8] and includes 2,591 cases, against more than 60,000 in recent AD GWAS [@watkins2026understanding#c1]."
+  ],
+  "new": "With 2,591 cases, against more than 60,000 in recent AD GWAS [@watkins2026understanding#c1], the DLB GWAS had limited power for common variants of small effect [@chia2021genome#c8]."
+ },
+ {
+  "id": 167,
+  "sec": "05_discussion.md",
+  "para": 12,
+  "old": [
+   "The local analysis used fixed per-pair seeds so that it can be reproduced exactly <!--depends:GATE3_RESULT--> (Supplementary Table S1)."
+  ],
+  "new": "Fixed per-pair seeds allow the local analysis to be reproduced exactly <!--depends:GATE3_RESULT--> (Supplementary Table S1)."
+ }
+]

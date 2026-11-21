@@ -236,3 +236,7 @@ Not: Fig 2'deki * = FDR < 0,05 (FinnGen panelinde dört test içi BH); açıklam
 - Draft fixes: FinnGen wording; zero-count wording via text keys; NPS paragraph in Discussion (4 sentences); "reproduced exactly" bound to GATE3_RESULT (depends marker; audit now flags GATE3_RESULT until filled).
 - Statements (07_statements.md) per Frontiers template order; title page updated (correspondence e-mail, ORCID).
 - Audit: 2 errors, both GATE3_RESULT.
+
+### 2026-11-22 — style pass (pre-style-pass → post-style-pass)
+- Abstract → Discussion and captions rewritten sentence by sentence; audit after each section (only GATE3_RESULT remains).
+- build/style_pass_diff.md (old/new pairs, 174 changed pairs); independent check of 30 random pairs (seed 20261123): 28 PASS, 2 FAIL, both fixed (build/style_pass_check.md); one pre-existing citation mismatch (id 44) fixed.
