@@ -20,6 +20,11 @@ import requests
 
 ROOT = Path(__file__).resolve().parent.parent
 CFG = json.loads((ROOT / "config.json").read_text(encoding="utf-8"))
+# personal settings (CONTACT_EMAIL for the Crossref/Unpaywall polite pool) live in the untracked config.local.json
+if (ROOT / "config.local.json").exists():
+    CFG.update(json.loads((ROOT / "config.local.json").read_text(encoding="utf-8")))
+if not CFG.get("CONTACT_EMAIL"):
+    raise SystemExit("CONTACT_EMAIL missing: put {\"CONTACT_EMAIL\": \"...\"} in config.local.json (not tracked by git)")
 UA = {"User-Agent": f"q1-manuscript-system (mailto:{CFG['CONTACT_EMAIL']})"}
 
 

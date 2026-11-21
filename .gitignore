@@ -19,3 +19,9 @@ sources/text/
 sources/inbox/
 Frontiers_Word_Templates.zip
 *.docx
+
+# personal or internal files (not in the repository)
+config.local.json
+STRICT_RULES.md
+build/STRICT_RULES_before_*.md
+build/config.before_reextract.json
