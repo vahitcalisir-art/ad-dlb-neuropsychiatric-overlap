@@ -1,5 +1,7 @@
 # large or third-party data (outside the repository)
-data/
+data/*
+!data/*.md
+!data/*.sh
 results/superseded/
 results/rds/
 results_gate3

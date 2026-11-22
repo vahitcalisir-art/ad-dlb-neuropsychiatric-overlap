@@ -1,6 +1,6 @@
 # Submission checklist — Frontiers in Dementia, Original Research
 
-Build: 2026-11-22 16:07. Status: **ready to submit**; only the submission-system fields (item 1 below) are entered by the author.
+Build: 2026-11-22 (final). Status: **ready to submit**; only the submission-system fields (item 1 below) are entered by the author.
 
 ## Files in this folder
 
@@ -15,10 +15,10 @@ Build: 2026-11-22 16:07. Status: **ready to submit**; only the submission-system
 
 - [x] Gate 3 (end-to-end rerun from raw summary statistics in ~/q1paper_gate3, chain 01–07 plus 05c, 05d, 07b, 07c): `tools/compare_gate3.py` exit 0. results.json 3,795 values and 35 tables (419,585 cells) identical; 4 figures byte-identical. Ignored by an explicit metadata whitelist: 165 cells (file paths, run times, file timestamps). Not rerun: 03b (rescue of loci lost to worker failures) and the LAVA seed-check diagnostic; the rerun processed all loci from the start with the same seeds (build/gate3_comparison.md; deviation C11 in Supplementary Table S1).
 - [x] Figure label fixes after Gate 3 (07_figures.R): Figure 1 box 5 and Figure 4 panel C "Register-based AD GWAS without proxy cases (FinnGen)"; Figure 1 overlap notes MDD "FinnGen", MDD with UKB "UKB; FinnGen", PTSD "UKB and FinnGen" (Table 1 already stated these); Figure 4 header "class under the pre-specified interpretation rule", wrapped to two lines. Comparison after the fix: only these label cells differ (3 in data_sources.csv, 32 in figure4_data.csv); all estimates identical (build/gate3_comparison_after_label_fix.md).
-- [x] audit_manuscript.py: 0 errors; 1 style warning (5 sentences start with "In the").
+- [x] audit_manuscript.py: 0 errors, 0 warnings (4 of the 5 sentences starting with "In the" rebuilt; "In the reverse direction" kept).
 - [x] verify_refs.py: 38/38 references verified (Crossref / software record). Cited set = KEEP set = 38.
 - [x] check_docx.py on Manuscript.docx and Supplementary_File_S1_STROBE-MR.docx: clean.
-- [x] Word count (main text): 6,602 (title page; limit 12,000). Figures 4, tables 2.
+- [x] Word count (main text): 6,601 (title page; limit 12,000). Figures 4, tables 2.
 - [x] Abstract: one paragraph, no citations, figure or table references (Frontiers sets no word limit for this article type on the archived pages).
 - [x] Keywords: 8 (Frontiers recommends 5–8).
 - [x] Review type single-blind: no anonymized file needed.
@@ -29,5 +29,5 @@ Build: 2026-11-22 16:07. Status: **ready to submit**; only the submission-system
 ## Open before submission
 
 1. **Submission system** (entered by the author, not in the files): author name, affiliation, ORCID 0000-0001-6575-8988, corresponding e-mail, suggested reviewers if requested, Research Topic selection if applicable.
-2. **Repository**: private now; make public (or archive with a DOI) at acceptance, as stated in the Data availability statement.
+2. **Repository**: make public immediately before submission (the Data availability statement gives the URL and review is single-blind, so reviewers must be able to open it). README, LICENSE (MIT, code) and CC BY 4.0 (results, documentation) in place; personal-information scan clean. After acceptance only a Zenodo DOI archive is created.
 3. **Backup bundle** `~/q1paper_git_backup_before_scrub.bundle`: delete after submission.
