@@ -1,0 +1,35 @@
+> Public version: verbatim passages are shortened to locating key phrases (at most 12 words); the full passages are kept in the author's local records.
+
+## Bibliographic record
+Kumar A, Ray NR, Kurup JT, et al.; 2026; Genetic correlation analysis identifies TMEM106B, ACE, and ERC2 as genetic loci shared between Alzheimer's disease and primary psychiatric disorders; Alzheimer's & Dementia 22(3):e71278; DOI 10.1002/alz.71278; global (MiXeR) and local (LAVA) genetic correlation with fine-mapping and functional follow-up (summary statistics); access route PMC-XML (PMC13093526)
+
+## Section-by-section reading log
+- Abstract: Global and local rg between AD and depression, schizophrenia, bipolar disorder, anxiety using MiXeR and LAVA (AD n = 487,511; bipolar 413,466; depression 1,154,267; schizophrenia 130,644; anxiety 1,096,458). Local rg + fine-mapping identified TMEM106B missense rs3173615 (AD–depression, AD–anxiety), ACE regulatory rs4292 (AD–schizophrenia), ERC2 NMD variants rs17288728/rs815460 (AD–anxiety).
+- Introduction: NPS in up to ~85% of AD; associated with lower quality of life, faster progression, mortality, institutionalisation, caregiver burden; treatments repurposed from psychiatry are often ineffective; psychosis in AD differs clinically and genetically from schizophrenia.
+- Methods: GWAS (Table 1): AD Bellenguez et al. 2022 (85,934 cases, 401,577 controls; 487,511; h2SNP 0.021; GCST90027158; lifted hg38 -> hg37); depression Levey et al. (340,591 cases, 813,676 controls; MVP summary statistics via dbGaP); bipolar Mullins et al. 2021 (41,917/371,549); schizophrenia Trubetskoy et al. 2022 (53,386/77,258); anxiety Friligkou et al. 2024 (N 1,096,458). Non-Hispanic White / European ancestry. LDSC used for munging and sample-overlap intercepts. MiXeR for h2, polygenicity, rg and shared variants (1000 Genomes Phase 3 LD). LAVA local rg using default 1000 Genomes EUR LD blocks (2495 blocks), significance p < 5 × 10^-3 (uncorrected); loci with p < 5 × 10^-5 in both traits followed up with LocusZoom, PolyFun+SuSiE fine-mapping, ADSP R4 WGS, AGORA, ONTIME pQTL, ROSMAP methylation (761 participants), Hi-C, GTEx eQTL. No MR, no PTSD, no insomnia, no DLB.
+- Results: MiXeR h2SNP: SCZ 0.44, depression 0.03, bipolar 0.08, anxiety 0.02, AD 0.08 (± 0.27). Causal variants ~1800 AD; shared with depression 900 (50.0% of AD variants), SCZ 1300 (72.2%), bipolar 1300 (72.2%), anxiety 1100 (61.1%). Genome-wide rg: depression -0.01, SCZ 0.03, bipolar 0.04, anxiety 0.02 (Table S2; no SE/p in main text). LAVA: 17 loci AD–depression, 23 AD–SCZ, 17 AD–bipolar, 9 AD–anxiety at p <= 5 × 10^-3. Table 2 key: AD–depression ARL4C rho 1 (p 8.03E-05), ID4 0.97, TMEM106B rho -0.8 (p 0.0007), RBFOX1 0.66; AD–SCZ SLC12A8 rho -1, MAPT/KANSL1 0.73 (p 1.14E-05), ACE 0.79 (p 8.45E-06), KCNG1 0.72 (p 3.35E-08), LIME1/STMN3 0.74; AD–bipolar TRANK1 0.64, ZCCHC2 -1.0, KCNG1 0.52; AD–anxiety ERC2 0.51, MSH5 0.74, TMEM106B -0.77. Fine-mapping: rs3173615 (opposite risk alleles AD/anxiety vs depression), rs4292 (T allele increases AD and SCZ risk), ERC2 variants; rs4292 and rs815460 replicated in ADSP R4; eQTL/pQTL support.
+- Discussion: Near-zero global rg masks substantial polygenic overlap with mixed-direction effects (negative for depression/anxiety, positive for SCZ/bipolar). Biological interpretation: TMEM106B lysosomal function (FTLD-TDP, LATE, PD), ACE / renin–angiotensin system, ERC2 synaptic active zone and WNT5A.
+- Limitations stated by authors: only that additional regions of genetic correlation may have been missed due to lack of statistical power.
+- Supplementary material: not available (SuppMat referenced, not in text file)
+
+## Quality appraisal
+Peer-reviewed, good venue. Large, current GWAS. Weaknesses: LAVA significance at uncorrected p < 5 × 10^-3 across ~2495 blocks (no Bonferroni/FDR — many hits likely false positive; contrast with standard LAVA practice); univariate local heritability filtering not described; global rg reported without SE/p and estimated by MiXeR rather than LDSC; AD MiXeR h2 0.08 ± 0.27 unstable; LAVA reference 1000 Genomes EUR (we use UK Biobank reference); the Bellenguez AD GWAS includes UK Biobank proxy (family-history) cases (from the Bellenguez paper, not stated here), and proxy-AD/UK Biobank sample overlap with depression/anxiety GWAS is not discussed beyond LDSC intercepts; APOE region handling not described; minimal limitations section. No MR, so no causal inference.
+
+## Relevance to this manuscript
+D1 (most important comparator): the closest prior study to our design — uses the same AD GWAS (Bellenguez 2022) and same SCZ GWAS (Trubetskoy 2022 PGC3) and LAVA local rg. Differences: depression GWAS is Levey 2021 (MVP-based, includes UK Biobank) not PGC MDD2025; no PTSD, no insomnia, no DLB; no MR; uncorrected local threshold; 1000G LD reference. Thus it partly answers our AD–SCZ local-rg question with the same data, and our study must position against it (agreement on near-null genome-wide rg and local loci e.g. MAPT/KANSL1, ACE, TMEM106B, KCNG1). I3: demonstrates near-zero genome-wide rg hiding opposite-direction local signals. I1: NPS burden in AD. D5: TMEM106B/ACE/ERC2 biology.
+
+## Decision
+KEEP — the closest prior study (same Bellenguez AD and PGC3 SCZ GWAS, LAVA); essential for D1 positioning and I3.
+
+## Claims
+- c1 | Abstract | "we conducted genetic correlation analyses between AD and depression, schizophrenia, bipolar disorder, …" | Prior global/local rg study of psychiatric traits and AD (D1, I3)
+- c2 | Results | "Overall genome‐wide genetic correlation ( r g ) with depression was estimated …" | Near-zero genome-wide rg between AD and psychiatric traits (D1, I3)
+- c3 | Results | "Local genetic correlation analyses employing LAVA 21 identified 17 genetic loci shared …" | Local rg loci despite null global rg (I3, D1)
+- c4 | Discussion | "While the observed genome‐wide polygenic overlap with depression and anxiety showed overall …" | Mixed-direction effects masked in genome-wide rg (I3)
+- c5 | Methods | "Genetic loci identified by local genetic correlation analysis meeting a significance threshold …" | Lenient, uncorrected local rg threshold in prior study (D1 methodological contrast)
+- c6 | Abstract | "a regulatory region variant in ACE (rs4292) shared between AD/schizophrenia" | Shared AD–SCZ locus for comparison with our LAVA results (D1, D5)
+- c7 | Introduction | "approximately 85% of AD patients will also develop a neuropsychiatric symptom (NPS) …" | NPS burden in AD (I1)
+- c8 | Discussion | "A limitation is that we cannot exclude the possibility that we missed …" | Stated limitation of prior local rg study (D1, D6)
+- c9 | Data availability | "Alzheimer's disease: Bellenguez C. et al. Nat Genet (2022)" | Prior study used the same AD summary statistics as this study (D1, N4)
+- c10 | Methods | "Schizophrenia Trubetskoy et al. 16 77,258 53,386 130,644" | Prior study used the same SCZ GWAS as this study (D1, N4)
+- c11 | Methods | "default LD block file provided by LAVA for European populations" | Prior study used the same LAVA locus partition (D1); its LD reference panel for LAVA is not stated in the text

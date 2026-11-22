@@ -1,0 +1,32 @@
+> Public version: verbatim passages are shortened to locating key phrases (at most 12 words); the full passages are kept in the author's local records.
+
+## Bibliographic record
+Guo Y, Wang R, Sindi S, et al.; 2026; Sleep and dementia: Assessing established dementia-related factors using multivariable Mendelian randomization; Alzheimer's & Dementia 22(6):e71592; DOI 10.1002/alz.71592; two-sample univariable, multivariable and reverse MR (summary statistics); access route PMC-XML (PMC13269015)
+
+## Section-by-section reading log
+- Abstract: Sleep instruments from UK Biobank, dementia outcomes from FinnGen. IVW MR: insomnia -> AD OR 3.02 (95% CI 1.28–7.10, p = 0.01); attenuated after MVMR adjustment for education and LDL. Reverse MR: dementia liability associated with lower insomnia, attenuated after APOE-region exclusion.
+- Introduction: Observational sleep–dementia evidence inconsistent; prior MR mixed. Table 1 summarises 14 prior two-sample MR studies (e.g. Huang 2020, Anderson 2020, Andrews 2021, Chen 2022, Grover 2022, Xiang 2024, Ran 2024 incl. DLB -> napping OR 0.995 (0.990–0.999)), noting limited sensitivity analyses, sample overlap and lack of MVMR.
+- Methods: Exposures: five self-reported UK Biobank sleep traits (napping, daytime sleepiness, sleep duration, insomnia = frequent difficulty falling asleep / waking at night, chronotype), European ancestry; exact GWAS IDs/N in Table S2. Outcomes: FinnGen (2021 release) all-cause dementia, AD (218,792 participants; 3899 cases, 214,893 controls), VaD (212,159); additional: EOAD, LOAD, DLB, PDD, PD. FinnGen chosen to avoid overlap with UK Biobank. MVMR covariates: education, hearing loss, LDL, depression, TBI, physical activity, T2D, smoking, hypertension, BMI, alcohol. IVs P < 5 × 10^-8, r2 < 0.001/10,000 kb, palindromes removed, PhenoScanner screening, F > 10. IVW (random effects when heterogeneous), Wald ratio, MR-Egger, weighted median, Cochran Q, funnel, Egger intercept, MR-PRESSO, leave-one-out; Bonferroni 0.05/20 = 0.0025 (0.0025–0.05 suggestive); power analysis; reverse MR with ±250 kb APOE (rs429358) exclusion. TwoSampleMR 0.5.7, R 4.2.2. No genetic correlation.
+- Results: F 42.47–46.54; 44 insomnia SNPs (102 napping, 31 sleepiness, 74 duration, 138 chronotype). Insomnia -> AD OR 3.02 (1.28–7.10), P = 0.01 (suggestive only, does not pass Bonferroni). No associations with all-cause dementia or VaD; other sleep traits null. Heterogeneity present, no Egger pleiotropy. MVMR: ORs 2.14–3.08 after most covariates; education OR 1.27 (0.54–2.99, P 0.58), LDL OR 2.08 (0.43–10.12, P 0.36). LOAD OR 2.97 (1.11–7.91, P 0.03); EOAD null. DLB and other subtypes: results remain the same (null; Table S13). VaD and PDD underpowered. Reverse MR: AD/all-cause dementia -> lower insomnia, non-significant after removing APOE SNPs (rs769449, rs34041051, rs111371860, rs41289514).
+- Discussion: Contrast with null insomnia–AD MR (Xiang, Grover, Andrews/IGAP) attributed to outcome GWAS (IGAP clinical vs FinnGen register), power, and sample overlap in earlier studies. Mechanisms: Aβ production/clearance during slow-wave sleep; education via cognitive reserve; LDL as pathway. Reverse signals APOE-driven.
+- Limitations stated by authors: European ancestry; pleiotropy not fully excludable; nighttime vs daytime sleep indistinguishable; linearity assumption; VaD/PDD underpowered; self-reported sleep, misclassification and memory bias in older adults; few SNPs in reverse MR; healthy volunteer bias in UK Biobank; small FinnGen AD case count reduces precision.
+- Supplementary material: not available (xlsx referenced, not in text file)
+
+## Quality appraisal
+Peer-reviewed, high-quality venue (Alzheimer's & Dementia). Reasonable MR practice (genome-wide threshold, non-overlapping samples, Bonferroni, MVMR, APOE exclusion in reverse MR, power analysis). Weaknesses: headline insomnia -> AD result (P = 0.01) is only suggestive after their own Bonferroni threshold and the OR of 3.02 per unit of a binary-liability exposure is implausibly large with wide CI; FinnGen AD only 3899 cases; DLB analysis only additional and not reported in detail. Conflicts with null insomnia -> AD MR using IGAP/clinical AD (Andrews 2021, Huang 2020, Anderson 2020).
+
+## Relevance to this manuscript
+D1: prior bidirectional MR of insomnia (UK Biobank) with AD and DLB (FinnGen outcomes), including APOE-excluded reverse MR — closely analogous to our insomnia arm and our APOE-excluded re-analysis. Overlap with our data: insomnia instruments from UK Biobank (ours: Watanabe 2022 UK Biobank-only file; their exact GWAS in Table S2, likely an earlier UK Biobank insomnia GWAS); AD outcome FinnGen 2021 (ours primary Bellenguez 2022, FinnGen R13 sensitivity); no DLB Chia 2021 used as far as text shows (DLB from FinnGen). No rg/LAVA. I3: APOE dominance of reverse-direction signal. D6: self-reported insomnia, sample overlap. Table 1 provides a compact overview of 14 prior sleep–AD MR studies for D1.
+
+## Decision
+KEEP — recent high-quality bidirectional MR of insomnia and AD/DLB with APOE-excluded reverse analysis; key D1 comparator for our insomnia findings.
+
+## Claims
+- c1 | Abstract | "Genetic variants for insomnia, among the sleep characteristics, were associated with elevated …" | Prior MR insomnia -> AD estimate (D1)
+- c2 | Methods | "FinnGen was selected as the source of dementia outcome data to minimize …" | Design choice to avoid UK Biobank overlap in insomnia–AD MR (D1, D6)
+- c3 | Results | "However, adjustment for education attainment or LDL cholesterol markedly attenuated the association …" | Insomnia–AD MR signal is fragile/confounded by pleiotropic pathways (D1, D5)
+- c4 | Results | "However, after excluding APOE SNPs (rs769449, rs34041051, rs111371860, and rs41289514), the associations …" | APOE dominance in reverse-direction MR (I3, D1)
+- c5 | Methods | "In addition to the main MR analysis, we conducted additional analyses including …" | Prior MR touching DLB with sleep exposures (D1, D4)
+- c6 | Discussion | "In comparison, FinnGen uses register‐based diagnoses within a standardized framework, which may …" | Clinical/register vs consortium AD phenotype differences (D2, M1)
+- c7 | Limitations | "Seventh, self‐reported insomnia may be affected by memory bias, especially in older …" | Self-report insomnia phenotype limitation (D6)
+- c8 | Methods | "To enhance the rigor of the results, the Bonferroni correction was applied …" | Headline P = 0.01 is suggestive only under authors' own threshold (D1)
