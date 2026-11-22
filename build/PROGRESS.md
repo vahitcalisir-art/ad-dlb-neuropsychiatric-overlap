@@ -256,3 +256,11 @@ Not: Fig 2'deki * = FDR < 0,05 (FinnGen panelinde dört test içi BH); açıklam
 - [GATE3_RESULT] filled (Methods); Discussion marker replaced; deviations C11.
 - 07_figures.R: FinnGen box/panel wording, overlap notes, Figure 4 header without plan section number (two lines). After fix only label cells differ from Gate 3.
 - Final build: audit 0 errors, verify_refs 38/38, check_docx clean, word count 6,602; submission folder and checklist updated.
+
+## 2026-11-22 evening — public-release cleanup and history rewrite
+- docs/evidence/ removed from the repository and from all history (git filter-repo); docs/evidence_manifest.csv (E01–E08: title, canonical URL, access time, SHA-256 of HTML and text); local archive kept, git-ignored.
+- Reading notes: public versions with location + key phrase (<= 12 words) per claim; full notes in build/notes_full/ (git-ignored), used by audit_manuscript, check_notes and sources.py when present. Audit 0 errors.
+- Third-party quotations > 25 words shortened in data/*.md (15), docs/journal_requirements.md (1), manuscript/outline.md (2); full versions in build/local_full/.
+- WSL user name and host name replaced by placeholders in files and history; commit messages checked.
+- Earlier versions of notes, data documentation, outline and journal requirements removed from history and the current public versions re-added. Force-pushed main and tags; scan of a fresh GitHub clone clean.
+- Backups of the pre-rewrite state: ~/q1paper_git_backup_before_filter_20261122.bundle, ~/q1paper_local_archive_before_filter_20261122.tar.gz (delete after submission, with the earlier bundle).
