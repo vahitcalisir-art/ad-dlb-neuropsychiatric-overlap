@@ -20,3 +20,31 @@ BİTTİ 2026-11-21 19:22:47
 2026-11-22 05:31:50 LAVA_INTEGRITY_OK 
 2026-11-22 05:31:50 BİTTİ 
 == 04_mr start Sun Nov 22 05:31:50 +03 2026
+== 04_mr exit=0 Sun Nov 22 10:27:34 +03 2026  mem: 3966MB swap 443MB 
+2026-11-22 10:27:33 BİTTİ 
+== 04b_mr_output_integrity start Sun Nov 22 10:27:34 +03 2026
+== 04b_mr_output_integrity exit=0 Sun Nov 22 10:27:35 +03 2026  mem: 4013MB swap 443MB 
+2026-11-22 10:27:35 MR_INTEGRITY_OK 0 
+2026-11-22 10:27:35 BİTTİ 
+== 05_mr_sensitivity start Sun Nov 22 10:27:35 +03 2026
+== 05_mr_sensitivity exit=0 Sun Nov 22 12:31:38 +03 2026  mem: 3260MB swap 1886MB 
+2026-11-22 12:31:38 BİTTİ 
+== 05b_ptsd_ad_finngen start Sun Nov 22 12:31:38 +03 2026
+== 05b_ptsd_ad_finngen exit=0 Sun Nov 22 12:31:39 +03 2026  mem: 3187MB swap 1886MB 
+2026-11-22 12:31:39 BİTTİ 
+== 06_coloc start Sun Nov 22 12:31:39 +03 2026
+== 06_coloc exit=0 Sun Nov 22 12:31:41 +03 2026  mem: 3200MB swap 1885MB 
+2026-11-22 12:31:41 coloc not run (plan §5.1 condition not met). BİTTİ 
+== 06b_power_summary start Sun Nov 22 12:31:41 +03 2026
+== 06b_power_summary exit=0 Sun Nov 22 12:31:49 +03 2026  mem: 3338MB swap 1884MB 
+2026-11-22 12:31:49 BİTTİ 
+== 06c_lava_reference_diagnostic start Sun Nov 22 12:31:49 +03 2026
+== 06c_lava_reference_diagnostic exit=0 Sun Nov 22 12:31:51 +03 2026  mem: 3338MB swap 1883MB 
+2026-11-22 12:31:51 BİTTİ 
+== 06d_lava_g1000_fdr_pairs start Sun Nov 22 12:31:51 +03 2026
+== 06d_lava_g1000_fdr_pairs exit=0 Sun Nov 22 12:31:53 +03 2026  mem: 3340MB swap 1882MB 
+2026-11-22 12:31:53 BİTTİ 
+== 07_figures start Sun Nov 22 12:31:53 +03 2026
+== 07_figures exit=0 Sun Nov 22 12:31:59 +03 2026  mem: 3445MB swap 1879MB 
+2026-11-22 12:31:59 BİTTİ 
+GATE3 ALL DONE Sun Nov 22 12:31:59 +03 2026

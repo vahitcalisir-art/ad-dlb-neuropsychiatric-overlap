@@ -39,3 +39,21 @@
 2026-11-22 01:03 03_lava.R g1000 (gate3) PID 90970
 2026-11-22 05:31 03c_lava_integrity.R  (gate3) PID 96458
 2026-11-22 05:31 04_mr.R  (gate3) PID 96482
+2026-11-22 10:27 04b_mr_output_integrity.R  (gate3) PID 138447
+2026-11-22 10:27 05_mr_sensitivity.R  (gate3) PID 138469
+2026-11-22 12:31 05b_ptsd_ad_finngen.R  (gate3) PID 252168
+2026-11-22 12:31 06_coloc.R  (gate3) PID 252190
+2026-11-22 12:31 06b_power_summary.R  (gate3) PID 252213
+2026-11-22 12:31 06c_lava_reference_diagnostic.R  (gate3) PID 252244
+2026-11-22 12:31 06d_lava_g1000_fdr_pairs.R  (gate3) PID 252280
+2026-11-22 12:31 07_figures.R  (gate3) PID 252307
+2026-11-22 15:53 gate3_extra.sh (tree /home/user/q1paper_gate3; snapshot runsnap/gate3_extra_20261122_1553) bash PID 3739
+2026-11-22 15:53 05c_steiger_prevalence.R (gate3 extra) PID 3745
+2026-11-22 15:59 05d_steiger_insomnia_prev030.R (gate3 extra) PID 4265
+2026-11-22 16:01 07b_tables.R (gate3 extra) PID 4302
+2026-11-22 16:01 07c_instrument_table.R (gate3 extra) PID 4319
+2026-11-22 16:02 07_figures.R PID 4427
+2026-11-22 16:02 07b_tables.R PID 4458
+2026-11-22 16:03 07_figures.R PID 407
+2026-11-22 16:03 07b_tables.R PID 437
+2026-11-22 16:03 07_figures.R PID 553

@@ -1,0 +1,21 @@
+== 05c_steiger_prevalence start Sun Nov 22 15:53:20 +03 2026
+== 05c_steiger_prevalence exit=0 Sun Nov 22 15:59:16 +03 2026
+                        <char> <num>
+[1] TRUE
+2026-11-22 15:59:15 BİTTİ 
+== 05d_steiger_insomnia_prev030 start Sun Nov 22 15:59:16 +03 2026
+== 05d_steiger_insomnia_prev030 exit=0 Sun Nov 22 16:01:58 +03 2026
+4: dlb__insomnia     TRUE
+[1] TRUE
+2026-11-22 16:01:57 BİTTİ 
+== 07b_tables start Sun Nov 22 16:01:58 +03 2026
+== 07b_tables exit=0 Sun Nov 22 16:01:58 +03 2026
+15:               1.07                      no evidence
+16:               1.07                      no evidence
+2026-11-22 16:01:58 BİTTİ 
+== 07c_instrument_table start Sun Nov 22 16:01:58 +03 2026
+== 07c_instrument_table exit=0 Sun Nov 22 16:01:58 +03 2026
+2026-11-22 16:01:58 directions: 46 rows: 2485 
+2026-11-22 16:01:58 leave-one-out directions: 46 rows: 2531 
+2026-11-22 16:01:58 BİTTİ 
+GATE3X ALL DONE Sun Nov 22 16:01:58 +03 2026

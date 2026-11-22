@@ -249,3 +249,10 @@ Not: Fig 2'deki * = FDR < 0,05 (FinnGen panelinde dört test içi BH); açıklam
 - STROBE-MR gaps closed: three IV assumptions (Methods; skrivankova c9), instrument table S11 and leave-one-out S12 (07c_instrument_table.R, stored values only).
 - tools/build_supplement.py: Supplementary_Tables.xlsx (S1–S12), Supplementary_File_S1_STROBE-MR.docx, TIFF figures; build/submission/submission_checklist.md. Package copied to d:\tugbadoc\frontiers_dementia\submission\.
 - Pending after Gate 3: compare, fill GATE3_RESULT; 07_figures.R overlap notes and FinnGen/"plan §8" figure labels.
+
+## 2026-11-22 afternoon — Gate 3 closed, figure labels, final build
+- Gate 3 chain (01–07) finished 12:31, all exit 0. compare_gate3.py first reported 165 differing cells, all run metadata (file paths, runtime_min, mtimes); investigator accepted the match and asked for an explicit metadata whitelist (now in compare_gate3.py and printed in the report).
+- 05c, 05d, 07b, 07c also run in the Gate 3 tree (runsnap gate3_extra): compare exit 0, 3,795 results.json values and 35 tables identical. 03b and seedcheck not rerun (noted in report and deviation C11).
+- [GATE3_RESULT] filled (Methods); Discussion marker replaced; deviations C11.
+- 07_figures.R: FinnGen box/panel wording, overlap notes, Figure 4 header without plan section number (two lines). After fix only label cells differ from Gate 3.
+- Final build: audit 0 errors, verify_refs 38/38, check_docx clean, word count 6,602; submission folder and checklist updated.

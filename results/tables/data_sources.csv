@@ -1,9 +1,9 @@
 id,trait,source,ancestry,role,overlap_note,ncase,ncontrol
 bellenguez_ad,AD (Bellenguez),Bellenguez 2022,European,primary,UKB proxy cases,85934,401577
 chia_dlb,DLB,Chia 2021,European,primary,"",2591,4027
-mdd_noukbb,MDD,"PGC MDD 2025, excl. UKB and 23andMe",European,primary,"",357636,1281936
-mdd_ukbb,MDD (with UKB),"PGC MDD 2025, incl. UKB",European,sensitivity,UKB,412305,1588397
-ptsd_z,PTSD,PGC-PTSD Freeze 3,European,primary,"",137136,1085746
+mdd_noukbb,MDD,"PGC MDD 2025, excl. UKB and 23andMe",European,primary,FinnGen,357636,1281936
+mdd_ukbb,MDD (with UKB),"PGC MDD 2025, incl. UKB",European,sensitivity,UKB; FinnGen,412305,1588397
+ptsd_z,PTSD,PGC-PTSD Freeze 3,European,primary,UKB and FinnGen,137136,1085746
 insomnia,Insomnia,"Watanabe 2022, UKB only",European,primary,UKB,109548,277440
 scz,SCZ,PGC3 (Trubetskoy 2022),European,primary,"",52017,75889
 finngen_ad,AD (FinnGen),FinnGen R13 G6_ALZHEIMER,Finnish,sensitivity,FinnGen in MDD and PTSD,16652,483534

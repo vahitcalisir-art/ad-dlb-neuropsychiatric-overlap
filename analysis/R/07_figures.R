@@ -39,7 +39,7 @@ src <- data.table(
              "PGC-PTSD Freeze 3", "Watanabe 2022, UKB only", "PGC3 (Trubetskoy 2022)", "FinnGen R13 G6_ALZHEIMER"),
   ancestry = c("European", "European", "European", "European", "European", "European", "European", "Finnish"),
   role = c("primary", "primary", "primary", "sensitivity", "primary", "primary", "primary", "sensitivity"),
-  overlap_note = c("UKB proxy cases", "", "", "UKB", "", "UKB", "", "FinnGen in MDD and PTSD"))
+  overlap_note = c("UKB proxy cases", "", "FinnGen", "UKB; FinnGen", "UKB and FinnGen", "UKB", "", "FinnGen in MDD and PTSD"))
 src <- merge(src, qc[, .(id, ncase = declared_ncase, ncontrol = declared_ncontrol)], by = "id", sort = FALSE)
 fwrite(src, P_("results", "tables", "data_sources.csv"))
 
@@ -60,7 +60,7 @@ if (do("fig1")) {
             "3  Colocalisation (coloc)\nonly for local correlations significant at FDR 5%",
             sprintf("4  Bidirectional Mendelian randomization\n%d primary directions; MDD with UKB (%d); APOE-excluded (%d)",
                     ndir("primary"), ndir("sens_mdd_ukbb"), sum(nd[grepl("noapoe", set), N])),
-            sprintf("5  Independent AD sample (FinnGen)\nLDSC and MR, %d directions (+ %d APOE-excluded)", ndir("finngen"), ndir("finngen_noapoe"))),
+            sprintf("5  Register-based AD GWAS without proxy cases (FinnGen)\nLDSC and MR, %d directions (+ %d APOE-excluded)", ndir("finngen"), ndir("finngen_noapoe"))),
     role = c("primary", "primary", "primary", "primary", "sensitivity"))
   lay[, `:=`(x0 = 7.6, x1 = 16, y1 = 12 - (.I - 1) * 2.4, y0 = 12 - (.I - 1) * 2.4 - 1.8)]
   p1 <- ggplot() +
@@ -157,7 +157,7 @@ if (do("fig4") && file.exists(P_("results", "tables", "mr_all.csv"))) {
   s <- fread(P_("results", "tables", "mr_all.csv"))[set %in% c("primary", "finngen")]
   LAB <- c(PSY_LAB, ad = "AD", ad_finngen = "AD (FinnGen)", dlb = "DLB")
   s[, dir_lab := sprintf("%s → %s  (k = %s)", LAB[exposure], LAB[outcome], fmt_int(n_iv))]
-  s[, panel := fifelse(set == "finngen", "C  Independent AD sample (FinnGen; descriptive, not used for significance)",
+  s[, panel := fifelse(set == "finngen", "C  Register-based AD GWAS without proxy cases (FinnGen; descriptive, not used for significance)",
                fifelse(exposure %in% names(PSY_LAB), "A  Psychiatric trait → dementia (primary)", "B  Dementia → psychiatric trait (primary)"))]
   s[, psy := fifelse(exposure %in% names(PSY_LAB), exposure, outcome)]
   s[, dem := fifelse(exposure %in% names(PSY_LAB), outcome, exposure)]
@@ -191,10 +191,10 @@ if (do("fig4") && file.exists(P_("results", "tables", "mr_all.csv"))) {
   pans <- unique(s$panel)
   plots <- lapply(seq_along(pans), function(i) mk(pans[i], i == length(pans)))
   plots[[length(plots)]] <- plots[[length(plots)]] + labs(x = "Odds ratio for the outcome per unit increase in log odds of the exposure (log scale)")
-  hdr <- ggdraw() + draw_label("Right column: minimum detectable OR (80% power, same scale); plan §8 class if not \"no evidence\"",
+  hdr <- ggdraw() + draw_label("Right column: minimum detectable OR (80% power, same scale);\nclass under the pre-specified interpretation rule if not \"no evidence\"",
                                x = 0.99, hjust = 1, size = BASE - 1, fontfamily = FONT)
   nrow_p <- s[, .N, by = panel][match(pans, panel), N]
-  p4 <- plot_grid(hdr, plotlist = plots, ncol = 1, rel_heights = c(1.2, nrow_p[1] + 2, nrow_p[2] + 2, nrow_p[3] + 5), align = "v", axis = "lr")
+  p4 <- plot_grid(hdr, plotlist = plots, ncol = 1, rel_heights = c(2, nrow_p[1] + 2, nrow_p[2] + 2, nrow_p[3] + 5), align = "v", axis = "lr")
   save_fig(p4, "Figure4_mr", 18)
   fwrite(merge(long, s[, .(id, set, exposure, outcome, n_iv, min_detectable_OR, min_detectable_OR_se, classification)], by = "id"),
          P_("results", "tables", "figure4_data.csv"))
