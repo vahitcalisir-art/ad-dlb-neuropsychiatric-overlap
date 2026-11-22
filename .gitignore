@@ -30,3 +30,9 @@ build/config.before_reextract.json
 build/submission/*.tif
 build/submission/*.xlsx
 build/figures/
+
+# third-party web page copies (local archive only; listed in docs/evidence_manifest.csv)
+docs/evidence/
+# full reading notes and full versions of shortened documents (local only)
+build/notes_full/
+build/local_full/

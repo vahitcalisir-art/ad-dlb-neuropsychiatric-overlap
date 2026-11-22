@@ -1,7 +1,7 @@
 # Gate 3 comparison
 
-Main: /home/user/q1paper/results
-Rerun: /home/user/q1paper_gate3/results
+Main: ~/q1paper/results
+Rerun: ~/q1paper_gate3/results
 
 - results.json leaves compared: 3795; differing: 0
 - table files compared: 35 (419585 cells); differing cells/files: 35

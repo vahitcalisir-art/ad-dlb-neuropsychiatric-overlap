@@ -273,7 +273,7 @@ def cmd_ingest(a):
 def cmd_keep(a):
     reg = load()
     r = reg[a.key]
-    note = SRC / "notes" / f"{a.key}.md"
+    note = (ROOT / "build" / "notes_full" if (ROOT / "build" / "notes_full").is_dir() else SRC / "notes") / f"{a.key}.md"
     if r["status"] != "DOWNLOADED" or not note.exists():
         sys.exit("KEEP için kaynak indirilmiş ve okuma notu yazılmış olmalı.")
     r["status"] = "KEEP"

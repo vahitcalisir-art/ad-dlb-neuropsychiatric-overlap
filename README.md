@@ -17,8 +17,8 @@ The study tests genome-wide genetic correlation (LDSC), local genetic correlatio
 | `results/results.json`, `results/tables/`, `results/figures/` | All reported values, tables and figure data |
 | `manuscript/` | Manuscript sections in Markdown; every number is inserted from `results/results.json` |
 | `tools/` | Manuscript build and checks (DOCX build, audit, reference verification, Gate 3 comparison, supplement build) |
-| `sources/` | Reference registry, bibliographic metadata and reading notes with the verbatim passages behind each citation (publisher full texts are not included) |
-| `docs/` | Journal requirements and archived copies of the journal and data-provider pages that were consulted |
+| `sources/` | Reference registry, bibliographic metadata and reading notes; each claim gives the location in the source and a short key phrase (at most 12 words) instead of the full passage. Publisher full texts are not included |
+| `docs/` | Journal requirements; `evidence_manifest.csv` lists the journal and data-provider pages consulted (URL, access time, SHA-256 of the archived copy, which is not distributed) |
 | `build/` | Progress log, audit report, Gate 3 comparison reports, figure previews, submission checklist |
 
 ## Data
@@ -66,7 +66,7 @@ Rscript analysis/R/07c_instrument_table.R
 
 Worker counts are set with the environment variables `LAVA_CORES`, `MR_CORES` and `MRLAP_CORES`. LAVA uses a fixed base seed with per-pair seeds, so the local analysis is reproduced exactly. The full run took about 17 hours with 4 workers on a 32 GB machine.
 
-The manuscript is built with `python tools/text_keys.py`, `python tools/audit_manuscript.py`, `python tools/verify_refs.py`, `python tools/build_docx.py` and `python tools/build_supplement.py`.
+The manuscript is built with `python tools/text_keys.py`, `python tools/audit_manuscript.py`, `python tools/verify_refs.py`, `python tools/build_docx.py` and `python tools/build_supplement.py`. The citation checks in `tools/audit_manuscript.py` and `sources/check_notes.py` compare each quoted passage with the publisher full text and therefore need the author's local full texts and full notes, which are not distributed.
 
 ## Reproducibility check (Gate 3)
 
@@ -74,7 +74,7 @@ The complete pipeline was re-run from the raw summary statistics in a separate d
 
 ## Licence
 
-Code (`analysis/`, `tools/`, `sources/*.py`, `sources/*.sh`, `data/*.sh`): MIT licence (`LICENSE`). Results, figures and documentation written for this project: Creative Commons Attribution 4.0 International (CC BY 4.0, https://creativecommons.org/licenses/by/4.0/). Third-party material is not covered by these licences: the archived web pages in `docs/evidence/` and the verbatim passages quoted in `sources/notes/` remain under the terms of their publishers and are included only to document the sources used; GWAS summary statistics remain under their providers' terms.
+Code (`analysis/`, `tools/`, `sources/*.py`, `sources/*.sh`, `data/*.sh`): MIT licence (`LICENSE`). Results, figures and documentation written for this project: Creative Commons Attribution 4.0 International (CC BY 4.0, https://creativecommons.org/licenses/by/4.0/). The repository contains no third-party content: copies of web pages and publisher full texts are not included. `docs/evidence_manifest.csv` lists the consulted pages with URL, access time and SHA-256 of the author's archived copy, and the reading notes give only locations and short key phrases from the cited publications. GWAS summary statistics remain under their providers' terms and are not redistributed.
 
 ## Citation
 

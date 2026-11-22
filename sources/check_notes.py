@@ -35,10 +35,12 @@ def log_lines(nt):
         if mm:
             out[mm.group(1).strip().lower()] = mm.group(3).strip()
     return out
-keys = sys.argv[1:] or sorted(p.stem for p in (ROOT / "sources" / "notes").glob("*.md"))
+# full reading notes (local, not in the repository) if present; otherwise the public notes
+NOTES_DIR = ROOT / "build" / "notes_full" if (ROOT / "build" / "notes_full").is_dir() else ROOT / "sources" / "notes"
+keys = sys.argv[1:] or sorted(p.stem for p in NOTES_DIR.glob("*.md"))
 bad_total = 0
 for key in keys:
-    note = ROOT / "sources" / "notes" / f"{key}.md"
+    note = NOTES_DIR / f"{key}.md"
     txt = ROOT / "sources" / "text" / f"{key}.txt"
     if not note.exists():
         print(f"{key}: NOT YOK"); bad_total += 1; continue

@@ -77,7 +77,7 @@ fa = {p.name: h(p) for p in (A / "figures").glob("*.png")}; fb = {p.name: h(p) f
 fig_same = sorted(n for n in set(fa) & set(fb) if fa[n] == fb[n]); fig_diff = sorted(n for n in set(fa) & set(fb) if fa[n] != fb[n])
 
 ok = not diff_json and not diff_tab
-md = ["# Gate 3 comparison", "", f"Main: {A}", f"Rerun: {B}", "",
+md = ["# Gate 3 comparison", "", f"Main: ~/{A.relative_to(Path.home())}", f"Rerun: ~/{B.relative_to(Path.home())}", "",
       f"- results.json leaves compared: {len(common)}; differing: {len(diff_json)}",
       f"- table files compared: {len(ta & tb)} ({n_cells} cells); differing cells/files: {len(diff_tab)}",
       f"- metadata cells ignored (whitelist below): {sum(meta_ignored.values())}",

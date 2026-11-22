@@ -120,6 +120,10 @@ def paragraphs(path):
     return pars
 
 
+# full reading notes (local, not in the repository) if present; otherwise the public notes with shortened passages
+NOTES_DIR = ROOT / "build" / "notes_full" if (ROOT / "build" / "notes_full").is_dir() else ROOT / "sources" / "notes"
+
+
 def main():
     errors, warns = [], []
     reg_path = ROOT / "sources" / "registry.csv"
@@ -131,7 +135,7 @@ def main():
     claims = {}
     for key in keep:
         r = registry[key]
-        note = ROOT / "sources" / "notes" / f"{key}.md"
+        note = NOTES_DIR / f"{key}.md"
         if not note.exists():
             errors.append(f"[NOT] {key}: okuma notu yok")
             continue
