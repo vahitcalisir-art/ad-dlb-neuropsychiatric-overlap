@@ -68,6 +68,11 @@ t["steiger_prevalence_change"] = ("did not change the set of removed instruments
 t["steiger_prevalence_ivw"] = ("so the IVW estimates were unchanged" if n == 0
                                else "and the IVW estimates on each retained set are given")
 
+n = get("mr_steiger_insomnia030.summary.n_changed")
+d = get("mr_steiger_insomnia030.summary.directions")
+t["steiger_insomnia030"] = (f"With the insomnia prevalence set to 0.30 instead of 0.10, the retained instruments and IVW estimates of all {d} insomnia directions were unchanged" if n == 0
+                            else f"With the insomnia prevalence set to 0.30 instead of 0.10, the retained instruments changed in {n} of {d} insomnia directions")
+
 n = get("coloc.summary.lava_primary_sig_fdr")
 t["coloc_condition"] = ("no primary locus–pair passed FDR correction in the main LAVA analysis" if n == 0
                         else f"{count(n, 'primary locus–pair', 'primary locus–pairs')} passed FDR correction in the main LAVA analysis")
@@ -77,7 +82,12 @@ t["coloc_condition"] = ("no primary locus–pair passed FDR correction in the ma
 raw = P.read_text(encoding="utf-8").rstrip()
 marker = ',\n  "text": {'
 if marker in raw:
-    raw = raw[:raw.index(marker)].rstrip() + "\n}"
+    # remove the existing block wherever it is: R's res_set appends new sections after it, so it may not be last
+    start = raw.index(marker)
+    end = raw.index("\n  }", start) + len("\n  }")
+    raw = raw[:start] + raw[end:]
+before = set(json.loads(raw))
+assert before == set(res) - {"text"}, "text block removal changed the set of top-level sections"
 assert raw.endswith("}")
 block = json.dumps(t, indent=2, ensure_ascii=False).replace("\n", "\n  ")
 new = raw[:-1].rstrip() + ',\n  "text": ' + block + "\n}\n"

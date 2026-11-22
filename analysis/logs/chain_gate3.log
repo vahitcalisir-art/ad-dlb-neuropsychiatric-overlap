@@ -5,3 +5,18 @@ BİTTİ 2026-11-21 19:22:47
 == 02_ldsc exit=0 Sat Nov 21 19:32:48 +03 2026  mem: 2764MB swap 0MB 
 2026-11-21 19:32:48 BİTTİ 
 == 03_lava_ukb start Sat Nov 21 19:32:48 +03 2026
+== 03_lava_ukb exit=0 Sun Nov 22 00:45:31 +03 2026  mem: 4298MB swap 51MB 
+2026-11-22 00:45:30 işlenen lokus: 2431  işlenemeyen: 42  hata: 0 
+2026-11-22 00:45:30 BİTTİ 
+== 03_lava_ukb_strandcheck start Sun Nov 22 00:45:31 +03 2026
+== 03_lava_ukb_strandcheck exit=0 Sun Nov 22 01:03:30 +03 2026  mem: 4287MB swap 57MB 
+2026-11-22 01:03:30 BİTTİ 
+== 03_lava_g1000 start Sun Nov 22 01:03:30 +03 2026
+== 03_lava_g1000 exit=0 Sun Nov 22 05:31:49 +03 2026  mem: 3972MB swap 463MB 
+2026-11-22 05:31:45 işlenen lokus: 2430  işlenemeyen: 43  hata: 0 
+2026-11-22 05:31:47 BİTTİ 
+== 03c_lava_integrity start Sun Nov 22 05:31:49 +03 2026
+== 03c_lava_integrity exit=0 Sun Nov 22 05:31:50 +03 2026  mem: 4037MB swap 463MB 
+2026-11-22 05:31:50 LAVA_INTEGRITY_OK 
+2026-11-22 05:31:50 BİTTİ 
+== 04_mr start Sun Nov 22 05:31:50 +03 2026

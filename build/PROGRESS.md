@@ -240,3 +240,12 @@ Not: Fig 2'deki * = FDR < 0,05 (FinnGen panelinde dört test içi BH); açıklam
 ### 2026-11-22 — style pass (pre-style-pass → post-style-pass)
 - Abstract → Discussion and captions rewritten sentence by sentence; audit after each section (only GATE3_RESULT remains).
 - build/style_pass_diff.md (old/new pairs, 174 changed pairs); independent check of 30 random pairs (seed 20261123): 28 PASS, 2 FAIL, both fixed (build/style_pass_check.md); one pre-existing citation mismatch (id 44) fixed.
+
+## 2026-11-22 morning — advisor items 1–6 (Gate 3 still running)
+- Data availability: repository URL + "A versioned archive with a DOI will be created on acceptance."
+- Insomnia 0.30 Steiger check (05d, deviation C10): identical instrument sets and IVW in 4/4 insomnia directions; Methods/Results sentences added. text_keys.py fixed (truncated sections appended after the "text" block).
+- Acknowledgments tool line from session logs: Claude Code 2.1.327–2.1.328, Claude Opus 5.5; Claude Haiku 5.5 for one web-page retrieval subagent.
+- Conclusion written (119 words).
+- STROBE-MR gaps closed: three IV assumptions (Methods; skrivankova c9), instrument table S11 and leave-one-out S12 (07c_instrument_table.R, stored values only).
+- tools/build_supplement.py: Supplementary_Tables.xlsx (S1–S12), Supplementary_File_S1_STROBE-MR.docx, TIFF figures; build/submission/submission_checklist.md. Package copied to d:\tugbadoc\frontiers_dementia\submission\.
+- Pending after Gate 3: compare, fill GATE3_RESULT; 07_figures.R overlap notes and FinnGen/"plan §8" figure labels.

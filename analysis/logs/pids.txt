@@ -35,3 +35,7 @@
 2026-11-21 19:32 03_lava.R ukb (gate3) PID 51249
 2026-11-21 19:39 05c_steiger_prevalence.R PID 54210
 2026-11-21 19:39 05c_steiger_prevalence.R (retry) PID 54256
+2026-11-22 00:45 03_lava.R ukb strandcheck (gate3) PID 90660
+2026-11-22 01:03 03_lava.R g1000 (gate3) PID 90970
+2026-11-22 05:31 03c_lava_integrity.R  (gate3) PID 96458
+2026-11-22 05:31 04_mr.R  (gate3) PID 96482

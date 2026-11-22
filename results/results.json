@@ -4594,6 +4594,69 @@
       "max_change_in_removed": "0"
     }
   },
+  "mr_steiger_insomnia030": {
+    "insomnia__ad.p10": {
+      "n_harmonised": "12",
+      "n_removed": "0",
+      "n_retained": "12",
+      "or_ivw": "0.95 (95% CI 0.81 to 1.12)",
+      "p_ivw": "0.58"
+    },
+    "insomnia__ad.p30": {
+      "n_harmonised": "12",
+      "n_removed": "0",
+      "n_retained": "12",
+      "or_ivw": "0.95 (95% CI 0.81 to 1.12)",
+      "p_ivw": "0.58"
+    },
+    "ad__insomnia.p10": {
+      "n_harmonised": "49",
+      "n_removed": "0",
+      "n_retained": "49",
+      "or_ivw": "0.98 (95% CI 0.95 to 1.00)",
+      "p_ivw": "0.090"
+    },
+    "ad__insomnia.p30": {
+      "n_harmonised": "49",
+      "n_removed": "0",
+      "n_retained": "49",
+      "or_ivw": "0.98 (95% CI 0.95 to 1.00)",
+      "p_ivw": "0.090"
+    },
+    "insomnia__dlb.p10": {
+      "n_harmonised": "12",
+      "n_removed": "4",
+      "n_retained": "8",
+      "or_ivw": "0.96 (95% CI 0.61 to 1.49)",
+      "p_ivw": "0.84"
+    },
+    "insomnia__dlb.p30": {
+      "n_harmonised": "12",
+      "n_removed": "4",
+      "n_retained": "8",
+      "or_ivw": "0.96 (95% CI 0.61 to 1.49)",
+      "p_ivw": "0.84"
+    },
+    "dlb__insomnia.p10": {
+      "n_harmonised": "3",
+      "n_removed": "0",
+      "n_retained": "3",
+      "or_ivw": "0.99 (95% CI 0.94 to 1.04)",
+      "p_ivw": "0.62"
+    },
+    "dlb__insomnia.p30": {
+      "n_harmonised": "3",
+      "n_removed": "0",
+      "n_retained": "3",
+      "or_ivw": "0.99 (95% CI 0.94 to 1.04)",
+      "p_ivw": "0.62"
+    },
+    "summary": {
+      "directions": "4",
+      "n_changed": "0",
+      "note": "descriptive; insomnia prevalence 0.30 (Watanabe 2022) instead of 0.10, other prevalences unchanged; IVW re-estimated on each retained set"
+    }
+  },
   "text": {
     "lava_ukb_fdr_primary": "none passed FDR correction",
     "lava_testable_ad_insomnia": "none",
@@ -4601,6 +4664,7 @@
     "strand_check_changed": "none changed sign or significance after the exclusion",
     "steiger_prevalence_change": "did not change the set of removed instruments in any DLB direction",
     "steiger_prevalence_ivw": "so the IVW estimates were unchanged",
+    "steiger_insomnia030": "With the insomnia prevalence set to 0.30 instead of 0.10, the retained instruments and IVW estimates of all 4 insomnia directions were unchanged",
     "coloc_condition": "no primary locus–pair passed FDR correction in the main LAVA analysis"
   }
 }

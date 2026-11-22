@@ -1,0 +1,32 @@
+2026-11-22 08:00:42 insomnia__ad reproduced; removed (0.10, 0.30): 0, 0 
+2026-11-22 08:02:09 ad__insomnia reproduced; removed (0.10, 0.30): 0, 0 
+2026-11-22 08:03:18 insomnia__dlb reproduced; removed (0.10, 0.30): 4, 4 
+2026-11-22 08:04:12 dlb__insomnia reproduced; removed (0.10, 0.30): 0, 0 
+              id insomnia_prev n_harmonised n_removed n_retained
+          <char>         <num>        <int>     <int>      <int>
+1:  insomnia__ad           0.1           12         0         12
+2:  insomnia__ad           0.3           12         0         12
+3:  ad__insomnia           0.1           49         0         49
+4:  ad__insomnia           0.3           49         0         49
+5: insomnia__dlb           0.1           12         4          8
+6: insomnia__dlb           0.3           12         4          8
+7: dlb__insomnia           0.1            3         0          3
+8: dlb__insomnia           0.3            3         0          3
+                        or_ci ivw_p
+                       <char> <num>
+1: 0.95 (95% CI 0.81 to 1.12)  0.58
+2: 0.95 (95% CI 0.81 to 1.12)  0.58
+3: 0.98 (95% CI 0.95 to 1.00)  0.09
+4: 0.98 (95% CI 0.95 to 1.00)  0.09
+5: 0.96 (95% CI 0.61 to 1.49)  0.84
+6: 0.96 (95% CI 0.61 to 1.49)  0.84
+7: 0.99 (95% CI 0.94 to 1.04)  0.62
+8: 0.99 (95% CI 0.94 to 1.04)  0.62
+              id same_set
+          <char>   <lgcl>
+1:  insomnia__ad     TRUE
+2:  ad__insomnia     TRUE
+3: insomnia__dlb     TRUE
+4: dlb__insomnia     TRUE
+[1] TRUE
+2026-11-22 08:04:13 BİTTİ 
