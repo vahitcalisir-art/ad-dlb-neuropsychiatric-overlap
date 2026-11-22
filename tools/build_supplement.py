@@ -211,9 +211,9 @@ LOC = {
          "quality control; Mendelian randomization (instrument selection, clumping, F statistic, Steiger filtering); "
          "Supplementary Table S2. d) Data sources (case definitions of each GWAS, FinnGen register-based definition); "
          "Table 1. e) Ethics statement.",
-    "5": "Mendelian randomization, first paragraph (relevance, independence and exclusion restriction). Assumptions of "
-         "the sensitivity estimators are referenced to the method publications (Mendelian randomization, third "
-         "paragraph); partly reported.",
+    "5": "Mendelian randomization, first paragraph (relevance, independence and exclusion restriction) and third "
+         "paragraph (InSIDE for MR-Egger; at least half of the weight from valid instruments for the weighted "
+         "median; largest weights from valid instruments for the weighted mode).",
     "6": "a) Mendelian randomization (effects per unit increase in the log odds of genetic liability; MRlap on the "
          "standardized scale). b) Mendelian randomization (thresholds, clumping, F > 10, Steiger filtering). c) "
          "Mendelian randomization (multiplicative random-effects IVW; Wald ratio for a single instrument); covariates "
@@ -228,7 +228,7 @@ LOC = {
          "Supplementary Table S1.",
     "10": "a) Table 1 (cases and controls of each GWAS); Supplementary Table S2 (SNPs at each quality-control step); "
           "Table 2 (instruments at each stage). b) Not applicable beyond Table 1 (summary statistics only). c) Not "
-          "reported; heterogeneity across contributing cohorts is reported in the source GWAS. d) i. Data sources and "
+          "applicable: cohort-level estimates are not available from summary statistics. d) i. Data sources and "
           "Discussion (all samples of European ancestry). ii. Data sources (UK Biobank overlap by GWAS); LDSC "
           "cross-trait intercepts as an empirical index of overlap (Genome-wide genetic correlation); MRlap; the exact "
           "number of overlapping individuals is not available from summary data.",
@@ -244,10 +244,12 @@ LOC = {
     "15": "Discussion, limitations paragraph (ancestry, sample overlap and its direction of bias, proxy cases, broad "
           "phenotypes, lifetime liability, selective survival, weak instruments and low power).",
     "16": "a) Discussion; Conclusion. b) Discussion (prodromal symptoms; APOE and proxy-case mechanisms; estimates "
-          "interpreted as effects of genetic liability); gene-environment equivalence not discussed. c) Discussion "
+          "interpreted as effects of genetic liability); gene-environment equivalence: Discussion, limitations paragraph. c) Discussion "
           "(interpretation of neuropsychiatric symptoms); no intervention effect sizes are inferred.",
     "17": "Discussion, limitations paragraph: (a) European ancestry only; (b) lifetime genetic liability versus late-life "
-          "symptoms; (c) not discussed.",
+          "symptoms; (c) not discussed: the exposures are binary disorders analysed as genetic liability, and the summary-level "
+          "estimators used here estimate a single effect per unit log odds, which does not allow comparison across "
+          "levels of exposure.",
     "18": "Funding statement. Funding of the source studies is given in their publications.",
     "19": "Data availability statement (source of each GWAS; code and summary results repository).",
     "20": "Conflict of interest statement.",

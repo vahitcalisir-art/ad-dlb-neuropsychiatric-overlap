@@ -1,9 +1,9 @@
 # Denetim raporu
 
 - Atıflanan benzersiz kaynak: 38
-- Kullanılan iddia sayısı: 146
-- Denetlenen cümle: 269
-- Kelime (gövde, atıf/yer tutucu hariç): 6094
+- Kullanılan iddia sayısı: 150
+- Denetlenen cümle: 272
+- Kelime (gövde, atıf/yer tutucu hariç): 6174
 - HATA: 2
 - UYARI: 1
 

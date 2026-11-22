@@ -16,7 +16,7 @@ Build: 2026-11-22. Status: **not ready to submit** until the Gate 3 items below 
 - [x] audit_manuscript.py: 2 errors, both the `[GATE3_RESULT]` placeholder (Methods, Discussion); 1 style warning (5 sentences start with "In the"). No other placeholder remains.
 - [x] verify_refs.py: 38/38 references verified (Crossref / software record). Cited set = KEEP set = 38.
 - [x] check_docx.py on Manuscript.docx and Supplementary_File_S1_STROBE-MR.docx: clean.
-- [x] Word count (main text): 6,465 (limit 12,000). Figures 4, tables 2.
+- [x] Word count (main text): see title page (limit 12,000). Figures 4, tables 2.
 - [x] Abstract: one paragraph, no citations, figure or table references (Frontiers sets no word limit for this article type on the archived pages).
 - [x] Keywords: 8 (Frontiers recommends 5–8).
 - [x] Review type single-blind: no anonymized file needed.
@@ -31,6 +31,6 @@ Build: 2026-11-22. Status: **not ready to submit** until the Gate 3 items below 
    - Figure 1 box 5 and Figure 4 panel C title "Independent AD sample" → "register-based AD GWAS without proxy cases (FinnGen)" (PTSD GWAS includes FinnGen, so "independent" is inaccurate).
    - Figure 4 header "plan §8 class" → plain wording ("classification under the pre-specified interpretation rule").
    - Then `tools/build_supplement.py` to regenerate the TIFFs.
-3. **Investigator**: read Supplementary File S1 "Where reported" column; items marked partly reported or not discussed (5, 10c, 16b gene–environment equivalence, 17c) are stated honestly and may be accepted as they are or addressed in text.
+3. **Investigator**: read Supplementary File S1 "Where reported" column; items marked partly reported or not discussed resolved 2026-11-22: item 5 and 16b added to the text; 10c not applicable; 17c not discussed, with reason.
 4. **Submission system** (entered by the author, not in the files): author name, affiliation, ORCID 0000-0001-6575-8988, corresponding e-mail, suggested reviewers if requested, Research Topic selection if applicable.
 5. **Repository**: private now; make public (or archive with a DOI) at acceptance, as stated in the Data availability statement.
